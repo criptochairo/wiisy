@@ -1,0 +1,94 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 2em;
+}
+
+h4 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.section-container {
+    width: 40em;
+    margin: 5em auto;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section-container img {
+    width: 17em;
+    height: auto;
+    margin: 1em auto;
+    display: flex;
+    align-self: center;
+    border-radius: 15px;
+}
+
+.section-container h2 {
+    display: flex;
+    align-self: center;
+    font-size: 1.35em;
+}
+
+.section-container p {
+    font-family: montagu-slab;
+    text-align: center;
+    font-size: 1em;
+    margin-top: 0;
+    margin-right: 4%;
+    margin-left: 4%;
+}
+
+@media only screen and (max-width: 1024px) {
+
+    .section-container img {
+      width: 22em;
+    }
+  
+  }
+
+@media only screen and (max-width: 425px) {
+
+    .section-container {
+    width: 90%;
+    border: none;
+    margin: 2em auto;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+
+    .section-container img {
+        width: 18em;
+      }
+    
+    #header h1 {
+        margin-bottom: 0;
+    }
+
+    .section-container {
+        margin: 0.75 auto;
+        font-size: 120%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+
+    .section-container img {
+        width: 15em;
+      }
+    
+    #header h1 {
+        margin-bottom: 0;
+    }
+
+    .section-container {
+        margin: 0.75 auto;
+        font-size: 120%;
+    }
+}

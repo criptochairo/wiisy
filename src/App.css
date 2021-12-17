@@ -2,37 +2,191 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.overlay {
+  background-image: url(./Resources/Pics/leaves.JPG);
+  position: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  top: 0;
+  display: flex;
+  justify-content: space-around;
+  height: 8em;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  display: flex;
+  justify-content: space-around;
+  height: 8em;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.nav-links {
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+  font-size: 120%;
+  flex-wrap: wrap;
+}
+
+nav img {
+  display: flex;
+  width: auto;
+  height: 5.5em;
+  border-radius: 15px;
+  margin-top: 15%;
+}
+
+nav a {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: white;
+  padding: 0 0.5vh;
+  list-style: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-inline-start: 0;
+}
+
+#header {
+  border: none;
+}
+
+#content-page {
+  margin-top: 12em;
+  margin-bottom: 8em;
+  width: 100%;
+}
+
+#contact {
+  text-align: center;
+}
+
+#contact a {
+  text-decoration: none;
+}
+
+.hector {
+  position: relative;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  z-index: -1;
+  padding-top: 9em;
+  margin-bottom: 10em;
 }
 
-.App-link {
-  color: #61dafb;
+.hector img {
+  width: 60em;
+  height: auto;
+  margin-top: -5em;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.hector p {
+  text-align: center;
+  color: black;
+  margin-bottom: 4.5em;
+  font-family: montagu-slab;
+  font-size: 120%;
+}
+
+.hector a {
+  color: black;
+  text-decoration: underline;
+  text-align: left;
+  margin-inline-start: 0;
+  list-style-type: none;
+  pointer-events: all;
+}
+
+.blog-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+}
+
+.blog-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  min-width: 50%;
+}
+
+.blog-container img {
+  display: flex;
+  width: 7em;
+  height: auto;
+}
+
+.blog-container h2 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-bottom: 4em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 120%;
+}
+
+
+@media only screen and (max-width: 1440px) {
+
+  .nav-links {
+    width: 40%;
   }
-  to {
-    transform: rotate(360deg);
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+  .nav-links {
+    width: 50%;
   }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+  .nav-links {
+    width: 70%;
+  }
+
+}
+
+@media only screen and (max-width: 425px) {
+
+  .nav-links {
+    width: 80%;
+  }
+
+  #content-page {
+    margin-top: 7em;
+  }
+
+}
+
+@media only screen and (max-width: 320px) {
+
+  .nav-links {
+    display: none;
+  }
+
+  #content-page {
+    margin-top: 7em;
+  }
+
 }

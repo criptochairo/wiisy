@@ -1,0 +1,17 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 2em;
+}
+
+
+.text-container {
+    width: 50em;
+    margin: 0 auto;
+    margin-top: 8em;
+    margin-bottom: 7.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+

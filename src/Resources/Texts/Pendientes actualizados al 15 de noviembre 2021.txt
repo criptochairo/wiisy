@@ -1,0 +1,21 @@
+3. Cambiar font de secciones de página principal (listo, falta commit)
+4. Hacer que títulos sean más grandes que el texto en secciones de página principal. (listo)
+5. Cambiar About me a About Me (listo, falta commit)
+6. Arreglar centrado de imágenes en secciones de página principal (creo que listo, buscar replicar en celular de Carlos)
+7. Poner logo del lado izquierdo en el header. (listo)	
+8. Quitar menú dropdown y hacer una barra de navegación con las 4 opciones de la pantalla principal (listo, falta hacer responsivo)
+y ponerles font Georgia (la de About Me)
+9. Que la sección de Blog tenga 8 botones para accesar a las 8 secciones - una sección por página.  
+Únicamente botón con título, sin imagen. Que diga Blog - Título de la sección para ubicar que están
+en blog. Sin números. Probar con logos gratuitos.
+10. Para secciones, el título debe ser el la misma fuente que Home y el cuerpo debe tener Montagu Slab
+11. Alinear texto de secciones a la izquierda. 
+12. Cambiar Contact me a Contact Me (listo)
+13. Cambiar imagen de Community Board a una que no parezca monstruo. Más alegre y welcome-y
+14. Dessubrayar el mail en contact-me (listo, falta commit)
+15. Cambiar texto de suscribe en todas las secciones secundarias
+16. Probar banderitas en vez de ENG y ESP
+17. En About Me, después del WE LOVE YOU, poner un href que lleve a otro texto. 
+18. En la sección de Blog, ir haciendo el espacio para los posts. 
+19. Crear canal de YouTube para Cookies.
+20. En The What if I Say Yes Person of the Month poner WIISY en itálicas
