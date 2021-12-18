@@ -15,10 +15,12 @@ import Mom from './Components/BlogSections/Mom';
 import MomentOTW from './Components/BlogSections/MomentOTW';
 import WIISYPerson from './Components/BlogSections/WIISYPerson';
 import Hector from './Components/BlogSections/Hector';
+import ScrollToTop from './Components/ScrollToTop';
 
 const RouteSwitch = () => {
   return (
     <Router>
+      <ScrollToTop />
       <Nav />
       <Footer />
       <Routes>
