@@ -1,16 +1,15 @@
 import React from "react";
-import './About.css';
 import '../App.css';
 
 function About() {
     return (
-        <div className="aboutme-page">
+        <div>
 
             <div className="text-container">
 
             <h1>About Me</h1> <br />
 
-                <p class="content-text">
+                <p className="content-text">
 
 
                 My name is Lucía Cárdenas.<br /><br />

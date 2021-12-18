@@ -1,7 +1,3 @@
-html {
-  width: 100%;
-  margin: 0 auto;
-}
 
 .App {
   text-align: center;
@@ -82,6 +78,7 @@ ul {
 
 #contact a {
   text-decoration: none;
+  word-break: break-all;
 }
 
 .hector {
@@ -95,21 +92,12 @@ ul {
   margin-bottom: 10em;
 }
 
-.hector img {
-  width: 60em;
+.text-container .hector img {
+  width: 100%;
   height: auto;
   margin-top: -1.5em;
 }
 
-
-.hector a {
-  color: black;
-  text-decoration: underline;
-  text-align: left;
-  margin-inline-start: 0;
-  list-style-type: none;
-  pointer-events: all;
-}
 
 .blog-list {
   display: flex;
@@ -180,7 +168,6 @@ ul {
   #content-page {
     margin-top: 7em;
   }
-
 }
 
 @media only screen and (max-width: 320px) {

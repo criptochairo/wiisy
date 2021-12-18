@@ -4,19 +4,19 @@
 6. Arreglar centrado de imágenes en secciones de página principal (creo que listo, buscar replicar en celular de Carlos)
 7. Poner logo del lado izquierdo en el header. (listo)	
 8. Quitar menú dropdown y hacer una barra de navegación con las 4 opciones de la pantalla principal (listo, falta hacer responsivo)
-y ponerles font Georgia (la de About Me)z
-9. Que la sección de Blog tenga 8 botones para accesar a las 8 secciones - una sección por página.  
+y ponerles font Georgia (la de About Me) (listo)
+9. Que la sección de Blog tenga 8 botones para accesar a las 8 secciones - una sección por página.  (listo)
 Únicamente botón con título, sin imagen. Que diga Blog - Título de la sección para ubicar que están
-en blog. Sin números. Probar con logos gratuitos.
-10. Para secciones, el título debe ser el la misma fuente que Home y el cuerpo debe tener Montagu Slab
-11. Alinear texto de secciones a la izquierda. 
+en blog. Sin números. Probar con logos gratuitos. (listo)
+10. Para secciones, el título debe ser el la misma fuente que Home y el cuerpo debe tener Montagu Slab (listo)
+11. Alinear texto de secciones a la izquierda. (listo)
 12. Cambiar Contact me a Contact Me (listo)
 13. Cambiar imagen de Community Board a una que no parezca monstruo. Más alegre y welcome-y (listo)
 14. Dessubrayar el mail en contact-me (listo, falta commit)
 15. Cambiar texto de suscribe en todas las secciones secundarias (falta agregar form)
 16. Probar banderitas en vez de ENG y ESP (falta hacer componentes en esp)
-17. En About Me, después del WE LOVE YOU, poner un href que lleve al PDF.
-18. En la sección de Blog, ir haciendo el espacio para los posts. 
+17. En About Me, después del WE LOVE YOU, poner un href que lleve al PDF. (cancelado)
+18. En la sección de Blog, ir haciendo el espacio para los posts. (listo)
 19. Crear canal de YouTube para Cookies. 
 20. En The What if I Say Yes Person of the Month poner WIISY en itálicas (listo)
 21. Terminar de añadir textos a todos los paths (listo)
@@ -26,16 +26,20 @@ en blog. Sin números. Probar con logos gratuitos.
 25. Añadir íconos a secciones de blog. (listo)
 26. Subir a Github y desplegar con Netlify (listo)
 27. Añadir textos de Héctor (listo)
-28. Checar últimos cambios de textos 18 de noviembre en whats.
+28. Checar últimos cambios de textos 18 de noviembre en whats.(listo)
 29. Reañadir textos en español y banderas.
 30. Arreglar diseño responsivo en celulares con media queries.
 31. Investigar y agregar animaciones.
 32. Cambiar títulos a sans-serif.
 33. Añadir logo para pestaña.
 34. Añadir botones de back to home y back to blog.
-35. Añadir WIISY como sección de Home y poner logo de foto. Quitarlo del blog. Agregar foto de Héctor, pedírsela a mi padre. 
-36. Poner logo en el centro de la barra superior y poner la barra de navegación abajo. La barra de navegación tiene que ir al centro entonces.
-37. Añadir elemento What if I Say Yes a la barra de navegación.
-38. Agrandar textos en secciones de Home.
+35. Añadir WIISY como sección de Home y poner logo de foto. Quitarlo del blog. Agregar foto de Héctor, 
+pedírsela a mi padre. 
+36. Poner logo en el centro de la barra superior y poner la barra de navegación abajo. 
+La barra de navegación tiene que ir al centro entonces. (listo)
+37. Añadir elemento What if I Say Yes a la barra de navegación. (listo)
+38. Agrandar textos en secciones de Home. (listo)
 39. Limitar footer a Home. Quitar de las demás secciones. 
+40. Investigar cómo regresar hasta arriba de la página cuando se renderea un componente. 
+41. Arreglar diseño responsivo en celulares. Pantallas que no son home no tienen las dimensiones correctas.
 
