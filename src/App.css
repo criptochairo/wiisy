@@ -157,7 +157,7 @@ ul {
 @media only screen and (max-width: 768px) {
 
   .nav-links {
-    width: 70%;
+    width: 55%;
   }
 
 }
@@ -165,7 +165,11 @@ ul {
 @media only screen and (max-width: 425px) {
 
   .nav-links {
-    width: 80%;
+    display: none;
+  }
+
+  #logo-2 {
+    display: none;
   }
 
   #content-page {

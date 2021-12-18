@@ -15,7 +15,7 @@ function Nav() {
                 <Link style={{ color: 'black'}} to="/community-board"><li>· Community Board</li></Link>
                 <Link style={{ color: 'black'}} to="/contact-me"><li>· Contact Me</li></Link>
             </ul>
-        <Link to="/" id="logo"><img src={logo} alt="Logo" /></Link>
+        <Link to="/" id="logo-2"><img src={logo} alt="Logo" /></Link>
         </nav>
         </div>
     )

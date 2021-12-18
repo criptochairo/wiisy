@@ -79,13 +79,39 @@ h4 {
   
   }
 
+@media only screen and (max-width: 768px) {
+
+    .content-text {
+        width: 80%;
+    }
+
+    .hector img {
+        width: 50em;
+    }
+
+}
+
 @media only screen and (max-width: 425px) {
+    
+    html{
+        width: 100%;
+    }
 
     .section-container {
     width: 90%;
     border: none;
     margin: 2em auto;
     }
+
+    .content-text {
+        width: 90%;
+        font-size: 2em;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
 }
 
 @media only screen and (max-width: 375px) {
