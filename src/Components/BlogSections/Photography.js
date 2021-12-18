@@ -9,11 +9,11 @@ function Photography() {
 
                 <p class="content-text">
 
-                On December of 2020 I started taking photographs during my daily walks outside. It was my way of processing my stress after several months of being at home because of the pandemic. Taking photos made me observe more closely what nature has to offer. I started seeing in a way I hadn't done before. I was taking my time to breath, process and enjoy life by looking at and being with nature.<br /><br />
+                On December 2020, I <b>started taking photographs</b> during my daily walks outside. It was my way of processing my stress after several months at home because of the pandemic. Taking photos made me <b>observe</b> more closely what nature has to offer. I started <b>seeing</b> in a way I hadn't before. I took my time to breathe, process, and enjoy life by looking at and being with nature.<br /><br />
 
-                And then one day I thought, what if I start sharing my photos with the people I love? And not only that. I wanted to create a playful experience and so I decided to send my photos with a special caption.
+                And then one day, I thought, what if I start sharing my photos with the people I love? And not only that. I wanted to create a playful experience, so I shared my pictures with a special caption.
                 <br /><br />
-                In this blog you will see what I have been seeing since that time and will be able to read the captions I came up with. 
+                In this blog, you will see what I have seen since then and read the captions I came up with. 
                 <br /><br />
                 I hope to inspire you to start seeing your world from a different lens… one that is more attentive, patient, loving and understanding. 
                 <br /><br />
