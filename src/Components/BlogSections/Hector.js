@@ -4,6 +4,7 @@ import second from '../../Resources/Texts/hector_page-0002.jpg';
 import third from '../../Resources/Texts/hector_page-0003.jpg'; 
 import fourth from '../../Resources/Texts/hector_page-0004.jpg'; 
 import logo from '../../Resources/logo-final.jpeg'
+import hector from '../../Resources/Pics/hector.jpg'
 
 function Hector() {
     return (
@@ -18,6 +19,7 @@ function Hector() {
             <img src={second} alt="second page" />
             <img src={third} alt="third page" />
             <img src={fourth} alt="fourth page" />
+            <img src={hector} alt="hector" />
 
             </div>
         </div>
