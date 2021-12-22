@@ -95,7 +95,7 @@ ul {
 .text-container .hector img {
   width: 100%;
   height: auto;
-  margin-top: -1.5em;
+  margin-top: 1.5em;
 }
 
 
@@ -153,6 +153,13 @@ ul {
     width: 55%;
   }
 
+  .text-container .hector img {
+    width: 40em;
+    height: auto;
+    margin-top: 1.5em;
+  }
+  
+
 }
 
 @media only screen and (max-width: 425px) {
@@ -168,9 +175,20 @@ ul {
   #content-page {
     margin-top: 7em;
   }
+
+  .text-container .hector img {
+    width: 25em;
+    height: auto;
+    margin-top: 1.5em;
+  }
+
+  .text-container {
+    font-size: 80%;
+  }
+  
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 375px) {
 
   .nav-links {
     display: none;
@@ -178,6 +196,22 @@ ul {
 
   #content-page {
     margin-top: 7em;
+  }
+
+  .text-container .hector img {
+    width: 20em;
+    height: auto;
+    margin-top: 1.5em;
+  }
+
+}
+
+@media only screen and (max-width: 320px) {
+
+  .text-container .hector img {
+    width: 18em;
+    height: auto;
+    margin-top: 1.5em;
   }
 
 }
