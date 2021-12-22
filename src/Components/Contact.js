@@ -1,6 +1,6 @@
 import React from "react";
 import '../App.css';
-import contactimg from '../Resources/Pics/54.JPEG';
+import contactimg from '../Resources/Pics/181.JPEG';
 
 function Contact() {
     return (

@@ -16,7 +16,7 @@ function Book() {
             <br /><br />
             Many years ago, Jorge found in painting a way to fall in love again with life and with his being after having gone through harrowing moments. And since then, he has created works of art that make those who see them fall in love with life.
             <br /><br />
-            And if that wasn't enough, a few years ago, he created his own website to promote Mexican artists (you must visit <a href="www.pintoresmexicanos.com">www.pintoresmexicanos.com</a> to see what I'm talking about ... It's a beauty!)
+            And if that wasn't enough, a few years ago, he created his own website to promote Mexican artists (you must visit <a href="https://www.pintoresmexicanos.com/">www.pintoresmexicanos.com</a> to see what I'm talking about ... It's a beauty!)
             <br /><br />
             Well, our idea is to choose his best 50 works of art (painting, drawing and sculpture) and combine them with my best 50 photographs.
             <br /><br />

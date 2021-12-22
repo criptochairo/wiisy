@@ -18,7 +18,7 @@ function Sister() {
             <br /><br />
             When I have had difficult moments, it is she who I consult.
             <br /><br />
-            And just as there is the famous <b><i>Dear Abby</i></b> column (<a href="https://en.wikipedia.org/wiki/Dear_Abby">Dear Abby - Wikipedia</a>), I want to create a similar section here, but with my sister being the one who gives advice and guides readers, just as she has advised and guided me.
+            And just as there is the famous <b><i>Dear Abby</i></b> column (<a href="https://en.wikipedia.org/wiki/Dear_Abby" target="_blank" rel="noreferrer" >Dear Abby - Wikipedia</a>), I want to create a similar section here, but with my sister being the one who gives advice and guides readers, just as she has advised and guided me.
             <br /><br />
             This space is intended to be fun while we learn and consider a new perspective.
             <br /><br />
