@@ -1,10 +1,11 @@
 import React from "react";
+import Microphone from '../../Resources/Icons/microphone.png';
 
 function Podcast() {
     return (
         <div className="aboutme-page">
-
-            <div className="text-container"> 
+            <div className="text-container">
+            <img src={Microphone} alt="wiisy-logo" id="blog-img" /> 
             <h1>My Podcast</h1><br />
 
                 <p class="content-text">

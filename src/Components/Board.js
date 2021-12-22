@@ -1,9 +1,11 @@
 import React from "react";
 import '../App.css';
+import communityimg from '../Resources/Pics/95.JPEG';
 
 function Board() {
     return (
         <div className="text-container">
+            <img src={communityimg} alt="wiisy-logo" id="header-img" />
             <h1>Community Board</h1><br />
 
             <p className="content-text">

@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import './Blog.css';
+import blogimg from '../Resources/Pics/136.JPG';
 import Social from '../Resources/Icons/camera.png';
 import Microphone from '../Resources/Icons/microphone.png';
 import Book from '../Resources/Icons/book.png';
@@ -13,8 +14,9 @@ import Prize from '../Resources/Icons/wreath.png';
 function Blog() {
     return (
         <div className="text-container"> 
+            <img src={blogimg} alt="wiisy" id="header-img" />
             <h1>Blog</h1>
-
+            
             <p className="content-text">After going through the <b><i>What if I Say Yes</i></b> process, I write about my most recent projects.<br /><br />
             This is my space to inspire you to create your own space after saying <u><b><i>yes</i></b></u> to your creative soul.<br /><br /><br /></p>
             <ul className="blog-list">

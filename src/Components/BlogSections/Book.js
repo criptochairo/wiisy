@@ -1,10 +1,12 @@
 import React from "react";
+import bookimg from '../../Resources/Icons/book.png';
 
 function Book() {
     return (
         <div className="aboutme-page">
 
         <div className="text-container"> 
+            <img src={bookimg} alt="wiisy-logo" id="blog-img" /> 
             <h1>Book With my Twin Brother</h1> <br />
 
             <p className="content-text">

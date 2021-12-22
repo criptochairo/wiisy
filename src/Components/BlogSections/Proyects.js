@@ -1,10 +1,12 @@
 import React from "react";
+import Mom from '../../Resources/Icons/motherhood.png';
 
 function Proyects() {
     return (
         <div className="aboutme-page">
 
             <div className="text-container"> 
+            <img src={Mom} alt="wiisy-logo" id="blog-img" /> 
             <h1>Projects with my Daughter</h1> <br />
 
             <p class="content-text">

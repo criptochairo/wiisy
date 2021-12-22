@@ -1,12 +1,13 @@
 import React from "react";
 import '../App.css';
+import aboutmeimg from '../Resources/Pics/210.JPEG'
 
 function About() {
     return (
         <div>
 
             <div className="text-container">
-
+            <img src={aboutmeimg} alt="wiisy-logo" id="header-img" />
             <h1>About Me</h1> <br />
 
                 <p className="content-text">

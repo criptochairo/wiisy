@@ -1,10 +1,12 @@
 import React from "react";
+import Social from '../../Resources/Icons/camera.png';
 
 function Photography() {
     return (
         <div className="aboutme-page">
 
             <div className="text-container"> 
+            <img src={Social} alt="wiisy-logo" id="blog-img" />
             <h1>My Photography</h1> <br />
 
                 <p class="content-text">

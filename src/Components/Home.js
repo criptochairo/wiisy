@@ -43,7 +43,7 @@ function Home() {
 
             <div className="section-container">
                 <Link to="/contact-me"><img src={contactimg} alt="contact-me" /></Link>
-                <Link style={{ color: 'black'}} to="/blog"><h2>Contact Me</h2></Link>
+                <Link style={{ color: 'black'}} to="/contact-me"><h2>Contact Me</h2></Link>
                 <p className="container-text">Would you please send me your questions and/or comments?</p>
             </div>
 

@@ -1,10 +1,12 @@
 import React from "react";
+import Week from '../../Resources/Icons/week.png';
 
 function MomentOTW() {
     return (
         <div className="aboutme-page">
 
             <div className="text-container"> 
+            <img src={Week} alt="wiisy-logo" id="blog-img" /> 
             <h1>Moment of the Week</h1> <br />
 
 

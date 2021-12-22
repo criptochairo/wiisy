@@ -154,7 +154,7 @@ ul {
   }
 
   .text-container .hector img {
-    width: 40em;
+    width: 45em;
     height: auto;
     margin-top: 1.5em;
   }
@@ -173,11 +173,15 @@ ul {
   }
 
   #content-page {
-    margin-top: 7em;
+    margin-top: 6em;
+  }
+
+  h1 {
+    margin-bottom: 0;
   }
 
   .text-container .hector img {
-    width: 25em;
+    width: 30em;
     height: auto;
     margin-top: 1.5em;
   }
@@ -185,7 +189,7 @@ ul {
   .text-container {
     font-size: 80%;
   }
-  
+
 }
 
 @media only screen and (max-width: 375px) {
@@ -199,7 +203,7 @@ ul {
   }
 
   .text-container .hector img {
-    width: 20em;
+    width: 27em;
     height: auto;
     margin-top: 1.5em;
   }
@@ -209,7 +213,7 @@ ul {
 @media only screen and (max-width: 320px) {
 
   .text-container .hector img {
-    width: 18em;
+    width: 22.5em;
     height: auto;
     margin-top: 1.5em;
   }

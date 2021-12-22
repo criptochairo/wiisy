@@ -1,10 +1,12 @@
 import React from "react";
+import Sisterimg from '../../Resources/Icons/twins.png';
 
 function Sister() {
     return (
         <div className="aboutme-page">
 
             <div className="text-container"> 
+            <img src={Sisterimg} alt="wiisy-logo" id="blog-img" /> 
             <h1>Sister's Advice</h1> <br />
 
             <p class="content-text">

@@ -1,10 +1,12 @@
 import React from "react";
+import Prize from '../../Resources/Icons/wreath.png';
 
 function WIISYPerson() {
     return (
         <div className="aboutme-page">
 
             <div className="text-container"> 
+            <img src={Prize} alt="wiisy-logo" id="blog-img" /> 
             <h1>The <i>What If I Say Yes</i> Person of the Month</h1> <br /><br />
 
             <p class="content-text">

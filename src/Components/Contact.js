@@ -1,9 +1,11 @@
 import React from "react";
 import '../App.css';
+import contactimg from '../Resources/Pics/54.JPEG';
 
 function Contact() {
     return (
         <div className="text-container">
+            <img src={contactimg} alt="wiisy-logo" id="header-img" />
             <h1>Contact Me</h1><br />
 
             <p className="content-text" id="contact">

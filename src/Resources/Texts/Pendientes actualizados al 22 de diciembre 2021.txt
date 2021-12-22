@@ -27,19 +27,24 @@ en blog. Sin números. Probar con logos gratuitos. (listo)
 26. Subir a Github y desplegar con Netlify (listo)
 27. Añadir textos de Héctor (listo)
 28. Checar últimos cambios de textos 18 de noviembre en whats.(listo)
-29. Reañadir textos en español y banderas.
-30. Arreglar diseño responsivo en celulares con media queries.
-31. Investigar y agregar animaciones.
-32. Cambiar títulos a sans-serif.
-33. Añadir logo para pestaña.
+29. Reañadir textos en español y banderas. (falta que Lucy me mande textos finales)
+30. Arreglar diseño responsivo en celulares con media queries. (listo)
+31. Investigar y agregar animaciones. 
+32. Cambiar títulos a sans-serif. (listo)
+33. Añadir logo para pestaña. (listo)
 34. Añadir botones de back to home y back to blog.
 35. Añadir WIISY como sección de Home y poner logo de foto. Quitarlo del blog. Agregar foto de Héctor, 
 pedírsela a mi padre. 
-36. Poner logo en el centro de la barra superior y poner la barra de navegación abajo. 
+36. Poner logo en el centro de la barra superior y poner la barra de navegación abajo. (listo)
 La barra de navegación tiene que ir al centro entonces. (listo)
 37. Añadir elemento What if I Say Yes a la barra de navegación. (listo)
 38. Agrandar textos en secciones de Home. (listo)
 39. Limitar footer a Home. Quitar de las demás secciones. 
-40. Investigar cómo regresar hasta arriba de la página cuando se renderea un componente. 
-41. Arreglar diseño responsivo en celulares. Pantallas que no son home no tienen las dimensiones correctas.
+40. Investigar cómo regresar hasta arriba de la página cuando se renderea un componente. (listo)
+41. Arreglar diseño responsivo en celulares. Pantallas que no son home no tienen las dimensiones correctas. (listo)
+42. Cortar escaneos para dejar menos espacio entre fotos. (listo)
+43. Encoger texto en secciones de la página que no son Home (listo)
+44. Iniciar cada sección con la imagen o logo a la que le picas para entrar (listo)
+45. Implementar botones de navegación en secciones de Blog - siguiente sección, anterior sección, back to home y back to top
+46. 
 
