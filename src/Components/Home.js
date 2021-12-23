@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import './Home.css';
 import aboutmeimg from '../Resources/Pics/210.JPEG';
 import blogimg from '../Resources/Pics/136.JPG';
-import communityimg from '../Resources/Pics/95.JPEG';
+import communityimg from '../Resources/Pics/544.JPEG';
 import contactimg from '../Resources/Pics/181.JPEG';
 import logo from '../Resources/logo-final.jpeg';
 

@@ -1,6 +1,6 @@
 import React from "react";
 import '../App.css';
-import communityimg from '../Resources/Pics/95.JPEG';
+import communityimg from '../Resources/Pics/544.JPEG';
 
 function Board() {
     return (
