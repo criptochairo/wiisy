@@ -17,39 +17,39 @@ function About() {
 
                 I am a daughter, sister, wife, mom, aunt, niece, goddaughter, friend, <i>comadre</i>, partner, guide, supporter, coach, virtual cheerleader, Zoom session organizer, archivist at heart, writer, podcaster and much more.<br /><br />
 
-                I have a bachelor's degree in Education from UNAM, a master's degree in Anthropology from the New School for Social Research, and a Certificate in Translation from English into Spanish from the now called University of Texas Rio Grande Valley (UTRGV).<br /><br />
+                I have a bachelor's degree in Education (pedagogy) from <i>The National Autonomous University of Mexico</i> (UNAM), a master's degree in Anthropology from <i>The New School for Social Research</i>, and a Certificate in Translation (English into Spanish) from the <i>University of Texas, Brownsville</i> (now the <i>University of Texas, Rio Grande Valley</i>).<br /><br />
 
-                But most importantly, I am the intellectual creator of this website, honoring the philosophy that defined my dear brother's life, Héctor Cárdenas. A philosophy that speaks of possibilities, growth, love of life, and the use of <b><u>yes</u></b> constructively and creatively.<br /><br />
+                But most importantly, I am the intellectual creator of this website, honoring the philosophy that defined my dear brother Héctor Cárdenas' life. A philosophy that speaks of possibilities, growth, love of life, and the use of the word <b><u>yes</u></b> in constructive and creative ways.<br /><br />
 
-                <b>I welcome you to this sanctuary of possibilities!</b><br /><br />
+                <b>I welcome you to this website, a sanctuary of possibilities guided by <i>yes!</i></b><br /><br />
 
                 Let me tell you why I created this space ...<br /><br />
 
                 Héctor was the one who taught me to take risks and to throw myself into doing things that scared me but that at the same time I wanted to do. <br /><br />
 
-                Thanks to him, I decided to leave my country and pursue a graduate degree in the US, and thanks to him my life trajectory gave a radical turn that has taken me to where I am today.<br /><br />
+                Thanks to him, I decided to leave Mexico and pursue a graduate degree in the U.S. My life trajectory took a radical turn that has taken me to where I am today.<br /><br />
 
-                Whenever I came up with new ideas, he always encouraged me to do whatever I could to make my dreams come true.<br /><br />
+                Whenever I shared my new ideas with him, he always encouraged me to do whatever I could to make my dreams come true.<br /><br />
 
-                When he died (unexpectedly in the summer of 2016), his absence left us all with a bottomless hole in our souls.<br /><br />
+                When he died unexpectedly in the summer of 2016, his absence left us all, especially me, with a bottomless hole in our souls.<br /><br />
 
-                But over the years, in addition to missing him greatly, I have learned to incorporate things into my life from what I learned from him. That is my way of not letting him go, of not forgetting him, of making his absence hurt less.<br /><br />
+                But over the years, in addition to missing him greatly, I have learned to incorporate things I learned from him into my life every day. That is my way of not letting him go, of not forgetting him, of making his absence hurt less.<br /><br />
 
-                So, one day, after five years of him being gone, I woke up with an idea: What if I bought the domain with the phrase that he used in English for the text he wrote to a friend when he dedicated one of his paintings to her: <b><i>What If I Say Yes?</i></b><br /><br />
+                So, one day, five years since his passing, I woke up with an idea: What if I bought the domain with the phrase <b><i>What If I Say Yes?</i></b> that he used in English for a text he had written dedicating to a friend one of his paintings to her. <br /><br />
 
-                I immediately got down to work. I went to Google, saw that the domain I wanted was available, and bought it. Then I started to think about what I wanted to achieve with this space.<br /><br />
+                I immediately got down to work. I checked Google and saw that the domain I wanted was available, so I bought it. Then I started to think about what I wanted to achieve with this new online space.<br /><br />
 
-                I also remembered that my nephew Luis is studying full-stack web development, and I hired him to design this website.<br /><br />
+                Since my nephew Luis is studying to become a <i>full-stack web developer</i> I hired him to help me build the website.<br /><br />
 
-                Then I asked my twin brother to design the logo, and it ended up being a collaboration between him and my daughter Maya.<br /><br />
+                Then I asked my twin brother Jorge and daughter Maya to collaborate on the design of the logo.<br /><br />
 
-                Years before Héctor died, I had put on my vision board to publish a book with my three brothers and sister. But that plan died with Héctor’s passing.<br /><br />
+                Years before Héctor died, I had put on my vision board to publish a book with my sister and three brothers. But that plan had to change with Héctor's passing.<br /><br />
 
-                I then decided that this was the space to do it, but it would now include my closest family members (not only my siblings).<br /><br />
+                So I decided my new plan had to include my siblings and my closest family members, and this online platform was the space to do it.<br /><br />
 
-                The project I imagined before is now more significant and has more meaning.<br /><br />
+                The original book project that I had imagined years ago has grown in significance and meaning because of the inclusion of my extended family.<br /><br />
 
-                This is the place where I dialogue with my family to process, indirectly, our pain for his absence and where we all honor his life and what he left in the soul of each one of the human beings with whom he came across in his almost 49 years of walking on this Earth.<br /><br /><br /><br />
+                This is one space where I can dialogue with my family, and we can all process, indirectly, our grief over Héctor's passing and absence. Also, a space where we can all continue to honor his life that included him leaving a bit of himself in the soul of each one of the human beings with whom he came across in his almost 49 years of walking on this Earth.<br /><br /><br /><br />
 
                 This space is in your honor, dearest brother!<br /><strong>WE LOVE YOU!</strong>
                 <br /><strong>¡TE QUEREMOS MUCHO!</strong>

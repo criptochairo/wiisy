@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import './Blog.css';
-import blogimg from '../Resources/Pics/136.JPG';
+import blogimg from '../Resources/Pics/503.jpg';
 import Social from '../Resources/Icons/camera.png';
 import Microphone from '../Resources/Icons/microphone.png';
 import Book from '../Resources/Icons/book.png';

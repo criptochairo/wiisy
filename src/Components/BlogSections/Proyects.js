@@ -1,5 +1,6 @@
 import React from "react";
 import Mom from '../../Resources/Icons/motherhood.png';
+import { Link } from "react-router-dom";
 
 function Proyects() {
     return (
@@ -10,18 +11,22 @@ function Proyects() {
             <h1>Projects with my Daughter</h1> <br />
 
             <p class="content-text">
-            One of the silver linings of the pandemic was that I found new ways to get close to my daughter. For several months, being together all day was a challenge ... until one day, we discovered that we could create things together.
+            One of the silver linings of the pandemic was that I found new ways to get close to my daughter Maya. For several months, being together all day was a challenge ... until one day, we discovered that we could create things together.
             <br /><br />
-            In the summer of 2021, several of her cousins graduated from junior high and high school. We made a video with a significant character in Maya's life: Cookies.
+            In the summer of 2021, several of her cousins graduated from junior high and senior high school. To celebrate them from a distance, we made a video with a significant character in Maya's life named Cookies.
             <br /><br />
-            My brother Héctor gave her a teddy bear the day she was born. He came to the hospital and brought a pink plastic bracelet that said, "It’s a girl!" and a beautiful teddy bear that Maya later baptized as <b>Cookies</b> (yes, like that, in plural).
+            My brother Héctor gave her a teddy bear the day she was born. He came to the hospital and brought a pink plastic bracelet that said, "It's a girl!" and a beautiful teddy bear that Maya later baptized as <b>Cookies</b> (yes, like that, in plural).
             <br /><br />
-            The video was so successful that we decided to continue making and sharing Cookies' videos to celebrate someone's birthday or to entertain younger friends.
+            Cookies' video was so successful that we decided to continue making and sharing more of them to celebrate someone's birthday or to entertain younger friends.
             <br /><br />
-            We will share some of the videos we created together (Maya, Cookies and I) in this space.
+            We will share some of the videos we created together (Maya, Cookies and I) in this section.
             <br /><br />
-            I hope it inspires you to collaborate with someone else and create visual projects to share them with the world.
+            I hope it inspires you to collaborate with someone else and create visual projects to share them with the world too!
             <br /><br /><br /><br />
+
+            <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice"><h2>Next Section</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-book"><h2>Previous Section</h2></Link>
             </p>
 
         </div> 
