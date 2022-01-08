@@ -6,6 +6,7 @@ import blogimg from '../Resources/Pics/503.jpg';
 import communityimg from '../Resources/Pics/544.JPEG';
 import contactimg from '../Resources/Pics/181.JPEG';
 import logo from '../Resources/logo-final.jpeg';
+import GoTop from "./GoTop";
 
 function Home() {
     return (
@@ -47,11 +48,12 @@ function Home() {
                 <p className="container-text">I'm all ears. Would you send me your questions and comments?</p>
             </div>
 
+            <GoTop />
+
             <div className="footer">
             <h3>Subscribe to receive my weekly email newsletter. It will inspire you to try new things by allowing yourself to say YES! Coming soon...</h3>
             <small>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></small>
             </div>
-            
             
         </div>
     )

@@ -3,8 +3,9 @@ import first from '../../Resources/Texts/hector_page-0001.jpg';
 import second from '../../Resources/Texts/hector_page-0002.jpg'; 
 import third from '../../Resources/Texts/hector_page-0003.jpg'; 
 import fourth from '../../Resources/Texts/hector_page-0004.jpg'; 
-import logo from '../../Resources/logo-final.jpeg'
-import hector from '../../Resources/Pics/hector.jpg'
+import logo from '../../Resources/logo-final.jpeg';
+import hector from '../../Resources/Pics/hector.jpg';
+import GoTop from "../GoTop";
 
 function Hector() {
     return (
@@ -22,6 +23,8 @@ function Hector() {
             <img src={hector} alt="hector" />
 
             </div>
+
+            <GoTop />
         </div>
 
         

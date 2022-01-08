@@ -10,6 +10,7 @@ import Sister from '../Resources/Icons/twins.png';
 import Grandma from '../Resources/Icons/grandma.png';
 import Week from '../Resources/Icons/week.png';
 import Prize from '../Resources/Icons/wreath.png';
+import GoTop from "./GoTop";
 
 function Blog() {
     return (
@@ -61,6 +62,8 @@ function Blog() {
                 </div>
                 
             </ul>
+
+            <GoTop />
             
         </div>
     )

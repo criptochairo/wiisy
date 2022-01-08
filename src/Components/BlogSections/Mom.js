@@ -1,6 +1,7 @@
 import React from "react";
 import Momimg from '../../Resources/Icons/grandma.png';
 import { Link } from "react-router-dom";
+import GoTop from "../GoTop";
 
 function Mom() {
     return (
@@ -24,6 +25,8 @@ function Mom() {
             <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-week"><h2>Next Section</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice"><h2>Previous Section</h2></Link>
             </p>
+
+            <GoTop />
 
         </div> 
     </div>

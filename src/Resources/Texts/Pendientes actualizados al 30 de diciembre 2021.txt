@@ -45,6 +45,6 @@ La barra de navegación tiene que ir al centro entonces. (listo)
 42. Cortar escaneos para dejar menos espacio entre fotos. (listo)
 43. Encoger texto en secciones de la página que no son Home (listo)
 44. Iniciar cada sección con la imagen o logo a la que le picas para entrar (listo)
-45. Implementar botones de navegación en secciones de Blog - siguiente sección, anterior sección, back to home y back to top
-46. 
+45. Implementar botones de navegación en secciones de Blog - siguiente sección, anterior sección, back to home y back to top (listo)
+46. Implementar back to top y back to home en todas las secciones
 

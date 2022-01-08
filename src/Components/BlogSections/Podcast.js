@@ -1,6 +1,7 @@
 import React from "react";
 import Microphone from '../../Resources/Icons/microphone.png';
 import { Link } from "react-router-dom";
+import GoTop from "../GoTop";
 
 function Podcast() {
     return (
@@ -35,6 +36,8 @@ function Podcast() {
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-photography"><h2>Previous Section</h2></Link>
             
             </p>
+
+            <GoTop />
         </div> 
     </div>
     )

@@ -1,6 +1,7 @@
 import React from "react";
 import Week from '../../Resources/Icons/week.png';
 import { Link } from "react-router-dom";
+import GoTop from "../GoTop";
 
 function MomentOTW() {
     return (
@@ -27,6 +28,8 @@ function MomentOTW() {
             <Link className="link" style={{ color: 'black' }} to="/blog/person-of-the-month"><h2>Next Section</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations"><h2>Previous Section</h2></Link>
             </p>
+
+            <GoTop />
 
         </div> 
     </div>

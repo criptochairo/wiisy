@@ -1,6 +1,7 @@
 import React from "react";
 import Prize from '../../Resources/Icons/wreath.png';
 import { Link } from "react-router-dom";
+import GoTop from "../GoTop";
 
 function WIISYPerson() {
     return (
@@ -19,12 +20,17 @@ function WIISYPerson() {
             <br /><br />
             I hope this space inspires you to express yourself the best you can, depending on your different areas of interest.
             <br /><br />
-            Good luck!<br /><br />
+            Good luck!<br /><br /><br /><br />
+            
+            <strong>2022</strong><br /><br />
+            <Link style={{ color: 'blue' }} to="/blog/person-of-the-month/jan22">January</Link><br /><br /><br /><br />
 
             <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-photography"><h2>Next Section</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-week"><h2>Previous Section</h2></Link>
             </p>
+
+            <GoTop />
 
         </div> 
     </div>

@@ -5,7 +5,6 @@ import About from './Components/About';
 import Blog from './Components/Blog';
 import Board from './Components/Board';
 import Contact from './Components/Contact';
-import Footer from "./Footer";
 import Photograpy from "./Components/BlogSections/Photography";
 import Podcast from "./Components/BlogSections/Podcast";
 import Book from './Components/BlogSections/Book';
@@ -16,13 +15,13 @@ import MomentOTW from './Components/BlogSections/MomentOTW';
 import WIISYPerson from './Components/BlogSections/WIISYPerson';
 import Hector from './Components/BlogSections/Hector';
 import ScrollToTop from './Components/ScrollToTop';
+import Jan22 from "./Components/BlogSections/POTM/Jan22";
 
 const RouteSwitch = () => {
   return (
     <Router>
       <ScrollToTop />
       <Nav />
-      <Footer />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
@@ -38,6 +37,7 @@ const RouteSwitch = () => {
         <Route path="/blog/moment-of-the-week" element={<MomentOTW />} />
         <Route path="/blog/person-of-the-month" element={<WIISYPerson />} />
         <Route path="/blog/what-if-i-say-yes" element={<Hector />} />
+        <Route path="/blog/person-of-the-month/jan22" element={<Jan22 />} />
       </Routes>
     </Router>
   );

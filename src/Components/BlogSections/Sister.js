@@ -1,6 +1,7 @@
 import React from "react";
 import Sisterimg from '../../Resources/Icons/twins.png';
 import { Link } from "react-router-dom";
+import GoTop from "../GoTop";
 
 function Sister() {
     return (
@@ -30,6 +31,8 @@ function Sister() {
             <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations"><h2>Next Section</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects"><h2>Previous Section</h2></Link>
             </p>
+
+            <GoTop />
 
         </div> 
     </div>

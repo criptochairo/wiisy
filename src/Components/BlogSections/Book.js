@@ -1,6 +1,7 @@
 import React from "react";
 import bookimg from '../../Resources/Icons/book.png';
 import { Link } from "react-router-dom";
+import GoTop from "../GoTop";
 
 function Book() {
     return (
@@ -33,6 +34,8 @@ function Book() {
             <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast"><h2>Previous Section</h2></Link>
             
             </p>
+
+            <GoTop />
         </div> 
     </div>
     )

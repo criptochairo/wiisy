@@ -1,6 +1,7 @@
 import React from "react";
 import Social from '../../Resources/Icons/camera.png';
 import { Link } from "react-router-dom";
+import GoTop from "../GoTop";
 
 function Photography() {
     return (
@@ -29,6 +30,8 @@ function Photography() {
                                
             
             </p>
+
+            <GoTop />
         </div> 
     </div>
     )

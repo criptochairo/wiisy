@@ -2,7 +2,7 @@
 h1 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-top: 2em;
+    margin-top: 1.25em;
 }
 
 h2 {
@@ -85,6 +85,55 @@ h4 {
     font-size: 1.25em;
 }
 
+.gotop {
+    width: 5em;
+    height: 5em;
+    border: none;
+}
+
+button {
+    border: none;
+    margin: 2em auto;
+    margin-top: 3em;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(247, 242, 242);
+    box-shadow: 0 0 15px lightgray;
+    text-align: center;
+    padding-bottom: 0.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 3.5em;
+  }
+
+h3 {
+    text-align: center;
+    margin-bottom: 0;
+ }
+  
+.footer a:visited {
+    color: black;
+}
+  
+.footer a {
+    color: black;
+}
+
+.profile-pic {
+    width: 50%;
+    height: auto;
+    margin-top: 2em;
+    margin-bottom: 0;
+    border-radius: 25px;
+}
 
 @media only screen and (max-width: 1440px) {
 
@@ -147,6 +196,10 @@ h4 {
     #blog-img {
         margin-top: 3.5em;
     }
+
+    .footer {
+        font-size: 70%;
+      }
 
 }
 

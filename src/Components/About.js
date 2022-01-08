@@ -1,6 +1,7 @@
 import React from "react";
 import '../App.css';
-import aboutmeimg from '../Resources/Pics/210.JPEG'
+import aboutmeimg from '../Resources/Pics/210.JPEG';
+import GoTop from "./GoTop";
 
 function About() {
     return (
@@ -55,6 +56,8 @@ function About() {
                 <br /><strong>¡TE QUEREMOS MUCHO!</strong>
 
             </p>
+
+            <GoTop />
         </div> 
     </div>
     )
