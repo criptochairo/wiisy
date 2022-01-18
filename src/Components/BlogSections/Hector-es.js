@@ -6,15 +6,15 @@ import fourth from '../../Resources/Texts/hector_page-0004.jpg';
 import logo from '../../Resources/logo-final.jpeg';
 import hector from '../../Resources/Pics/hector.jpg';
 import GoTop from "../GoTop";
-import Nav from '../../Nav';
+import NavEs from "../../Nav-es";
 
-function Hector() {
+function HectorEs() {
     return (
         <div className="text-container">
-            <Nav />
+            <NavEs />
             <img src={logo} alt="wiisy-logo" id="header-img"/>
             <h1>What If I Say Yes?</h1>
-            <p className="content-text">On November 5, 2005, my brother Héctor Cárdenas dedicated a painting to one of his friends. Below you will see the text he read that night. His words inspired me, years later, to create this website in his honor:</p>
+            <p className="content-text">El 5 de noviembre del 2005 mi hermano, Héctor Cárdenas, le dedicó a una amiga una de sus pinturas. Abajo leerán el texto que leyó esa noche. Sus palabras me inspiraron, años después, a crear este sitio web en su honor:</p>
             
             <div className="hector">
 
@@ -33,4 +33,4 @@ function Hector() {
     )
 }
 
-export default Hector;
+export default HectorEs;

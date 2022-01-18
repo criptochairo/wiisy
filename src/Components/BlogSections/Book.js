@@ -2,10 +2,12 @@ import React from "react";
 import bookimg from '../../Resources/Icons/book.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
+import Nav from "../../Nav";
 
 function Book() {
     return (
         <div className="aboutme-page">
+        <Nav />
 
         <div className="text-container"> 
             <img src={bookimg} alt="wiisy-logo" id="blog-img" /> 

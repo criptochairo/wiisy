@@ -2,10 +2,12 @@ import React from "react";
 import Microphone from '../../Resources/Icons/microphone.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
+import Nav from "../../Nav";
 
 function Podcast() {
     return (
         <div className="aboutme-page">
+            <Nav />
             <div className="text-container">
             <img src={Microphone} alt="wiisy-logo" id="blog-img" /> 
             <h1>My Podcast</h1><br />

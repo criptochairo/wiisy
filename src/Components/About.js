@@ -2,11 +2,12 @@ import React from "react";
 import '../App.css';
 import aboutmeimg from '../Resources/Pics/210.JPEG';
 import GoTop from "./GoTop";
+import Nav from '../Nav';
 
 function About() {
     return (
         <div>
-
+            <Nav />
             <div className="text-container">
             <img src={aboutmeimg} alt="wiisy-logo" id="header-img" />
             <h1>About Me</h1> <br />

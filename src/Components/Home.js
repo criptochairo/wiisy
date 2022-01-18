@@ -7,11 +7,12 @@ import communityimg from '../Resources/Pics/544.JPEG';
 import contactimg from '../Resources/Pics/181.JPEG';
 import logo from '../Resources/logo-final.jpeg';
 import GoTop from "./GoTop";
+import Nav from '../Nav';
 
 function Home() {
     return (
         <div id="content-page">
-
+            <Nav />
             <div className="section-container" id="header">
                 <h1>What If I Say Yes?</h1>
                 <h4>by Lucía Cárdenas</h4>

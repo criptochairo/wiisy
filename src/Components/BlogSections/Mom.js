@@ -2,11 +2,12 @@ import React from "react";
 import Momimg from '../../Resources/Icons/grandma.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
+import Nav from "../../Nav";
 
 function Mom() {
     return (
         <div className="aboutme-page">
-
+            <Nav />
             <div className="text-container"> 
             <img src={Momimg} alt="wiisy-logo" id="blog-img" /> 
             <h1><i>Abuelita</i> Recommends</h1> <br />

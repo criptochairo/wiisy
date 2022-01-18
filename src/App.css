@@ -27,7 +27,7 @@ nav {
 }
 
 .nav-links {
-  width: 35%;
+  width: 55%;
   display: flex;
   justify-content: space-around;
   flex-direction: row;
@@ -164,7 +164,7 @@ ul {
 @media only screen and (max-width: 1024px) {
 
   .nav-links {
-    width: 60%;
+    width: 80%;
   }
 
 }

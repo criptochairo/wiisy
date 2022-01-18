@@ -1,10 +1,12 @@
 import React from "react";
 import '../App.css';
+import Nav from "../Nav";
 import communityimg from '../Resources/Pics/544.JPEG';
 
 function Board() {
     return (
         <div className="text-container">
+            <Nav />
             <img src={communityimg} alt="wiisy-logo" id="header-img" />
             <h1>Community Board</h1><br />
 

@@ -6,11 +6,12 @@ import Instagram from "../../../Resources/instagram.png";
 import Facebook from "../../../Resources/facebook.png";
 import BankkyLogo from "../../../Resources/BankkyLogo.png";
 import { Link } from "react-router-dom";
+import Nav from "../../../Nav";
 
 function Jan22() {
     return (
         <div>
-
+            <Nav />
             <div className="text-container">
             <img src={bankkyimg} alt="bankky" id="bankky-img" className="profile-pic" />
             <h1>Bankky</h1> <br />

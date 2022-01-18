@@ -2,11 +2,12 @@ import React from "react";
 import Prize from '../../Resources/Icons/wreath.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
+import Nav from "../../Nav";
 
 function WIISYPerson() {
     return (
         <div className="aboutme-page">
-
+            <Nav />
             <div className="text-container"> 
             <img src={Prize} alt="wiisy-logo" id="blog-img" /> 
             <h1>The <i>What If I Say Yes</i> Person of the Month</h1> <br /><br />

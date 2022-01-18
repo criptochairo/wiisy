@@ -2,11 +2,12 @@ import React from "react";
 import Week from '../../Resources/Icons/week.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
+import Nav from "../../Nav";
 
 function MomentOTW() {
     return (
         <div className="aboutme-page">
-
+            <Nav />
             <div className="text-container"> 
             <img src={Week} alt="wiisy-logo" id="blog-img" /> 
             <h1>Moment of the Week</h1> <br />

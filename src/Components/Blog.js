@@ -11,10 +11,13 @@ import Grandma from '../Resources/Icons/grandma.png';
 import Week from '../Resources/Icons/week.png';
 import Prize from '../Resources/Icons/wreath.png';
 import GoTop from "./GoTop";
+import Nav from "../Nav";
 
 function Blog() {
     return (
+        
         <div className="text-container"> 
+        <Nav />
             <img src={blogimg} alt="wiisy" id="header-img" />
             <h1>Blog</h1>
             

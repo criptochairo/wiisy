@@ -2,11 +2,12 @@ import React from "react";
 import Sisterimg from '../../Resources/Icons/twins.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
+import Nav from "../../Nav";
 
 function Sister() {
     return (
         <div className="aboutme-page">
-
+            <Nav />
             <div className="text-container"> 
             <img src={Sisterimg} alt="wiisy-logo" id="blog-img" /> 
             <h1>Sister's Advice</h1> <br />
