@@ -14,6 +14,18 @@ h4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.title-container {
+    margin-top: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title-container img {
+    width: 3em;
+    height: auto;
+}
 
 .section-container {
     width: 30em;
@@ -38,6 +50,7 @@ h4 {
     align-self: center;
     border-radius: 15px;
 }
+
 
 .section-container h2 {
     display: flex;

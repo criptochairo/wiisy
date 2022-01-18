@@ -8,14 +8,16 @@ import contactimg from '../Resources/Pics/181.JPEG';
 import logo from '../Resources/logo-final.jpeg';
 import GoTop from "./GoTop";
 import Nav from '../Nav';
+import Mexico from '../Resources/Icons/mexico.png';
 
 function Home() {
     return (
         <div id="content-page">
             <Nav />
-            <div className="section-container" id="header">
+            <div className="title-container" id="header">
                 <h1>What If I Say Yes?</h1>
                 <h4>by Lucía Cárdenas</h4>
+                <Link style={{ color: 'black' }} to="/es"><img src={Mexico} alt="mexico-flag" id="flag"/></Link>
             </div>
 
             
@@ -53,7 +55,8 @@ function Home() {
 
             <div className="footer">
             <h3>Subscribe to receive my weekly email newsletter. It will inspire you to try new things by allowing yourself to say YES! Coming soon...</h3>
-            <small>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></small>
+            <small>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></small><br />
+            <small>Website by <a href="https://github.com/criptochairo" title="GithubProfile">Criptochairo</a></small>
             </div>
             
         </div>

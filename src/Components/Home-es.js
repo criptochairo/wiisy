@@ -8,6 +8,7 @@ import contactimg from '../Resources/Pics/181.JPEG';
 import logo from '../Resources/logo-final.jpeg';
 import GoTop from "./GoTop";
 import NavEs from "../Nav-es";
+import US from '../Resources/Icons/united-states.png';
 
 function HomeEs() {
     return (
@@ -16,9 +17,10 @@ function HomeEs() {
 
             <NavEs />
 
-            <div className="section-container" id="header">
+            <div className="title-container" id="header">
                 <h1>¿Y si digo que sí?</h1>
                 <h4>por Lucía Cárdenas</h4>
+                <Link style={{ color: 'black' }} to="/"><img src={US} alt="us-flag" id="flag"/></Link>
             </div>
 
             
