@@ -22,8 +22,8 @@ function Home() {
 
             
             <div className="section-container">
-                <Link to="/blog/what-if-i-say-yes"><img src={logo} alt="wiisy" /></Link>
-                <Link style={{ color: 'black' }} to="/blog/what-if-i-say-yes"><h2>What If I Say Yes?</h2></Link>
+                <Link to="/hector"><img src={logo} alt="wiisy" /></Link>
+                <Link style={{ color: 'black' }} to="/hector"><h2>What If I Say Yes?</h2></Link>
                 <p className="container-text">Read my brother's original text, which gave me the idea to create this website.</p>
             </div>
             

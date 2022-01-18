@@ -10,6 +10,7 @@ import Contact from './Components/Contact';
 import Photography from "./Components/BlogSections/Photography";
 import PhotographyEs from "./Components/BlogSections/Photography-es";
 import PhPost1 from './Components/BlogSections/Photography/jan22/11-jan-22';
+import PhPost1Es from './Components/BlogSections/Photography/jan22/11-jan-22-es';
 import Podcast from "./Components/BlogSections/Podcast";
 import PodcastEs from "./Components/BlogSections/Podcast-es";
 import Book from './Components/BlogSections/Book';
@@ -38,37 +39,107 @@ const RouteSwitch = () => {
       <ScrollToTop />
       
       <Routes>
+        
+        {/* Main routes ENG */}
         <Route path="/" element={<Home />} />
-        <Route path="/es" element={<HomeEs />} />
+        <Route path="/hector" element={<Hector />} />
         <Route path="/about" element={<About />} />
-        <Route path="/about-es" element={<AboutEs />} />
         <Route path="/blog" element={<Blog />} />
-        <Route path="/blog-es" element={<BlogEs />} />
         <Route path="/community-board" element={<Board />} />
-        <Route path="/community-board-es" element={<BoardEs />} />
         <Route path="/contact-me" element={<Contact />} />
+
+
+        {/* Main routes ESP */}
+        <Route path="/es" element={<HomeEs />} />
+        <Route path="/hector-es" element={<HectorEs />} />
+        <Route path="/about-es" element={<AboutEs />} />
+        <Route path="/blog-es" element={<BlogEs />} />
+        <Route path="/community-board-es" element={<BoardEs />} />
         <Route path="/contact-me-es" element={<ContactEs />} />
+
+
+        {/* Blog routes ENG */}
         <Route path="/blog/my-photography" element={<Photography />} />
-        <Route path="/blog/my-photography-es" element={<PhotographyEs />} />
-        <Route path="/blog/my-photography/11-jan-22" element={<PhPost1 />} />
         <Route path="/blog/my-podcast" element={<Podcast />} />
-        <Route path="/blog/my-podcast-es" element={<PodcastEs />} />
         <Route path="/blog/my-book" element={<Book />} />
-        <Route path="/blog/my-book-es" element={<BookEs />} />
         <Route path="/blog/my-daughters-projects" element={<Proyects />} />
-        <Route path="/blog/my-daughters-projects-es" element={<ProyectsEs />} />
         <Route path="/blog/my-sisters-advice" element={<Sister />} />
-        <Route path="/blog/my-sisters-advice-es" element={<SisterEs />} />
         <Route path="/blog/my-moms-recommendations" element={<Mom />} />
-        <Route path="/blog/my-moms-recommendations-es" element={<MomEs />} />
         <Route path="/blog/moment-of-the-week" element={<MomentOTW />} />
-        <Route path="/blog/moment-of-the-week-es" element={<MomentOTWEs />} />
         <Route path="/blog/person-of-the-month" element={<WIISYPerson />} />
+
+
+        {/* Blog routes ESP */}
+        <Route path="/blog/my-photography-es" element={<PhotographyEs />} />
+        <Route path="/blog/my-podcast-es" element={<PodcastEs />} />
+        <Route path="/blog/my-book-es" element={<BookEs />} />
+        <Route path="/blog/my-daughters-projects-es" element={<ProyectsEs />} />
+        <Route path="/blog/my-sisters-advice-es" element={<SisterEs />} />
+        <Route path="/blog/my-moms-recommendations-es" element={<MomEs />} />
+        <Route path="/blog/moment-of-the-week-es" element={<MomentOTWEs />} />
         <Route path="/blog/person-of-the-month-es" element={<WIISYPersonEs />} />
-        <Route path="/blog/what-if-i-say-yes" element={<Hector />} />
-        <Route path="/blog/what-if-i-say-yes-es" element={<HectorEs />} />
+
+
+        {/* Photography posts ENG */}
+        <Route path="/blog/my-photography/11-jan-22" element={<PhPost1 />} />
+
+        {/* Podcast posts ENG */}
+
+
+        {/* Book posts ENG */}
+
+        
+        {/* Proyects posts ENG */}
+
+
+        {/* Sister posts ENG */}
+
+        
+        {/* Mom posts ENG */}
+
+
+        {/* MOTW posts ENG */}
+
+
+        {/* WIISY posts ENG */}
         <Route path="/blog/person-of-the-month/jan22" element={<Jan22 />} />
+
+
+
+
+
+        {/* Photography posts ESP */}
+        <Route path="/blog/my-photography/11-jan-22-es" element={<PhPost1Es />} />
+        
+
+        {/* Podcast posts ESP */}
+
+
+        {/* Book posts ESP */}
+
+        
+        {/* Proyects posts ESP */}
+
+
+        {/* Sister posts ESP */}
+
+        
+        {/* Mom posts ESP */}
+
+
+        {/* MOTW posts ESP */}
+
+
+        {/* WIISY posts ESP */}
         <Route path="/blog/person-of-the-month/jan22-es" element={<Jan22Es />} />
+
+        
+        
+        
+
+        
+
+
       </Routes>
     </Router>
   );

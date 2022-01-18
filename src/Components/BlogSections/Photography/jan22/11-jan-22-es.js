@@ -13,30 +13,34 @@ import Eight from '../../../../Resources/Pics/11Jan22/compressjpeg/484-min.jpg';
 import Nine from '../../../../Resources/Pics/11Jan22/compressjpeg/549-min.JPEG';
 import Ten from '../../../../Resources/Pics/11Jan22/compressjpeg/558-min.jpg';
 
-function Post1() {
+function Post1Es() {
     return (
         <div>
             <Nav />
 
             <div className="text-container"> 
             
-            <h1>January 11, 2022</h1> <br />
+            <h1>11 de enero del 2022</h1> <br />
 
                 <p class="content-text">
 
-                I took more than 500 photographs on my daily walks. Over time I improved my eye and my attention to detail. I began to see with the eyes of a photographer and then when I saw something beautiful in nature, I immediately framed it in my mind, even before taking out the phone to use the camera. <br/><br/>
+                Tomé más de 500 fotografías en mis caminatas diarias. Con el tiempo fui mejorando mi ojo y mi atención al detalle. Empecé a ver con ojos de fotógrafa y entonces veía algo lindo en la naturaleza y enseguida lo enmarcaba en mi mente, aún antes de sacar el teléfono para usar la cámara. 
+                <br/><br/>
+                Mis fotos del principio son interesantes, pero algo les faltaba. 
+                <br/><br/>
+                Las últimas me gustan mucho y como parece ser que a las personas con las que las compartí también les gustaron, decidimos que algún día las vamos a ofrecer aquí, en este sitio web, en una tiendita.  
+                <br/><br/>
                 
-                My photos from the beginning are interesting but are missing something. <br/><br/>
+                La idea es que a quien le gusten mis fotografías las pueda comprar y bajar como archivo digital para luego usarlas como quiera.  
+                <br/><br/>
                 
-                The last ones I like a lot and since it seems that the people with whom I shared them also liked them, we decided that one day we are going to offer them here, on this website, in a little store.<br/><br/>
+                Aquí les iré contando cómo vamos progresando con respecto a este proyecto.
+                <br/><br/>
 
-                The idea is that whoever likes my photographs can buy and download them as a digital file and then use them however they want.<br/><br/>
-
-                I will tell you here how we are progressing with this project.<br/><br/>
-                
-                In the meantime, here is a sample of what I photographed from December 13, 2020, to December 13, 2021:<br/><br/><br/><br/>
+                Mientras tanto, he aquí una muestra de lo que fotografié del 13 de diciembre del 2020 al 13 de diciembre del 2021:
+                <br/><br/><br/>
             
-            </p>
+                </p>
 
                 <div className="post-img-container">
                     <img src={One} alt="postimg" />
@@ -51,10 +55,7 @@ function Post1() {
                     <img src={Ten} alt="postimg" />
                 </div>
                 
-
-                
-                <Link className="link" style={{ color: 'black', fontSize: '100%', marginTop: '1em' }} to="/blog/my-photography"><h2>Back</h2></Link>
-                               
+                <Link className="link" style={{ color: 'black', fontSize: '100%', marginTop: '1em' }} to="/blog/my-photography-es"><h2>Regresar</h2></Link>
 
             <GoTop />
         </div> 
@@ -62,4 +63,4 @@ function Post1() {
     )
 }
 
-export default Post1;
+export default Post1Es;
