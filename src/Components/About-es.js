@@ -44,7 +44,7 @@ function AboutEs() {
 
                 Luego, le pedí a mi gemelo Jorge y a mi hija Maya que colaboraran en el diseño del logo. <br /><br />
 
-                Años antes de que Héctor muriera yo había puesto en mi vision board que quería publicar un libro con mi hermana y mis hermanos y. Pero ese plan murió con Héctor.<br /><br />
+                Años antes de que Héctor muriera yo había puesto en mi vision board que quería publicar un libro con mi hermana y mis hermanos. Pero ese plan murió con Héctor.<br /><br />
 
                 Decidí entonces que en este espacio incluiría a mi hermana, mis dos hermanos y miembros cercanos de mi familia. <br /><br />
 
