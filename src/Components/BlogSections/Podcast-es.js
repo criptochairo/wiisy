@@ -33,6 +33,8 @@ function PodcastEs() {
                 Mientras tanto, aquí les contaré de lo que hablo en mis distintos episodios, con toda la intención de inspirarlos a hacer lo mismo: aprender a regalar sus propias palabras… y ¿quién sabe? A lo mejor también a crear un día su propio podcast.<br /><br /><br /><br />
 
 
+                <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-podcast/11-jan-22-es"><h2>· 11 de enero 2022</h2></Link><br /><br />
+
                 <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>De Vuelta a Blog</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-book-es"><h2>Siguiente Sección</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-photography-es"><h2>Sección Anterior</h2></Link>

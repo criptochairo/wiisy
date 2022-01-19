@@ -32,6 +32,8 @@ function BookEs() {
             En resumen, aquí les contaré sobre nuestro proceso creativo y los actualizaré sobre nuestro progreso.
             <br /><br /><br /><br />
 
+            <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-book/11-jan-22-es"><h2>· Enero del 2022</h2></Link><br /><br />
+
             <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>De Vuelta a Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects-es"><h2>Siguiente Sección</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast-es"><h2>Sección Anterior</h2></Link>

@@ -22,6 +22,8 @@ function Mom() {
             Hopefully, this space will encourage you to turn to the people you have spent a lifetime with and engage in conversations about what they have learned during their lives.
             <br /><br /><br /><br />
 
+            <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-moms-recommendations/11-jan-22"><h2>· January, 2022</h2></Link><br /><br />
+
             <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-week"><h2>Next Section</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice"><h2>Previous Section</h2></Link>

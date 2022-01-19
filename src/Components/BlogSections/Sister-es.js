@@ -29,6 +29,8 @@ function SisterEs() {
             Rocío y yo esperamos que lo disfruten.
             <br /><br /><br /><br />
 
+            <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-sisters-advice/11-jan-22-es"><h2>· Enero del 2022</h2></Link><br /><br />
+
             <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>De Vuelta a Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations-es"><h2>Siguiente Sección</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects-es"><h2>Sección Anterior</h2></Link>

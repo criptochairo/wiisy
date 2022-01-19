@@ -24,7 +24,7 @@ function WIISYPerson() {
             Good luck!<br /><br /><br /><br />
             
             <strong>2022</strong><br /><br />
-            <Link style={{ color: 'blue' }} to="/blog/person-of-the-month/jan22">January</Link><br /><br /><br /><br />
+            <Link style={{ color: 'black' }} to="/blog/person-of-the-month/jan22">· January</Link><br /><br /><br /><br />
 
             <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-photography"><h2>Next Section</h2></Link>

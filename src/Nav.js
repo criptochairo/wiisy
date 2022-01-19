@@ -9,7 +9,7 @@ function Nav() {
         <Link to="/" id="logo"><img src={logo} alt="Logo" /></Link>
             <ul className="nav-links">
                 <Link style={{ color: 'black'}} to="/"><li>· Home</li></Link>
-                <Link style={{ color: 'black'}} to="/blog/what-if-i-say-yes"><li>· What If I Say Yes?</li></Link>
+                <Link style={{ color: 'black'}} to="/hector"><li>· What If I Say Yes?</li></Link>
                 <Link style={{ color: 'black'}} to="/about"><li>· About Me</li></Link>
                 <Link style={{ color: 'black'}} to="/blog"><li>· Blog</li></Link>
                 <Link style={{ color: 'black'}} to="/community-board"><li>· Community Board</li></Link>

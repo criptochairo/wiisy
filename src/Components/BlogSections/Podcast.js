@@ -33,6 +33,8 @@ function Podcast() {
                 In the meantime, I will write here about what I talk about in my various episodes to inspire you to do the same: learn to give away your own words, and who knows, maybe also create your podcast someday!
                 <br /><br /><br /><br />
 
+                <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-podcast/11-jan-22"><h2>· 11 January, 2022</h2></Link><br /><br />
+
                 <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-book"><h2>Next Section</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-photography"><h2>Previous Section</h2></Link>

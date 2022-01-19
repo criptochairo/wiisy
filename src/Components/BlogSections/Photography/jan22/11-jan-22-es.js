@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Nav from "../../../../Nav";
 import GoTop from "../../../GoTop";
 import One from '../../../../Resources/Pics/11Jan22/compressjpeg/1-min.jpg';
 import Two from '../../../../Resources/Pics/11Jan22/compressjpeg/2-min.jpg';
@@ -12,11 +11,12 @@ import Seven from '../../../../Resources/Pics/11Jan22/compressjpeg/448-min.jpg';
 import Eight from '../../../../Resources/Pics/11Jan22/compressjpeg/484-min.jpg';
 import Nine from '../../../../Resources/Pics/11Jan22/compressjpeg/549-min.JPEG';
 import Ten from '../../../../Resources/Pics/11Jan22/compressjpeg/558-min.jpg';
+import NavEs from "../../../../Nav-es";
 
 function Post1Es() {
     return (
         <div>
-            <Nav />
+            <NavEs />
 
             <div className="text-container"> 
             

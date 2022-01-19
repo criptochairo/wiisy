@@ -27,7 +27,7 @@ function PhotographyEs() {
 
                 Si lo hacen, les puedo asegurar que comenzarán a sentirse mejor sobre sus propias vidas.<br /><br /><br /><br />
 
-                <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-photography/11-jan-22-es"><h2>11 de enero de 2022</h2></Link><br /><br />
+                <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-photography/11-jan-22-es"><h2>· 11 de enero de 2022</h2></Link><br /><br />
                 
                 <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>De Vuelta a Blog</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast-es"><h2>Siguiente Sección</h2></Link>

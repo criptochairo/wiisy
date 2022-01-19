@@ -101,7 +101,7 @@ function Jan22Es() {
             </div>
 
 
-            <Link className="link" style={{ color: 'black', fontSize: '100%', marginTop: '1.5em'}} to="/blog/person-of-the-month-es"><h2>De vuetla a persona del mes</h2></Link>
+            <Link className="link" style={{ color: 'black', fontSize: '100%', marginTop: '1.5em'}} to="/blog/person-of-the-month-es"><h2>Regresar</h2></Link>
 
             <GoTop />
         </div> 

@@ -31,6 +31,9 @@ function Book() {
             In sum, in this section, I will tell you about our creative process and update you on our progress.
             <br /><br /><br /><br />
 
+            <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-book/11-jan-22"><h2>· January, 2022</h2></Link><br /><br />
+
+
             <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects"><h2>Next Section</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast"><h2>Previous Section</h2></Link>

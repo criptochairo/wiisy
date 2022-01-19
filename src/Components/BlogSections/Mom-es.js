@@ -23,6 +23,8 @@ function MomEs() {
             Ojalá este espacio los anime a voltear la mirada a la gente con la que han compartido toda una vida y entablar conversaciones sobre las cosas que han aprendido en el curso de sus vidas.
             <br /><br /><br /><br />
 
+            <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-moms-recommendations/11-jan-22-es"><h2>· Enero del 2022</h2></Link><br /><br />
+
             <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>De Vuelta a Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-week-es"><h2>Siguiente Sección</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice-es"><h2>Sección Anterior</h2></Link>

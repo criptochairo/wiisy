@@ -32,6 +32,14 @@ import WIISYPersonEs from "./Components/BlogSections/WIISYPerson-es";
 import Jan22Es from "./Components/BlogSections/POTM/Jan22-es";
 import BoardEs from "./Components/Board-es";
 import ContactEs from "./Components/Contact-es";
+import PodPost1 from './Components/BlogSections/Podcast/jan22/11-jan-22';
+import PodPost1Es from './Components/BlogSections/Podcast/jan22/11-jan-22-es';
+import BookPost1 from './Components/BlogSections/Book/jan22/11-jan-22';
+import BookPost1Es from './Components/BlogSections/Book/jan22/11-jan-22-es';
+import SisPost1 from './Components/BlogSections/Sister/jan22/11-jan-22';
+import SisPost1Es from './Components/BlogSections/Sister/jan22/11-jan-22-es';
+import MomPost1 from './Components/BlogSections/Mom/jan22/11-jan-22';
+import MomPost1Es from './Components/BlogSections/Mom/jan22/11-jan-22-es';
 
 const RouteSwitch = () => {
   return (
@@ -84,19 +92,19 @@ const RouteSwitch = () => {
         <Route path="/blog/my-photography/11-jan-22" element={<PhPost1 />} />
 
         {/* Podcast posts ENG */}
-
+        <Route path="/blog/my-podcast/11-jan-22" element={<PodPost1 />} />
 
         {/* Book posts ENG */}
-
+        <Route path="/blog/my-book/11-jan-22" element={<BookPost1 />} />
         
         {/* Proyects posts ENG */}
 
 
         {/* Sister posts ENG */}
-
+        <Route path="/blog/my-sisters-advice/11-jan-22" element={<SisPost1 />} />
         
         {/* Mom posts ENG */}
-
+        <Route path="/blog/my-moms-recommendations/11-jan-22" element={<MomPost1 />} />
 
         {/* MOTW posts ENG */}
 
@@ -113,18 +121,19 @@ const RouteSwitch = () => {
         
 
         {/* Podcast posts ESP */}
-
+        <Route path="/blog/my-podcast/11-jan-22-es" element={<PodPost1Es />} />
 
         {/* Book posts ESP */}
-
+        <Route path="/blog/my-book/11-jan-22-es" element={<BookPost1Es />} />
         
         {/* Proyects posts ESP */}
 
 
         {/* Sister posts ESP */}
-
+        <Route path="/blog/my-sisters-advice/11-jan-22-es" element={<SisPost1Es />} />
         
         {/* Mom posts ESP */}
+        <Route path="/blog/my-moms-recommendations/11-jan-22-es" element={<MomPost1Es />} />
 
 
         {/* MOTW posts ESP */}

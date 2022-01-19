@@ -9,7 +9,7 @@ function NavEs() {
         <Link to="/es" id="logo"><img src={logo} alt="Logo" /></Link>
             <ul className="nav-links">
                 <Link style={{ color: 'black'}} to="/es"><li>· Página Principal</li></Link>
-                <Link style={{ color: 'black'}} to="/blog/what-if-i-say-yes-es"><li>· ¿Y si digo que sí?</li></Link>
+                <Link style={{ color: 'black'}} to="/hector-es"><li>· ¿Y si digo que sí?</li></Link>
                 <Link style={{ color: 'black'}} to="/about-es"><li>· Acerca de mí</li></Link>
                 <Link style={{ color: 'black'}} to="/blog-es"><li>· Blog</li></Link>
                 <Link style={{ color: 'black'}} to="/community-board-es"><li>· Pizarrón Comunitario</li></Link>
