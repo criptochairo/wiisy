@@ -3,6 +3,7 @@ import Sisterimg from '../../Resources/Icons/twins.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
+import rocyimg from '../../Resources/Pics/rocy-cascada.jpeg';
 
 function Sister() {
     return (
@@ -29,6 +30,8 @@ function Sister() {
             <br /><br />
             
             ------------------------<br /><br />
+
+            <img src={rocyimg} alt="rocy" id="rocy-img" className="profile-pic" />
 
             <i>January 2022</i><br /><br />
 

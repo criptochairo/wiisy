@@ -35,7 +35,7 @@ function WIISYPerson() {
             <h1>Bankky</h1><br />
                     
                     Bankky is one of my dearest friends, here in Ithaca, NY.<br /><br />
-                    I met her a few years ago and she quickly amazed me with her attitude towards life and tremendous creativity.<br /><br />
+                    I met her a few years ago and she quickly amazed me with her positive attitude towards life and tremendous creativity.<br /><br />
                     Here are 10 questions so you can get to know her:<br /><br /><br /><br />
 
                     <b><i>1. How would you describe yourself?</i></b><br /><br />

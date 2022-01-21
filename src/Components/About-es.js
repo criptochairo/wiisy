@@ -19,7 +19,7 @@ function AboutEs() {
 
                 Soy hija, hermana, esposa, mamá, tía, sobrina, ahijada, amiga, comadre, compañera, guía, apoyo, <i>coach</i>, porrista virtual, organizadora de sesiones de Zoom, archivista de corazón, escritora, podcastera y muchas cosas más.<br /><br />
 
-                Tengo una licenciatura en Pedagogía de la Facultad de Filosofía y Letras de la <i>UNAM</i>, una maestría en Antropología de la <i>The New School for Social Research</i>, y un Certificado de Traducción del inglés al español de la ahora llamada <i>University of Texas, Rio Grande Valley</i> (UTRGV).<br /><br />
+                Tengo una licenciatura en Pedagogía de la Facultad de Filosofía y Letras de la <i>UNAM</i>, una maestría en Antropología de <i>The New School for Social Research</i>, y un Certificado de Traducción del inglés al español de la ahora llamada <i>University of Texas, Rio Grande Valley</i> (UTRGV).<br /><br />
 
                 Pero lo más importante es que soy la creadora intelectual de este sitio web <i>que honra la filosofía que definió la vida de mi querido hermano: Héctor Cárdenas.</i> Una filosofía que habla de posibilidades, de crecimiento, de amor a la vida, de usar el <u><b>sí</b></u> de manera constructiva y creativamente.<br /><br />
 
@@ -44,7 +44,7 @@ function AboutEs() {
 
                 Luego, le pedí a mi gemelo Jorge y a mi hija Maya que colaboraran en el diseño del logo. <br /><br />
 
-                Años antes de que Héctor muriera yo había puesto en mi vision board que quería publicar un libro con mi hermana y mis hermanos. Pero ese plan murió con Héctor.<br /><br />
+                Años antes de que Héctor muriera yo había puesto en mi <i>vision board</i> que quería publicar un libro con mi hermana y mis hermanos. Pero ese plan murió con Héctor.<br /><br />
 
                 Decidí entonces que en este espacio incluiría a mi hermana, mis dos hermanos y miembros cercanos de mi familia. <br /><br />
 

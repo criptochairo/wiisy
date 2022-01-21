@@ -70,14 +70,14 @@ function WIISYPersonEs() {
                     Mi primer momento de "¿qué pasa si digo que sí?" fue cuando decidí tener una hija a la edad de 18 años en contra de la voluntad de mis padres. Esta fue la primera vez que tomé una decisión importante para mí, por mí misma.
                     <br /><br /><br />
 
-                    <b><i>6. Describe su momento más reciente de "¿qué pasa si digo que sí?".</i></b>
+                    <b><i>6. Describe tu momento más reciente de "¿qué pasa si digo que sí?".</i></b>
                     <br /><br />
                     Una familia, innumerables proyectos de costura, ganchillo, tejido, muebles y juguetes de cartón, carpintería, comida de juego hecha de fieltro, un canal de YouTube, hacer patrones imprimibles, la habilidad de usar Photoshop, diseño 3D, aprender a cocinar y el último proyecto de ganchillo: un cárdigan grueso para mi hija. 
                     <br /><br /><br />
 
                     <b><i>7. ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.</i></b>
                     <br /><br />
-                    A family, countless sewing projects, crochet, knitting, cardboard furniture and toys, woodworking, play felt food, a youtube channel, making printable patterns, the photoshop skill, 3D designing, learning how to cook, and the latest project crochet a chunky cardigan for my daughter.
+                    Una familia, innumerables proyectos de costura, ganchillo, tejido, muebles y juguetes de cartón, carpintería, comida de juego hecha de fieltro, un canal de YouTube, hacer patrones imprimibles, la habilidad de usar Photoshop, diseño 3D, aprender a cocinar y el último proyecto de ganchillo: un cárdigan grueso para mi hija.
                     <br /><br /><br />
 
                     <b><i>8. ¿Cómo han reaccionado los demás a tu proceso de "¿y qué pasa si digo que sí?”</i></b>
