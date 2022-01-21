@@ -29,10 +29,18 @@ function Book() {
             The idea is to inspire you to do the same: self-publishing is a way to bring out our most sincere and most profound thoughts and share them with the world without any unnecessary publishing barriers.
             <br /><br />
             In sum, in this section, I will tell you about our creative process and update you on our progress.
-            <br /><br /><br /><br />
+            <br /><br />
+            
+            ------------------------<br /><br />
 
-            <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-book/11-jan-22"><h2>· January, 2022</h2></Link><br /><br />
+            <i>January 11, 2022<br /><br /></i>
 
+            <b>[Report from my twin brother]</b>
+            <br /><br />
+            At the beginning of each book, once the size and number of pages are defined, as well as the general layout, the first thing is to receive or collect all the material, then review the photos and make sure they have the size and resolution that will be used in the book. I am at that stage.
+            <br /><br /><br />
+
+            
 
             <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects"><h2>Next Section</h2></Link>

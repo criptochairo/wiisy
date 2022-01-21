@@ -32,7 +32,7 @@ function HomeEs() {
             
             <div className="section-container">
                 <Link to="/about-es"><img src={aboutmeimg} alt="about-me" /></Link>
-                <Link style={{ color: 'black' }} to="/about-es"><h2>Acerca de Mí</h2></Link>
+                <Link style={{ color: 'black' }} to="/about-es"><h2>Acerca de mí</h2></Link>
                 <p className="container-text">¡Hola! Mi nombre es Lucía Cárdenas. Denle click <Link style={{ color: 'black' }} to="/about-es">aquí</Link> para que se enteren de por qué decidí crear este sitio web.</p>
             </div>
 
@@ -44,7 +44,7 @@ function HomeEs() {
             
             <div className="section-container">
                 <Link to="/community-board-es"><img src={communityimg} alt="community-board" /></Link>
-                <Link style={{ color: 'black' }} to="/community-board-es"><h2>Pizarrón Comunitario</h2></Link>
+                <Link style={{ color: 'black' }} to="/community-board-es"><h2>Pizarrón comunitario</h2></Link>
                 <p className="container-text">Este es un espacio para aprender de los demás y que otros aprendan de ustedes. ¡Entren y compartan sus experiencias!</p>
             </div>
 

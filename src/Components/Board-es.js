@@ -8,7 +8,7 @@ function BoardEs() {
         <div className="text-container">
             <NavEs />
             <img src={communityimg} alt="wiisy-logo" id="header-img" />
-            <h1>Pizarrón Comunitario</h1><br />
+            <h1>Pizarrón comunitario</h1><br />
 
             <p className="content-text">
             En cuestiones de creación es muy importante tener un espacio personal, íntimo. Pero también es importante crear un espacio comunal, para compartir lo que pensamos, reflexionamos y sentimos y así darle un sentido más completo a nuestra existencia. 

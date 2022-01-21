@@ -11,7 +11,7 @@ function BookEs() {
 
         <div className="text-container"> 
             <img src={bookimg} alt="wiisy-logo" id="blog-img" /> 
-            <h1>Libro con mi Hermano Gemelo</h1> <br />
+            <h1>Libro con mi hermano gemelo</h1> <br />
 
             <p className="content-text">
             
@@ -30,13 +30,21 @@ function BookEs() {
             La idea es inspirarlos a hacer lo mismo: autopublicar es una manera de sacar a la luz nuestros más sinceros y profundos pensamientos y compartirlos con el mundo sin tener que enfrentar barreras innecesarias de las casas editoriales
             <br /><br />
             En resumen, aquí les contaré sobre nuestro proceso creativo y los actualizaré sobre nuestro progreso.
-            <br /><br /><br /><br />
+            <br /><br />
+            
+            ------------------------<br /><br />
 
-            <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-book/11-jan-22-es"><h2>· Enero del 2022</h2></Link><br /><br />
+            <i>11 de enero de 2022</i><br /><br />
 
-            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>De Vuelta a Blog</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects-es"><h2>Siguiente Sección</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast-es"><h2>Sección Anterior</h2></Link>
+            <b>[Reporte de mi hermano gemelo]</b>
+            <br /><br />
+            Al principio de cada libro, una vez que se define el tamaño y el número de páginas, así como el layout general, lo primero es recibir o recopilar todo el material, después revisar las fotos y ponerlas al tamaño y resolución que se usarán en el libro. Voy en esa parte.
+            <br /><br /><br />
+
+
+            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects-es"><h2>Siguiente sección</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast-es"><h2>Sección anterior</h2></Link>
             
             </p>
 

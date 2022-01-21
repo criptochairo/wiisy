@@ -27,8 +27,9 @@ function MomentOTWEs() {
             <br /><br />
             Maya y Carlos esperan que les guste lo que van a compartir con ustedes.
             <br /><br />
-            --------------
-            <br /><br />
+            ------------------------<br /><br />
+
+            <i>11 de enero del 2022</i> <br /><br />
 
             Como muestran las fotos, ¡Maya y yo finalmente exploramos oficialmente nuestros respectivos instrumentos musicales! ¿Qué significa esto? Bueno, ella tomó mi guitarra y yo tomé su violín y ambos tocamos la "Oda a la Alegría" de Beethoven (Sinfonía No. 9 en Re menor, Op. 125) por separado con la ayuda del otro.
             <br /><br />
@@ -40,9 +41,9 @@ function MomentOTWEs() {
                 <img src={Pic2} alt="#" />
             </div>
 
-            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>De Vuelta a Blog</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/person-of-the-month-es"><h2>Siguiente Sección</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations-es"><h2>Sección Anterior</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/person-of-the-month-es"><h2>Siguiente sección</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations-es"><h2>Sección anterior</h2></Link>
             </p>
 
             <GoTop />

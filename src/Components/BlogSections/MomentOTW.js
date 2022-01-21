@@ -26,8 +26,10 @@ function MomentOTW() {
             <br /><br />
             Maya and Carlos hope that you will like what they share with you.
             <br /><br />
-            --------------
-            <br /><br />
+            
+            ------------------------<br /><br /> 
+
+            <i>January 11, 2022</i> <br /><br />
 
             As the photos show, Maya and I finally and officially explored our respective musical instruments!  What does this mean? Well, she picked up my guitar and I picked up her violin and we both played Beethoven's "Ode to Joy" (Symphony No. 9 in D minor, Op. 125) separately with the other's help.
             <br /><br />

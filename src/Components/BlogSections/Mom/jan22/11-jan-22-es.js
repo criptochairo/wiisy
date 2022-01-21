@@ -18,7 +18,7 @@ function Post() {
                 <br /><br />
                 <i>Hola hijita querida:
                 <br /><br />
-                Acabamos de ir a un restorán en la CDMX que está en la colonia Roma, en la calle de Zacatecas. Tu hermano Luis nos lo recomendó y se llama <a href="https://twitter.com/EatLalo" target="_blank" rel="noreferrer">“Lalo”</a>.
+                Acabamos de ir a un restorán en la CDMX que está en la colonia Roma, en la calle de Zacatecas. Tu hermano Luis nos lo recomendó y se llama <a href="https://www.google.com.mx/maps/place/Lalo!/@19.4153908,-99.1646584,17z/data=!3m1!4b1!4m5!3m4!1s0x85d1ff395f34802d:0x1c6328f5be71ded7!8m2!3d19.4153858!4d-99.1624697" target="_blank" rel="noreferrer">“Lalo!”</a>.
                 <br /><br />
                 La comida riquísima y la atención es excelente.
                 <br /><br />

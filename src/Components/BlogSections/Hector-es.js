@@ -1,8 +1,7 @@
 import React from "react";
-import first from '../../Resources/Texts/hector_page-0001.jpg'; 
-import second from '../../Resources/Texts/hector_page-0002.jpg'; 
-import third from '../../Resources/Texts/hector_page-0003.jpg'; 
-import fourth from '../../Resources/Texts/hector_page-0004.jpg'; 
+import first from '../../Resources/Texts/YSDQI1.jpg'; 
+import second from '../../Resources/Texts/YSDQI2.jpg'; 
+import third from '../../Resources/Texts/YSDQI3.jpg'; 
 import logo from '../../Resources/logo-final.jpeg';
 import hector from '../../Resources/Pics/hector.jpg';
 import GoTop from "../GoTop";
@@ -21,7 +20,6 @@ function HectorEs() {
             <img src={first} alt="first page" />
             <img src={second} alt="second page" />
             <img src={third} alt="third page" />
-            <img src={fourth} alt="fourth page" />
             <img src={hector} alt="hector" />
 
             </div>

@@ -31,9 +31,27 @@ function Podcast() {
                 My mother tongue is Spanish, so I record it in Spanish. I still haven't gotten myself into saying <i>what if I say yes to recording it in English?</i> That still scares me because my pronunciation isn't perfect, and I'm afraid I will end up saying something that sounds like something else, ha-ha. But in the spirit of this website, I will say <b><i>yes!</i></b> to presenting my podcast in English one day.
                 <br /><br />
                 In the meantime, I will write here about what I talk about in my various episodes to inspire you to do the same: learn to give away your own words, and who knows, maybe also create your podcast someday!
-                <br /><br /><br /><br />
+                <br /><br />
+                
+                ------------------------<br /><br />
 
-                <Link className="link" style={{ color: 'black', textAlign: 'left' }} to="/blog/my-podcast/11-jan-22"><h2>· 11 January, 2022</h2></Link><br /><br />
+                <i>January 11, 2022</i>
+                <br /><br />
+
+                Last year I basically worked on deciding what I wanted to do during my first season. Then my brother Luis (the sound director of my podcast) and I spent several months trying to see where in my apartment I could record to make it sound better… until we discovered that I had the microphone in the wrong position. It's two-sided and I was recording from the wrong side, ha-ha. But hey, that's how you learn. 
+                <br /><br />
+                Keep in mind that he is trying to help me from Mexico while I am here in the United States. So, all the training has been at a distance through WhatsApp or Zoom or whatever we can use.
+                <br /><br />
+                Once my brother had given me the green light to start recording, it turns out that I wanted to rewrite my first episode because I became a super fan of <a href="https://themoth.org/podcast" target="_blank" rel="noreferrer">The Moth</a> podcast and since I love how people tell their stories, I wanted to tell mine just like they do.
+                <br /><br />
+                I looked for the methodology they use and am working on it. I have been writing and rewriting and won’t stop until I have something that I like a lot. When I get to that point, I will record my first episode.
+                <br /><br />
+                I'll keep you posted ... but I am getting there.
+                <br /><br /><br />
+
+                {/* <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-podcast/11-jan-22"><h2>January 11, 2022</h2></Link>
+                </div> */}
 
                 <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-book"><h2>Next Section</h2></Link>

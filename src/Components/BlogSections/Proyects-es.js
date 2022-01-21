@@ -25,11 +25,13 @@ function ProyectsEs() {
             En este espacio compartiremos algunos de los videos que hemos creado juntas (Maya, Cookies y yo).
             <br /><br />
             Espero que los inspire a crear proyectos visuales y a ¡compartirlos con el mundo!
-            <br /><br /><br /><br />
+            <br /><br />
 
-            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>De Vuelta a Blog</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice-es"><h2>Siguiente Sección</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-book-es"><h2>Sección Anterior</h2></Link>
+
+
+            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice-es"><h2>Siguiente sección</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-book-es"><h2>Sección anterior</h2></Link>
             </p>
 
             <GoTop />
