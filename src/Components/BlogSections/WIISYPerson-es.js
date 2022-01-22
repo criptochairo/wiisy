@@ -72,7 +72,7 @@ function WIISYPersonEs() {
 
                     <b><i>6. Describe tu momento más reciente de "¿qué pasa si digo que sí?".</i></b>
                     <br /><br />
-                    Una familia, innumerables proyectos de costura, ganchillo, tejido, muebles y juguetes de cartón, carpintería, comida de juego hecha de fieltro, un canal de YouTube, hacer patrones imprimibles, la habilidad de usar Photoshop, diseño 3D, aprender a cocinar y el último proyecto de ganchillo: un cárdigan grueso para mi hija. 
+                    Mi más reciente momento de "¿qué pasa si digo que sí?" fue decidir que quería aprender a tocar el ukelele. Han pasado seis meses desde entonces, y he progresado mucho. En el camino, también he descubierto que tocar el ukelele es una de las muchas cosas que me hacen feliz. 
                     <br /><br /><br />
 
                     <b><i>7. ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.</i></b>
