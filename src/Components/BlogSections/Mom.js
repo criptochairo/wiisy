@@ -3,6 +3,7 @@ import Momimg from '../../Resources/Icons/grandma.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
+import laloimg from '../../Resources/Pics/lalo.jpg';
 
 function Mom() {
     return (
@@ -24,6 +25,8 @@ function Mom() {
 
             ------------------------<br /><br />
 
+                <img src={laloimg} alt="lalo" id="lalo-img" className="profile-pic" />
+
             
                 <i>January 11, 2022<br /><br /></i>
 
@@ -41,7 +44,7 @@ function Mom() {
                 <br /><br /><br /></i>
 
                 <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-week"><h2>Next Section</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-month"><h2>Next Section</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice"><h2>Previous Section</h2></Link>
             </p>
 

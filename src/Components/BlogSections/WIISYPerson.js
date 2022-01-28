@@ -94,7 +94,7 @@ function WIISYPerson() {
 
             <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-photography"><h2>Next Section</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-week"><h2>Previous Section</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-month"><h2>Previous Section</h2></Link>
             </p>
 
             <GoTop />

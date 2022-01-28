@@ -3,6 +3,7 @@ import Momimg from '../../Resources/Icons/grandma.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
+import laloimg from '../../Resources/Pics/lalo.jpg';
 
 function MomEs() {
     return (
@@ -25,6 +26,8 @@ function MomEs() {
             
             ------------------------<br /><br />
 
+            <img src={laloimg} alt="lalo" id="lalo-img" className="profile-pic" />
+
             <i>11 de enero del 2022</i><br /><br />
 
                 Hola, ma:
@@ -41,7 +44,7 @@ function MomEs() {
                 <br /><br /><br /></i>
 
             <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-week-es"><h2>Siguiente sección</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-month-es"><h2>Siguiente sección</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice-es"><h2>Sección anterior</h2></Link>
             </p>
 

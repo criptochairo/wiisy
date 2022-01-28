@@ -73,7 +73,7 @@ const RouteSwitch = () => {
         <Route path="/blog/my-daughters-projects" element={<Proyects />} />
         <Route path="/blog/my-sisters-advice" element={<Sister />} />
         <Route path="/blog/my-moms-recommendations" element={<Mom />} />
-        <Route path="/blog/moment-of-the-week" element={<MomentOTW />} />
+        <Route path="/blog/moment-of-the-month" element={<MomentOTW />} />
         <Route path="/blog/person-of-the-month" element={<WIISYPerson />} />
 
 
@@ -84,7 +84,7 @@ const RouteSwitch = () => {
         <Route path="/blog/my-daughters-projects-es" element={<ProyectsEs />} />
         <Route path="/blog/my-sisters-advice-es" element={<SisterEs />} />
         <Route path="/blog/my-moms-recommendations-es" element={<MomEs />} />
-        <Route path="/blog/moment-of-the-week-es" element={<MomentOTWEs />} />
+        <Route path="/blog/moment-of-the-month-es" element={<MomentOTWEs />} />
         <Route path="/blog/person-of-the-month-es" element={<WIISYPersonEs />} />
 
 

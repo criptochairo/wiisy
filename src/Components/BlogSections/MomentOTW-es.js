@@ -13,15 +13,15 @@ function MomentOTWEs() {
 
             <div className="text-container"> 
             <img src={Week} alt="wiisy-logo" id="blog-img" /> 
-            <h1>El momento de la semana</h1> <br />
+            <h1>El momento del mes</h1> <br />
 
 
             <p class="content-text">
-            El momento de la semana es una sección que estará a cargo de mi hija Maya y mi esposo Carlos. 
+            El momento del mes es una sección que estará a cargo de mi hija Maya y mi esposo Carlos. 
             <br /><br />
             Querían participar en este espacio y dije que <b><i>¡sí!</i></b> <span role="img" aria-label="smile">😄</span>
             <br /><br />
-            Aquí van a hablar de algún momento de la semana que se les hizo crítico, divertido, interesante, curioso y demás.
+            Aquí van a hablar de algún momento del mes que se les hizo crítico, divertido, interesante, curioso y demás.
             <br /><br />
             Es un espacio para animarlos a ustedes a reflexionar sobre cómo vivieron la semana que pasó y a elegir un momento que quieran recordar por siempre.
             <br /><br />
