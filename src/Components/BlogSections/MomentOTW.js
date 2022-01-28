@@ -15,7 +15,7 @@ function MomentOTW() {
             <h1>Moment of the Month</h1> <br />
 
 
-            <p class="content-text">
+            <p class="content-text"> 
             My daughter Maya and my husband Carlos will oversee this section. 
             <br /><br />
             They wanted to participate in my website, and I said <b><i>yes!</i></b> <span role="img" aria-label="smile">😄</span>
@@ -24,7 +24,7 @@ function MomentOTW() {
             <br /><br />
             It is a space to encourage you to reflect on how you lived the past month by choosing a moment you want to remember forever.
             <br /><br />
-            Maya and Carlos hope that you will like what they share with you.
+            Maya and Carlos hope that you will like what they share with you. 
             <br /><br />
             
             ------------------------<br /><br /> 
@@ -33,7 +33,7 @@ function MomentOTW() {
 
             As the photos show, Maya and I finally and officially explored our respective musical instruments!  What does this mean? Well, she picked up my guitar and I picked up her violin and we both played Beethoven's "Ode to Joy" (Symphony No. 9 in D minor, Op. 125) separately with the other's help.
             <br /><br />
-            I served as her first guitar teacher and she was my first violin teacher.  What a moment!  Maya was amazing, playing not only this piece but others with such fluidity.  And she told me I was a quick learner too with the violin. So, for our first moment of the week, we share our musicality!
+            I served as her first guitar teacher and she was my first violin teacher.  What a moment!  Maya was amazing, playing not only this piece but others with such fluidity.  And she told me I was a quick learner too with the violin. So, for our first moment of the month, we share our musicality!
             <br /><br />
 
             <div className="motw-pics">

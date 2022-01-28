@@ -23,7 +23,7 @@ function MomentOTWEs() {
             <br /><br />
             Aquí van a hablar de algún momento del mes que se les hizo crítico, divertido, interesante, curioso y demás.
             <br /><br />
-            Es un espacio para animarlos a ustedes a reflexionar sobre cómo vivieron la semana que pasó y a elegir un momento que quieran recordar por siempre.
+            Es un espacio para animarlos a ustedes a reflexionar sobre cómo vivieron el mes que pasó y a elegir un momento que quieran recordar por siempre.
             <br /><br />
             Maya y Carlos esperan que les guste lo que van a compartir con ustedes.
             <br /><br />
@@ -33,7 +33,7 @@ function MomentOTWEs() {
 
             Como muestran las fotos, ¡Maya y yo finalmente exploramos oficialmente nuestros respectivos instrumentos musicales! ¿Qué significa esto? Bueno, ella tomó mi guitarra y yo tomé su violín y ambos tocamos la "Oda a la Alegría" de Beethoven (Sinfonía No. 9 en Re menor, Op. 125) por separado con la ayuda del otro.
             <br /><br />
-            Serví como su primer profesor de guitarra y ella fue mi primera profesora de violín. ¡Qué momento! Maya estuvo increíble, tocando, no solo esta pieza sino otras, con tanta fluidez. Y me dijo que yo también aprendía rápido con el violín. Entonces, para nuestro primer momento de la semana, ¡compartimos nuestra musicalidad! 
+            Serví como su primer profesor de guitarra y ella fue mi primera profesora de violín. ¡Qué momento! Maya estuvo increíble, tocando, no solo esta pieza sino otras, con tanta fluidez. Y me dijo que yo también aprendía rápido con el violín. Entonces, para nuestro primer momento del mes, ¡compartimos nuestra musicalidad! 
             <br /><br />
 
             <div className="motw-pics">
