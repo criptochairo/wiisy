@@ -14,12 +14,13 @@ function Jan22() {
             <Nav />
             <div className="text-container">
             <img src={bankkyimg} alt="bankky" id="bankky-img" className="profile-pic" />
-            <h1>Bankky</h1> <br />
+            
+            <h1>Bankky</h1><br />
 
-                <p className="content-text">
+            <p class="content-text">
                     
                     Bankky is one of my dearest friends, here in Ithaca, NY.<br /><br />
-                    I met her a few years ago and she quickly amazed me with her attitude towards life and tremendous creativity.<br /><br />
+                    I met her a few years ago and she quickly amazed me with her positive attitude towards life and tremendous creativity.<br /><br />
                     Here are 10 questions so you can get to know her:<br /><br /><br /><br />
 
                     <b><i>1. How would you describe yourself?</i></b><br /><br />
@@ -52,9 +53,9 @@ function Jan22() {
                     <b><i>10. What have you learned from the “What If I Say Yes” process?</i></b><br /><br />
                     I've learned that life is yours, so do whatever makes you happy. <br /><br /><br />
 
-                    You can find Bankky at:<br /><br />        
+                    You can find Bankky at:<br /><br />  
 
-                </p>
+                    </p>      
 
             <div className="profile-container">
                 <a href="https://www.youtube.com/c/HappyBankkyCraftyMom" target="_blank" rel="noreferrer"><img src={Youtube} alt="ytlogo" /></a>

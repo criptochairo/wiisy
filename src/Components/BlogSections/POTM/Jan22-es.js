@@ -14,9 +14,10 @@ function Jan22Es() {
             <NavEs />
             <div className="text-container">
             <img src={bankkyimg} alt="bankky" id="bankky-img" className="profile-pic" />
+
             <h1>Bankky</h1> <br />
 
-                <p className="content-text">
+            <p class="content-text">
                     
                 Bankky es una de mis amigas más queridas acá en Ithaca, NY.
                 <br /><br />
@@ -50,14 +51,14 @@ function Jan22Es() {
                     Mi primer momento de "¿qué pasa si digo que sí?" fue cuando decidí tener una hija a la edad de 18 años en contra de la voluntad de mis padres. Esta fue la primera vez que tomé una decisión importante para mí, por mí misma.
                     <br /><br /><br />
 
-                    <b><i>6. Describe su momento más reciente de "¿qué pasa si digo que sí?".</i></b>
+                    <b><i>6. Describe tu momento más reciente de "¿qué pasa si digo que sí?".</i></b>
                     <br /><br />
-                    Una familia, innumerables proyectos de costura, ganchillo, tejido, muebles y juguetes de cartón, carpintería, comida de juego hecha de fieltro, un canal de YouTube, hacer patrones imprimibles, la habilidad de usar Photoshop, diseño 3D, aprender a cocinar y el último proyecto de ganchillo: un cárdigan grueso para mi hija. 
+                    Mi más reciente momento de "¿qué pasa si digo que sí?" fue decidir que quería aprender a tocar el ukelele. Han pasado seis meses desde entonces, y he progresado mucho. En el camino, también he descubierto que tocar el ukelele es una de las muchas cosas que me hacen feliz. 
                     <br /><br /><br />
 
                     <b><i>7. ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.</i></b>
                     <br /><br />
-                    A family, countless sewing projects, crochet, knitting, cardboard furniture and toys, woodworking, play felt food, a youtube channel, making printable patterns, the photoshop skill, 3D designing, learning how to cook, and the latest project crochet a chunky cardigan for my daughter.
+                    Una familia, innumerables proyectos de costura, ganchillo, tejido, muebles y juguetes de cartón, carpintería, comida de juego hecha de fieltro, un canal de YouTube, hacer patrones imprimibles, la habilidad de usar Photoshop, diseño 3D, aprender a cocinar y el último proyecto de ganchillo: un cárdigan grueso para mi hija.
                     <br /><br /><br />
 
                     <b><i>8. ¿Cómo han reaccionado los demás a tu proceso de "¿y qué pasa si digo que sí?”</i></b>
@@ -76,9 +77,10 @@ function Jan22Es() {
                     <br /><br /><br />
 
                     Puedes encontrar a Bankky en:
-                    <br /><br />        
+                    <br /><br />    
 
-                </p>
+                    </p>    
+
 
             <div className="profile-container">
                 <a href="https://www.youtube.com/c/HappyBankkyCraftyMom" target="_blank" rel="noreferrer"><img src={Youtube} alt="ytlogo" /></a>
@@ -99,6 +101,8 @@ function Jan22Es() {
                 <a href="https://www.happybankkycraftymom.com/" target="_blank" rel="noreferrer"><img src={BankkyLogo} alt="website" id="bankkylogo"/></a>
                 <b>Happybankkycraftymom.com</b>
             </div>
+
+            <br />
 
 
             <Link className="link" style={{ color: 'black', fontSize: '100%', marginTop: '1.5em'}} to="/blog/person-of-the-month-es"><h2>Regresar</h2></Link>

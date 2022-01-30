@@ -17,7 +17,7 @@
 
 #post-link {
     box-shadow: 1px 1px 10px rgb(247, 242, 242);
-    background-color: rgba(122, 195, 255, 0.5);
+    background-color: rgba(118, 198, 211, 0.7);
     border-radius: 25px;
     text-decoration: none;
     display: flex;
@@ -30,7 +30,7 @@
 }
 
 #post-link:hover {
-    background-color: rgba(122, 195, 255, 0.85);
+    background-color: rgba(118, 198, 211, 1);
 }
 
 .post-img-container {

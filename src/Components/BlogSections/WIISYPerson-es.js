@@ -3,15 +3,15 @@ import Prize from '../../Resources/Icons/wreath.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import bankkyimg from '../../Resources/Pics/Bankky.jpeg';
-import Youtube from "../../Resources/youtube.png";
-import Instagram from "../../Resources/instagram.png";
-import Facebook from "../../Resources/facebook.png";
-import BankkyLogo from "../../Resources/BankkyLogo.png";
+import carlos1 from '../../Resources/Pics/carlos1.jpg';
+import carlos2 from '../../Resources/Pics/carlos2.jpg';
+import Ithaca from "../../Resources/ithaca.png";
+import Twitter from "../../Resources/twitter.png";
+import LinkedIn from "../../Resources/linkedin.png";
 
 function WIISYPersonEs() {
     return (
-        <div className="aboutme-page">
+        <div>
             <NavEs />
 
             <div className="text-container"> 
@@ -34,89 +34,83 @@ function WIISYPersonEs() {
 
             ------------------------<br /><br />
 
-            <img src={bankkyimg} alt="bankky" id="bankky-img" className="profile-pic" />
+            <img src={carlos1} alt="bankky" id="bankky-img" className="profile-pic" />
 
-            <h1>Bankky</h1> <br />
+            <h1>Carlos</h1> <br />
                     
-                Bankky es una de mis amigas más queridas acá en Ithaca, NY.
+                Carlos es mi querido esposo y el amor de mi vida.
                 <br /><br />
-                La conocí hace algunos años y rápidamente me sorprendió su actitud positiva ante la vida y su tremenda creatividad.
+                Mucha gente lo conoce, pero pocos saben lo interesantes y variadas que han sido sus experiencias de vida.
                 <br /><br />
-                Aquí hay 10 preguntas para la que la conozcan:
-                <br /><br /><br /><br />
+                Proviene de un entorno humilde y se ha forjado una vida hermosa gracias a la resiliencia y a una curiosidad infinita por aprender sobre política, religión, espiritualidad, deportes, comedia, humor, escritura, música, poesía, etc.<br /><br />
+                
+                Aquí hay 10 preguntas que le hice para que lo conozcan mejor:<br /><br /><br /><br />
 
-                    <b><i>1. ¿Cómo te describirías a ti misma?</i></b>
-                    <br /><br />
-                    Mi nombre es Bankky. Soy hija, hermana, esposa y madre de cuatro hijos/as increíbles. Nací y crecí en Tailandia. Estoy casada con un japonés y ahora vivo en Ithaca, NY.
-                    <br /><br /><br />
+                <b><i>1. ¿Cómo te describirías a ti mismo?</i></b><br /><br />
+                Soy justo, curioso, ingenioso, sarcástico, amable y empático. Pero sobre todo, soy un buen oyente… cuando tengo tiempo. (Una vez más, ¡lo siento! jaja)
+                <br /><br /><br />
 
-                    <b><i>2. ¿Qué quieres de la vida?</i></b>
-                    <br /><br />
-                    Quiero aprender sobre mí misma. Quiero descubrir lo que puedo hacer y lo que me gusta, descubrir qué me hace feliz, así como probar cosas nuevas. Quiero disfrutar de la vida que he creado con mi familia y ver crecer a mis hijos/as, verlos elegir sus propios caminos y apoyarlos. Quiero ayudar a la gente compartiendo lo que sé. Espero que pueda inspirarlos.
-                    <br /><br /><br />
+                <b><i>2. ¿Qué quieres de la vida?</i></b><br /><br />
+                Quiero que la vida sea amable conmigo a medida que envejezco y me vuelvo, ojalá, más sabio.<br /><br /><br />
 
-                    <b><i>3. ¿Por qué haces las cosas que haces?</i></b>
-                    <br /><br />
-                    Me hace feliz y creo que se supone que la vida debe sentirse bien.
-                    <br /><br /><br />
+                <b><i>3. ¿Por qué haces las cosas que haces?</i></b><br /><br />
+                Hago muchas cosas grandes y pequeñas. Así que diría que hago estas cosas por varias razones: <br /><br />1) para poder aprender algo nuevo. Nunca me da miedo probar algo nuevo, dentro de lo razonable; pero debe ser legal y apto para la familia. Creo en aprender cosas nuevas (por ejemplo: tocar la guitarra, leer teoría político-económica, escribir desde una perspectiva histórica, cocinar con un wok, cantar o rapear, pintar con los dedos, escribir poesía o hasta cortar carne roja en una carnicería) dando mi mejor esfuerzo, si es posible;<br /><br /> 2) para sorprenderme a mí mismo de que realmente puedo hacer lo que me propuse hacer sin importar cuánto tiempo me tome (por ejemplo, empezar y terminar un doctorado y obtener una plaza permanente en una universidad);<br /><br /> 3) para provocar una sonrisa en la cara de alguien, por ejemplo, mi querida y amada Mami (fallecida en el 2015), ofrecer un gesto generoso o dar una mano amiga que ayude a transformar para bien una vida (humana o de otro tipo) aunque sea por un segundo;<br /><br /> 4) para sentirme realizado emocional, espiritual e intelectualmente, es decir, si me hace feliz, lo voy a hacer.
+                <br /><br /><br />
 
-                    <b><i>4. ¿Cómo entiendes el proceso de "¿qué pasa si digo que sí?”</i></b>
-                    <br /><br />
-                    Mi proceso de “¿qué pasa si digo que sí?" es tomar primero la decisión de lo que quiero hacer. Entonces, simplemente voy y lo hago. El último paso y el más importante es ignorar a los detractores. 
-                    <br /><br /><br />
+                <b><i>4. ¿Cómo entiendes el proceso de "¿qué pasa si digo que sí?”</i></b><br /><br />
+                Entiendo el proceso de "¿qué pasa si digo que sí?" casi como una teoría abreviada para ir al grano y avanzar hacia tus objetivos. Significa que, una vez que dices que ¡sí!, te estás comprometiendo a perseguir y lograr tus metas. Decir que ¡sí! significa planificar tus pasos con el mayor detalle posible, alinearte con personas positivas que puedan ayudarte en el proceso, y significa buscar la capacitación necesaria que pueda brindarte las herramientas adecuadas para hacer realidad tus sueños o metas. Un ejemplo muy claro, está en <a href="https://www.mccc.edu/~gardnerj/mccc_news/alum_carlos_figueroa.html" target="_blank" rel="noreferrer">esta entrevista</a> que me hicieron en el 2014.
+                <br /><br /><br />
 
-                    <b><i>5. ¿Cuál dirías que fue tu primer momento de "¿qué pasa si digo que sí?"</i></b>
-                    <br /><br />
-                    Mi primer momento de "¿qué pasa si digo que sí?" fue cuando decidí tener una hija a la edad de 18 años en contra de la voluntad de mis padres. Esta fue la primera vez que tomé una decisión importante para mí, por mí misma.
-                    <br /><br /><br />
+                <b><i>5. ¿Cuál dirías que fue tu primer momento de "¿qué pasa si digo que sí?"</i></b><br /><br />
+                Diría que mi primer momento de "¿y qué pasa si digo que sí" fue cuando finalmente dije que ¡sí! a viajar y quedarme en el extranjero durante 4 meses para estudiar historia, política y literatura británicas lejos de mi familia y amigos más cercanos, a principios de la década de 1990.
+                <br /><br /><br />
 
-                    <b><i>6. Describe tu momento más reciente de "¿qué pasa si digo que sí?".</i></b>
-                    <br /><br />
-                    Mi más reciente momento de "¿qué pasa si digo que sí?" fue decidir que quería aprender a tocar el ukelele. Han pasado seis meses desde entonces, y he progresado mucho. En el camino, también he descubierto que tocar el ukelele es una de las muchas cosas que me hacen feliz. 
-                    <br /><br /><br />
+                <b><i>6. Describe tu momento más reciente de "¿qué pasa si digo que sí?".</i></b><br /><br />
+                Bueno, mi momento más reciente de "¿y qué pasa si digo que sí?" fue tomar una decisión largamente esperada de desarrollar mi comedia (¡lo he querido hacer, quizás, desde que tenía 8 o 9 años!). ¡Oh, la ironía! He estado pensando y soñando con hacer algo con la comedia, desde monólogos (stand-up), ensayos humorísticos, guiones para comedias de televisión y actuar, hasta escribir para programas nocturnos, solo por mencionar algunos. ¡Los mantendré al tanto!
+                <br /><br /><br />
 
-                    <b><i>7. ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.</i></b>
-                    <br /><br />
-                    Una familia, innumerables proyectos de costura, ganchillo, tejido, muebles y juguetes de cartón, carpintería, comida de juego hecha de fieltro, un canal de YouTube, hacer patrones imprimibles, la habilidad de usar Photoshop, diseño 3D, aprender a cocinar y el último proyecto de ganchillo: un cárdigan grueso para mi hija.
-                    <br /><br /><br />
+                <b><i>7.  ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.</i></b><br /><br />
+                ¡Guau! ¿Cuánto espacio tienes en este sitio web? Seré breve. No necesariamente creé cosas concretas o materiales, pero fui el primero en mi familia en ir a la universidad en todos los niveles (grado asociado, licenciatura, maestría y doctorado); fui el primero en mi familia en aprender a conducir un auto con palanca de velocidades (compré mi auto por alrededor de $400 dólares y casi me mato saliendo del estacionamiento); comencé mi propio negocio -de corta duración- vendiendo sistemas de filtración de agua a los 18 años; conduje sedanes y limusinas para ahorrar dinero extra para la universidad mientras mis amigos estaban en la playa; y dije que ¡SÍ! al amor verdadero (después de que mi mami me dijera “déjate querer”), me casé y luego tuve mi primera y única hija. Compartiré más en mi autobiografía, bueno, una vez que diga que le diga que ¡sí! a eso.
+                <br /><br /><br />
 
-                    <b><i>8. ¿Cómo han reaccionado los demás a tu proceso de "¿y qué pasa si digo que sí?”</i></b>
-                    <br /><br />
-                    Realmente no presto atención a lo que la gente piensa sobre lo que hago.
-                    <br /><br /><br />
+                <b><i>8. ¿Cómo han reaccionado los demás a tu proceso de "¿y qué pasa si digo que sí?”</i></b><br /><br />
+                La gente ha reaccionado o con sorpresa, orgullo y alegría, o con miedo en los ojos, celos y desprecio. Pero a final de cuentas, por lo general evito las vibraciones negativas y me enfoco en la naturaleza alentadora de las personas, sus intenciones positivas y sus ideas o sugerencias útiles para hacer realidad mis objetivos.
+                <br /><br /><br />
 
-                    <b><i>9. ¿Cuál será tu próximo momento de “¿y qué pasa si digo que sí?”</i></b>
-                    <br /><br />
-                    Por ahora, no lo sé, pero cuando llegue el momento, sabré exactamente qué hacer.
-                    <br /><br /><br />
+                <b><i>9. ¿Cuál será tu próximo momento de “¿y qué pasa si digo que sí?”</i></b><br /><br />
+                Tengo varias cosas en mente. Ya hablé de una en la pregunta anterior. Sin embargo, compartiré más de ellos con el tiempo. Manténganse al tanto.
+                <br /><br /><br />
 
-                    <b><i>10. ¿Qué has aprendido del proceso "¿y qué pasa si digo que sí"?</i></b>
-                    <br /><br />
-                    He aprendido que la vida es tuya, así que haz lo que sea que te haga feliz. 
-                    <br /><br /><br />
+                <b><i>10. ¿Qué has aprendido del proceso "¿y qué pasa si digo que sí"?</i></b><br /><br />
+                He aprendido a planificar tanto como sea humanamente posible mi proceso una vez que digo ¡sí! También debe haber espacio para la espontaneidad dentro de un plan bien estructurado. Además aprendí a ser agradecido por lo que tengo y lo que lograré en el futuro y por aquellos que han llegado a mi vida en diferentes etapas. Finalmente, he aprendido que nunca estás solo cuando persigues y logras tus metas. Una vez que dices que ¡sí! necesitas abrir tu corazón, mente y alma a todas las posibilidades y personas en el camino.
+                <br /><br />
 
-                    Puedes encontrar a Bankky en:
-                    <br /><br />        
+                <img src={carlos2} alt="carlos" id="bankky-img" className="profile-pic" /><br />
 
+                Pueden encontrar a Carlos en:<br /><br />        
 
             <div className="profile-container">
-                <a href="https://www.youtube.com/c/HappyBankkyCraftyMom" target="_blank" rel="noreferrer"><img src={Youtube} alt="ytlogo" /></a>
-                <b>HappyBankkycraftymom</b>
+                <a href="https://www.ithaca.edu/faculty/cfigueroa" target="_blank" rel="noreferrer"><img src={Ithaca} alt="ithacacollege" id="logo"/></a>
+                <b>Ithaca College</b>
             </div>
 
             <div className="profile-container">
-                <a href="https://www.instagram.com/happybankkycraftymom/?hl=en" target="_blank" rel="noreferrer"><img src={Instagram} alt="instalogo" /></a>
-                <b>@Happybankkycraftymom</b>
+                <a href="https://twitter.com/FigueroaPhd" target="_blank" rel="noreferrer"><img src={Twitter} alt="twitterlogo" /></a>
+                <b>@figueroaphd</b>
             </div>
 
             <div className="profile-container">
-                <a href="https://www.facebook.com/HappyBankkyCraftymom/" target="_blank" rel="noreferrer"><img src={Facebook} alt="fblogo" /></a>
-                <b>@Happybankkycraftymom</b>
+                <a href="https://www.linkedin.com/in/carlos-figueroa-40076899/" target="_blank" rel="noreferrer"><img src={LinkedIn} alt="fblogo" /></a>
+                <b>LinkedIn</b>
             </div>
 
-            <div className="profile-container">
-                <a href="https://www.happybankkycraftymom.com/" target="_blank" rel="noreferrer"><img src={BankkyLogo} alt="website" id="bankkylogo"/></a>
-                <b>Happybankkycraftymom.com</b>
+
+            ------------------------<br />
+
+            <strong>Posts anteriores</strong><br /><br />
+
+            <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/person-of-the-month/jan22-es"><h2>Enero 2022</h2></Link>
             </div>
 
             <br />

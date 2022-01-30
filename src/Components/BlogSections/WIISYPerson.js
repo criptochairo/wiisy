@@ -3,15 +3,16 @@ import Prize from '../../Resources/Icons/wreath.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import bankkyimg from '../../Resources/Pics/Bankky.jpeg';
-import Youtube from "../../Resources/youtube.png";
-import Instagram from "../../Resources/instagram.png";
-import Facebook from "../../Resources/facebook.png";
-import BankkyLogo from "../../Resources/BankkyLogo.png";
+import carlos1 from '../../Resources/Pics/carlos1.jpg';
+import carlos2 from '../../Resources/Pics/carlos2.jpg';
+import Ithaca from "../../Resources/ithaca.png";
+import Twitter from "../../Resources/twitter.png";
+import LinkedIn from "../../Resources/linkedin.png";
+
 
 function WIISYPerson() {
     return (
-        <div className="aboutme-page">
+        <div>
             <Nav />
             <div className="text-container"> 
             <img src={Prize} alt="wiisy-logo" id="blog-img" /> 
@@ -30,64 +31,79 @@ function WIISYPerson() {
             
             ------------------------<br />
 
-            <img src={bankkyimg} alt="bankky" id="bankky-img" className="profile-pic" />
+            <img src={carlos1} alt="bankky" id="bankky-img" className="profile-pic" />
             
-            <h1>Bankky</h1><br />
+            <h1>Carlos</h1><br />
                     
-                    Bankky is one of my dearest friends, here in Ithaca, NY.<br /><br />
-                    I met her a few years ago and she quickly amazed me with her positive attitude towards life and tremendous creativity.<br /><br />
-                    Here are 10 questions so you can get to know her:<br /><br /><br /><br />
+                Carlos is my dear husband and the love of my life.<br /><br />
+                A lot of people know him, but only a few know how interesting and varied his life experiences have been.<br /><br />
+                He comes from a humble background and has forged a beautiful life for himself out of resilience and an endless curiosity for learning about politics, religion, spirituality, sports, comedy, humor, writing, music, poetry, etc.<br /><br />
+                
+                Here are 10 questions I asked him, so you can get to know him better:<br /><br /><br /><br />
 
-                    <b><i>1. How would you describe yourself?</i></b><br /><br />
-                    My name is Bankky I am a daughter, sister, a wife, and a mother to four amazing children. I was born and raised in Thailand, I'm married to a Japanese husband and I now live here in Ithaca NY.<br /><br /><br />
+                <b><i>1. How would you describe yourself?</i></b><br /><br />
+                I am fair, curious, quick-witted, sarcastic, kind, and empathetic. But mostly, I am a good listener… when I have time. (I did it again, sorry!)
+                <br /><br /><br />
 
-                    <b><i>2. What do you want out of life?</i></b><br /><br />
-                    I want to learn about myself. I want to discover what I can do and what I like, find out what makes me happy, as well as try new things. I want to enjoy the life I have created with my family and to see my kids grow, choose their own paths and to support them. I want to help people by sharing what I know. I hope that it can inspire them.<br /><br /><br />
+                <b><i>2. What do you want out of life?</i></b><br /><br />
+                I want life to be kind to me as I grow older and hopefully wiser.<br /><br /><br />
 
-                    <b><i>3. Why do you do the things you do?</i></b><br /><br />
-                    It makes me happy and I believe that life is supposed to feel good.<br /><br /><br />
+                <b><i>3. Why do you do the things you do?</i></b><br /><br />
+                I do many things great and small. So, I would say I do these things for several reasons: <br /><br />1) so I can learn something new. I am never afraid of trying something new, well within reason; must be legal and family-friendly. I believe in learning new things (e.g., playing guitar, reading political-economic theory, doing some historical writing, cooking with a Wok, singing or rapping, finger painting, writing poetry, or even cutting up red meat at a butcher shop) while doing it the best I can if ever possible;<br /><br /> 2) so I can surprise myself that I can actually do the thing I set out to do no matter how long it takes me (e.g. pursuing and finishing a Ph.D. degree, and getting tenure at a college);<br /><br /> 3) so I can bring a smile to someone's face, for example, my lovely and dear Mami (who passed in 2015), providing a generous gesture, a helping hand that aids in transforming a life (human or otherwise) if only for a second, for the better;<br /><br /> 4) so I can feel fulfilled emotionally, spiritually, and intellectually, that is, if it makes me happy, I will do it.<br /><br /><br />
 
-                    <b><i>4. How do you understand the “What If I Say Yes” process?</i></b><br /><br />
-                    My “What If I Say Yes” process is to first make the decision of whatever I want to do. Then, I just go and do it. The last and most important step is to ignore the naysayers. <br /><br /><br />
+                <b><i>4. How do you understand the “What If I Say Yes” process?</i></b><br /><br />
+                I understand the “What if I say Yes” process almost as a short-hand theory to cut to the chase and get going towards your goals. It means once you say YES! you are committing yourself to pursue and accomplish your goals. Saying YES! means planning out your steps in as much detail as possible, it means aligning yourself with positive people who can help you in the process, and it means seeking any training necessary that can provide the proper tools to make your dreams or goals a reality. A very clear example is in <a href="https://www.mccc.edu/~gardnerj/mccc_news/alum_carlos_figueroa.html" target="_blank" rel="noreferrer">this interview</a> that I gave in 2014.
+                <br /><br /><br />
 
-                    <b><i>5. What would you say was your earliest “What If I Say Yes” moment?</i></b><br /><br />
-                    My earliest “What If I Say Yes” moment was when I decided to have a child at the age of 18 against my parents will. This was the first time I made an important decision for myself, by myself.<br /><br /><br />
+                <b><i>5. What would you say was your earliest “What If I Say Yes” moment?</i></b><br /><br />
+                I would say my earliest “What If I Say Yes” moment was finally saying YES! to traveling and staying abroad for 4 months to study British History, Politics, and Literature away from my family and closest friends in the early 1990s.
+                <br /><br /><br />
 
-                    <b><i>6. Describe your most recent “What If I Say Yes” moment.</i></b><br /><br />
-                    My most recent “What If I Say Yes Moment” was deciding that I wanted to learn how to play a ukulele. It's been six months since then, and I have made a lot of progress. Along the way, I have also found that playing ukulele is one of the many things that makes me happy. <br /><br /><br />
+                <b><i>6. Describe your most recent “What If I Say Yes” moment.</i></b><br /><br />
+                Well, my most recent “What If I Say Yes” moment is making a long-awaited decision to pursue my comedy (since I was perhaps 8 or 9 years old!). Oh, the irony! I have been thinking and dreaming about doing something with comedy, from stand-up performances, humorous essays, TV sitcom scriptwriting, acting, to writing for late-night shows, just to name a few. Stay tuned!
+                <br /><br /><br />
 
-                    <b><i>7.  What things have you created in your life after having said “What If I Say Yes”? Make a list.</i></b><br /><br />
-                    A family, countless sewing projects, crochet, knitting, cardboard furniture and toys, woodworking, play felt food, a youtube channel, making printable patterns, the photoshop skill, 3D designing, learning how to cook, and the latest project crochet a chunky cardigan for my daughter.<br /><br /><br />
+                <b><i>7.  What things have you created in your life after having said “What If I Say Yes”? Make a list.</i></b><br /><br />
+                Wow, how much space do you have on this website? I'll keep it short. I did not necessarily create concrete items or material things but I was the first in my family to go to college at all levels (Associate, Bachelor, Master, and Doctoral degrees), I was the first in my family to learn how to drive a stick shift car (bought my car for about $400 bucks and almost killed myself pulling out of the parking lot), I started my own short-lived business selling water-filtration systems at 18 years old, I drove sedans and limousines for extra cash saving money for college while my friends were at the Jersey Shore, and I said YES! to real love (after my Mami told me “déjate querer”) got married and then had my first and only child.  I'll share more in my autobiography, well, once I say YES! to it!
+                <br /><br /><br />
 
-                    <b><i>8. How have others reacted to your “What If I Say Yes” process?</i></b><br /><br />
-                    I don't really pay attention to what people think about what I do.<br /><br /><br />
+                <b><i>8. How have others reacted to your “What If I Say Yes” process?</i></b><br /><br />
+                People have reacted either in shock, with pride and joy, with fear in their eyes, or with jealousy and contempt. But all told, I usually avoid negative vibes and focus on the encouraging nature of people, their positive intentions, and their useful ideas or suggestions for making my goals a reality.
+                <br /><br /><br />
 
-                    <b><i>9. What will be your next “What If I Say Yes” moment?</i></b><br /><br />
-                    For now, I don't know, but when the time does come, I'll know exactly what to do.<br /><br /><br />
+                <b><i>9. What will be your next “What If I Say Yes” moment?</i></b><br /><br />
+                I have several things in mind. I've already hinted at one in a previous question. Nevertheless, I will share more of them in time. Stay tuned.
+                <br /><br /><br />
 
-                    <b><i>10. What have you learned from the “What If I Say Yes” process?</i></b><br /><br />
-                    I've learned that life is yours, so do whatever makes you happy. <br /><br /><br />
+                <b><i>10. What have you learned from the “What If I Say Yes” process?</i></b><br /><br />
+                I have learned to plan out as much as humanly possible my process once I say YES! There also needs to be room for spontaneity within a well-structured plan. I also learned to be grateful for what I have and will accomplish in the future and those who have entered my life at different stages. Finally, I have learned that you are never alone when pursuing and accomplishing your goals, once you say YES! you need to open your heart, mind, and soul to all possibilities and people along the way.
+                <br /><br />
 
-                    You can find Bankky at:<br /><br />        
+                <img src={carlos2} alt="carlos" id="bankky-img" className="profile-pic" /><br />
+
+                You can find Carlos at:<br /><br />        
 
             <div className="profile-container">
-                <a href="https://www.youtube.com/c/HappyBankkyCraftyMom" target="_blank" rel="noreferrer"><img src={Youtube} alt="ytlogo" /></a>
-                <b>HappyBankkycraftymom</b>
+                <a href="https://www.ithaca.edu/faculty/cfigueroa" target="_blank" rel="noreferrer"><img src={Ithaca} alt="ithacacollege" id="logo"/></a>
+                <b>Ithaca College Website</b>
             </div>
 
             <div className="profile-container">
-                <a href="https://www.instagram.com/happybankkycraftymom/?hl=en" target="_blank" rel="noreferrer"><img src={Instagram} alt="instalogo" /></a>
-                <b>@Happybankkycraftymom</b>
+                <a href="https://twitter.com/FigueroaPhd" target="_blank" rel="noreferrer"><img src={Twitter} alt="twitterlogo" /></a>
+                <b>@figueroaphd</b>
             </div>
 
             <div className="profile-container">
-                <a href="https://www.facebook.com/HappyBankkyCraftymom/" target="_blank" rel="noreferrer"><img src={Facebook} alt="fblogo" /></a>
-                <b>@Happybankkycraftymom</b>
+                <a href="https://www.linkedin.com/in/carlos-figueroa-40076899/" target="_blank" rel="noreferrer"><img src={LinkedIn} alt="fblogo" /></a>
+                <b>LinkedIn</b>
             </div>
 
-            <div className="profile-container">
-                <a href="https://www.happybankkycraftymom.com/" target="_blank" rel="noreferrer"><img src={BankkyLogo} alt="website" id="bankkylogo"/></a>
-                <b>Happybankkycraftymom.com</b>
+            ------------------------<br />
+
+            <strong>Previous posts</strong><br /><br />
+
+            <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/person-of-the-month/jan22"><h2>January 11, 2022</h2></Link>
             </div>
 
             <br />
