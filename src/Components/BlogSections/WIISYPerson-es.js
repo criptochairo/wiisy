@@ -67,10 +67,10 @@ function WIISYPersonEs() {
 
                 <b><i>6. Describe tu momento más reciente de "¿qué pasa si digo que sí?".</i></b><br /><br />
                 Bueno, mi momento más reciente de "¿y qué pasa si digo que sí?" fue tomar una decisión largamente esperada de desarrollar mi comedia (¡lo he querido hacer, quizás, desde que tenía 8 o 9 años!). ¡Oh, la ironía! He estado pensando y soñando con hacer algo con la comedia, desde monólogos (stand-up), ensayos humorísticos, guiones para comedias de televisión y actuar, hasta escribir para programas nocturnos, solo por mencionar algunos. ¡Los mantendré al tanto!
-                <br /><br /><br />
+                <br /><br /><br /> 
 
                 <b><i>7.  ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.</i></b><br /><br />
-                ¡Guau! ¿Cuánto espacio tienes en este sitio web? Seré breve. No necesariamente creé cosas concretas o materiales, pero fui el primero en mi familia en ir a la universidad en todos los niveles (grado asociado, licenciatura, maestría y doctorado); fui el primero en mi familia en aprender a conducir un auto con palanca de velocidades (compré mi auto por alrededor de $400 dólares y casi me mato saliendo del estacionamiento); comencé mi propio negocio -de corta duración- vendiendo sistemas de filtración de agua a los 18 años; conduje sedanes y limusinas para ahorrar dinero extra para la universidad mientras mis amigos estaban en la playa; y dije que ¡SÍ! al amor verdadero (después de que mi mami me dijera “déjate querer”), me casé y luego tuve mi primera y única hija. Compartiré más en mi autobiografía, bueno, una vez que diga que le diga que ¡sí! a eso.
+                ¡Guau! ¿Cuánto espacio tienes en este sitio web? Seré breve. No necesariamente creé cosas concretas o materiales, pero fui el primero en mi familia en ir a la universidad en todos los niveles (grado asociado, licenciatura, maestría y doctorado); fui el primero en mi familia en aprender a conducir un auto con palanca de velocidades (compré mi auto por alrededor de $400 dólares y casi me mato saliendo del estacionamiento); comencé mi propio negocio -de corta duración- vendiendo sistemas de filtración de agua a los 18 años; conduje sedanes y limusinas para ahorrar dinero extra para la universidad mientras mis amigos estaban en la playa; y dije que ¡SÍ! al amor verdadero (después de que mi mami me dijera “déjate querer”), me casé y luego tuve mi primera y única hija. Compartiré más en mi autobiografía, bueno, una vez que le diga que ¡sí! a eso.
                 <br /><br /><br />
 
                 <b><i>8. ¿Cómo han reaccionado los demás a tu proceso de "¿y qué pasa si digo que sí?”</i></b><br /><br />
@@ -78,7 +78,7 @@ function WIISYPersonEs() {
                 <br /><br /><br />
 
                 <b><i>9. ¿Cuál será tu próximo momento de “¿y qué pasa si digo que sí?”</i></b><br /><br />
-                Tengo varias cosas en mente. Ya hablé de una en la pregunta anterior. Sin embargo, compartiré más de ellos con el tiempo. Manténganse al tanto.
+                Tengo varias cosas en mente. Ya hablé de una en la pregunta anterior. Sin embargo, compartiré más de ellas con el tiempo. Manténganse al tanto.
                 <br /><br /><br />
 
                 <b><i>10. ¿Qué has aprendido del proceso "¿y qué pasa si digo que sí"?</i></b><br /><br />
