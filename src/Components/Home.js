@@ -41,7 +41,7 @@ function Home() {
             
             <div className="section-container">
                 <Link to="/community-board"><img src={communityimg} alt="community-board" /></Link>
-                <Link style={{ color: 'black' }} to="/blog"><h2>Community Board</h2></Link>
+                <Link style={{ color: 'black' }} to="/community-board"><h2>Community Board</h2></Link>
                 <p className="container-text">This is a space to learn from others and for others to learn from you. Come in and share your experiences!</p>
             </div>
 
