@@ -1,8 +1,9 @@
 import React from "react";
 import '../App.css';
-import aboutmeimg from '../Resources/Pics/lucy1.JPG';
+import aboutmeimg from '../Resources/Pics/210.JPEG';
 import GoTop from "./GoTop";
 import Nav from '../Nav';
+import lucy from '../Resources/Pics/lucy1.JPG';
 
 function About() {
     return (
@@ -54,7 +55,9 @@ function About() {
                 This is one space where I can dialogue with my family, and we can all process, indirectly, our grief over Héctor's passing and absence. Also, a space where we can all continue to honor his life that included him leaving a bit of himself in the soul of each one of the human beings with whom he came across in his almost 49 years of walking on this Earth.<br /><br /><br /><br />
 
                 This space is in your honor, dearest brother!<br /><strong>WE LOVE YOU!</strong>
-                <br /><strong>¡TE QUEREMOS MUCHO!</strong>
+                <br /><strong>¡TE QUEREMOS MUCHO!</strong><br /><br />
+
+                <img src={lucy} alt="wiisy-logo" className="profile-pic" />
 
             </p>
 

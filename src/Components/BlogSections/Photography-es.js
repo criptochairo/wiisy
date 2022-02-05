@@ -3,16 +3,16 @@ import Social from '../../Resources/Icons/camera.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import One from '../../Resources/Pics/11Jan22/compressjpeg/1-min.jpg';
-import Two from '../../Resources/Pics/11Jan22/compressjpeg/2-min.jpg';
-import Three from '../../Resources/Pics/11Jan22/compressjpeg/203-min.jpg';
-import Four from '../../Resources/Pics/11Jan22/compressjpeg/278-min.jpg';
-import Five from '../../Resources/Pics/11Jan22/compressjpeg/292-min.jpg';
-import Six from '../../Resources/Pics/11Jan22/compressjpeg/378-min.jpg';
-import Seven from '../../Resources/Pics/11Jan22/compressjpeg/448-min.jpg';
-import Eight from '../../Resources/Pics/11Jan22/compressjpeg/484-min.jpg';
-import Nine from '../../Resources/Pics/11Jan22/compressjpeg/549-min.JPEG';
-import Ten from '../../Resources/Pics/11Jan22/compressjpeg/558-min.jpg';
+import One from '../../Resources/Pics/Photography/jan.jpg';
+import Two from '../../Resources/Pics/Photography/feb.jpg';
+// import Three from '../../Resources/Pics/11Jan22/compressjpeg/203-min.jpg';
+// import Four from '../../Resources/Pics/11Jan22/compressjpeg/278-min.jpg';
+// import Five from '../../Resources/Pics/11Jan22/compressjpeg/292-min.jpg';
+// import Six from '../../Resources/Pics/11Jan22/compressjpeg/378-min.jpg';
+// import Seven from '../../Resources/Pics/11Jan22/compressjpeg/448-min.jpg';
+// import Eight from '../../Resources/Pics/11Jan22/compressjpeg/484-min.jpg';
+// import Nine from '../../Resources/Pics/11Jan22/compressjpeg/549-min.JPEG';
+// import Ten from '../../Resources/Pics/11Jan22/compressjpeg/558-min.jpg';
 
 function PhotographyEs() {
     return (
@@ -60,16 +60,21 @@ function PhotographyEs() {
             
 
                 <div className="post-img-container">
-                    <img src={One} alt="postimg" />
-                    <img src={Two} alt="postimg" />
-                    <img src={Three} alt="postimg" />
+                    <i><b>Enero</b></i><br />
+                    <img src={One} alt="postimg" /><br />
+                    <i>“Una piedra en el camino me enseñó que…”</i><br />
+                    ------------------------<br /><br />
+                    <i><b>Febrero</b></i><br />
+                    <img src={Two} alt="postimg" /><br />
+                    <i>“Alfombra otoñal…”</i><br />
+                    {/* <img src={Three} alt="postimg" />
                     <img src={Four} alt="postimg" />
                     <img src={Five} alt="postimg" />
                     <img src={Six} alt="postimg" />
                     <img src={Seven} alt="postimg" />
                     <img src={Eight} alt="postimg" />
                     <img src={Nine} alt="postimg" />
-                    <img src={Ten} alt="postimg" />
+                    <img src={Ten} alt="postimg" /> */}
                 </div>
 
                 <br/>

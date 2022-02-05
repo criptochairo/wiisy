@@ -37,7 +37,7 @@
     width: 30em;
     display: flex;
     align-items: center;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     margin: 0 auto;
 }
@@ -47,7 +47,7 @@
     align-self: center;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 30%;
+    width: 70%;
     margin: 0.5em auto;
     box-shadow: 1px 1px 10px grey;
     pointer-events: none;
@@ -100,10 +100,11 @@
     
     .post-img-container {
         flex-direction: column;
+        width: 12.5em;
     }
 
     .post-img-container img {
-        width: 65%;
+        width: 100%;
         margin: 2em auto;
     }
 
@@ -122,5 +123,18 @@
     }
 
 
+}
+
+@media only screen and (max-width: 375px) {
+    
+    .post-img-container {
+        flex-direction: column;
+        width: 10em;
+    }
+
+    .post-img-container img {
+        width: 10em;
+        margin: 2em auto;
+    }
 }
 

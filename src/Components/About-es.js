@@ -1,7 +1,8 @@
 import React from "react";
 import '../App.css';
 import NavEs from "../Nav-es";
-import aboutmeimg from '../Resources/Pics/lucy1.JPG';
+import aboutmeimg from '../Resources/Pics/210.JPEG';
+import lucy from '../Resources/Pics/lucy1.JPG';
 import GoTop from "./GoTop";
 
 function AboutEs() {
@@ -53,7 +54,9 @@ function AboutEs() {
                 Este es el sitio en el que dialogo con mi familia para procesar, indirectamente, nuestro dolor por su ausencia. Es también un espacio para continuar honrando su vida que incluye lo que fue dejando de su alma en todas y cada una de las personas con las que se cruzó en sus casi 49 años de caminar por este mundo.<br /><br />
 
                 ¡Este espacio es en tu honor, hermanito querido!<br />
-                <strong>¡TE QUEREMOS MUCHO!</strong>
+                <strong>¡TE QUEREMOS MUCHO!</strong><br /><br />
+
+                <img src={lucy} alt="wiisy-logo" className="profile-pic" />
 
             </p>
 
