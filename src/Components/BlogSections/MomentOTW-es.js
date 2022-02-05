@@ -25,11 +25,11 @@ function MomentOTWEs() {
             <br /><br />
             Es un espacio para animarlos a ustedes a reflexionar sobre cómo vivieron el mes que pasó y a elegir un momento que quieran recordar por siempre.
             <br /><br />
-            Maya y Carlos esperan que les guste lo que van a compartir con ustedes.
+            Maya y Carlos esperan que les guste lo que van a compartir con ustedes. 
             <br /><br />
             ------------------------<br /><br />
 
-            <i>11 de enero del 2022</i> <br /><br />
+            <i>Diciembre del 2021</i> <br /><br />
 
             Como muestran las fotos, ¡Maya y yo finalmente exploramos oficialmente nuestros respectivos instrumentos musicales! ¿Qué significa esto? Bueno, ella tomó mi guitarra y yo tomé su violín y ambos tocamos la "Oda a la Alegría" de Beethoven (Sinfonía No. 9 en Re menor, Op. 125) por separado con la ayuda del otro.
             <br /><br />

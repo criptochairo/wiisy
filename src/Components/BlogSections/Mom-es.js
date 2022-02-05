@@ -3,7 +3,8 @@ import Momimg from '../../Resources/Icons/grandma.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import laloimg from '../../Resources/Pics/lalo.jpg';
+import postimg from '../../Resources/Pics/mom1.jpg';
+import postimg2 from '../../Resources/Pics/mom2.jpg';
 
 function MomEs() {
     return (
@@ -26,22 +27,36 @@ function MomEs() {
             
             ------------------------<br /><br />
 
-            <img src={laloimg} alt="lalo" id="lalo-img" className="profile-pic" />
+            <img src={postimg2} alt="hotel" id="lalo-img" className="profile-pic" />
 
-            <i>11 de enero del 2022</i><br /><br />
+            
+                <i>Febrero<br /><br /></i>
 
-                Hola, ma:
+                Conocí el Hotel Geneve, que está en la calle de Londres 130, de la zona Rosa de la CDMX.
                 <br /><br />
-                <b>¿Qué recomiendas para este primer mes del año?</b>
+                Fue fundado en 1907 por un canadiense, de origen irlandés, y una americana y decorado al estilo clásico europeo.
                 <br /><br />
-                <i>Hola hijita querida:
+                Fue innovador en muchos aspectos en el ramo hotelero y tiene en el bar una colección de teléfonos antiguos. 
                 <br /><br />
-                Acabamos de ir a un restorán en la CDMX que está en la colonia Roma, en la calle de Zacatecas. Tu hermano Luis nos lo recomendó y se llama <a href="https://www.google.com.mx/maps/place/Lalo!/@19.4153908,-99.1646584,17z/data=!3m1!4b1!4m5!3m4!1s0x85d1ff395f34802d:0x1c6328f5be71ded7!8m2!3d19.4153858!4d-99.1624697" target="_blank" rel="noreferrer">“Lalo!”</a>.
+                En uno de ellos se puede escuchar una grabación de Porfirio Díaz dándole las gracias a Tomás Alva Edison por un teléfono que éste le había regalado.
                 <br /><br />
-                La comida riquísima y la atención es excelente.
+                Nos dieron un recorrido por el hotel y es como entrar en el túnel del tiempo, ya que también es museo, pues cuenta con vitrinas que tienen objetos de épocas pasadas, así como fotografías de personajes distinguidos que se han alojado ahí en diferentes tiempos.
                 <br /><br />
-                Yo pedí un postre que le llaman pan francés pero que no tiene nada que ver con lo que comúnmente conocemos con ese nombre. ¡Estaba delicioso!
-                <br /><br /><br /></i>
+                Los dueños originales del hotel lo poseyeron hasta 1970, y en 1991 pasó a formar parte de la cadena hotelera del Grupo Carson de Carlos Slim.
+                <br /><br />
+                Vale la pena conocerlo. Para mayor información sobre la historia del hotel: <a href="https://www.hotelgeneve.com.mx/es/" target="_blank" rel="noreferrer ">Hagan click aquí</a>
+                <br /><br />
+                <img src={postimg} alt="hotel" id="lalo-img" className="profile-pic" />
+                <br />
+
+                ------------------------<br /><br />
+                <i>Previous Posts</i><br /><br />
+
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-moms-recommendations/11-jan-22-es"><h2>Enero</h2></Link>
+                </div>
+
+                <br /><br />
 
             <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-month-es"><h2>Siguiente sección</h2></Link>

@@ -3,6 +3,7 @@ import Microphone from '../../Resources/Icons/microphone.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
+import postimg from '../../Resources/Pics/lucy2.jpg';
 
 function PodcastEs() {
     return (
@@ -33,6 +34,8 @@ function PodcastEs() {
                 Mientras tanto, aquí les contaré de lo que hablo en mis distintos episodios, con toda la intención de inspirarlos a hacer lo mismo: aprender a regalar sus propias palabras… y ¿quién sabe? A lo mejor también a crear un día su propio podcast.<br /><br />
                 
                 ------------------------<br /><br />
+
+                <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
                 <i>11 de enero del 2022</i>
                 <br /><br />

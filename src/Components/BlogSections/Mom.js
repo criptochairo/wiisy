@@ -3,7 +3,8 @@ import Momimg from '../../Resources/Icons/grandma.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import laloimg from '../../Resources/Pics/lalo.jpg';
+import postimg from '../../Resources/Pics/mom1.jpg';
+import postimg2 from '../../Resources/Pics/mom2.jpg';
 
 function Mom() {
     return (
@@ -25,23 +26,36 @@ function Mom() {
 
             ------------------------<br /><br />
 
-                <img src={laloimg} alt="lalo" id="lalo-img" className="profile-pic" />
+                <img src={postimg2} alt="hotel" id="lalo-img" className="profile-pic" />
 
             
-                <i>January 11, 2022<br /><br /></i>
+                <i>February<br /><br /></i>
 
-                Hi, mom.
+                I visited Hotel Geneve, located at Calle de Londres 130, in Zona Rosa in Mexico City.
                 <br /><br />
-                <b>What do you recommend for this first month of the year?</b>
+                It was founded in 1907 by a Canadian of Irish descent, and an American woman, and decorated in classic European style.
                 <br /><br />
-                <i>Hello dear, 
+                This place introduced innovations in the hotel industry in many ways. The hotel has a collection of old telephones in the bar. 
                 <br /><br />
-                We just went to a restaurant in Mexico City, in the colonia Roma, on Zacatecas Street. Your brother Luis recommended it to us. It's called <a href="https://www.google.com.mx/maps/place/Lalo!/@19.4153908,-99.1646584,17z/data=!3m1!4b1!4m5!3m4!1s0x85d1ff395f34802d:0x1c6328f5be71ded7!8m2!3d19.4153858!4d-99.1624697" target="_blank" rel="noreferrer">“Lalo!”</a>.
+                In one of them, you can hear a recording of Porfirio Díaz thanking Tomás Alva Edison for a telephone that he had gifted Porfirio.
                 <br /><br />
-                The food is delicious, and the service is excellent.
+                We got a tour of the hotel, and it is like entering a time tunnel since it is also a museum. It has display cases that have objects from past times, as well as photographs of distinguished people who have stayed there at different times.
                 <br /><br />
-                I ordered a dessert they call French Bread but it has nothing to do with what it's commonly known by that name. It was delicious!
-                <br /><br /><br /></i>
+                The hotel's original owners had it until 1970, and in 1991 it became part of Carlos Slim's Grupo Carson Hotel chain.
+                <br /><br />
+                It is worth visiting. For more information about the history of the hotel: <a href="https://www.hotelgeneve.com.mx/en/" target="_blank" rel="noreferrer ">Click here</a>
+                <br /><br />
+                <img src={postimg} alt="hotel" id="lalo-img" className="profile-pic" />
+                <br />
+
+                ------------------------<br /><br />
+                <i>Previous Posts</i><br /><br />
+
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-moms-recommendations/11-jan-22"><h2>January</h2></Link>
+                </div>
+
+                <br /><br />
 
                 <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-month"><h2>Next Section</h2></Link>

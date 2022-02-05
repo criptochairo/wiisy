@@ -3,6 +3,7 @@ import Mom from '../../Resources/Icons/motherhood.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
+import postimg from '../../Resources/Pics/projects1.jpg';
 
 function ProyectsEs() {
     return (
@@ -26,6 +27,19 @@ function ProyectsEs() {
             <br /><br />
             Espero que los inspire a crear proyectos visuales y a ¡compartirlos con el mundo!
             <br /><br />
+
+            ------------------------<br /><br />
+
+            <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
+
+            <i>Enero</i>
+            <br /><br />
+            Maya y yo hemos estado muy ocupadas últimamente y este mes solo nos dio tiempo de tomarnos una foto con Cookies.<br /><br />
+
+            Cookies ha estado muy ocupada porque se fue de gira, ji, ji.<br /><br />
+
+            Pero, bueno, esperamos tener un video nuevo (en español y en inglés) para compartir con ustedes muy pronto.<br /><br />
+            <br /><br /><br /><br />
 
 
 

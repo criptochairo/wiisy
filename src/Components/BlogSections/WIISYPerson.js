@@ -103,7 +103,7 @@ function WIISYPerson() {
             <strong>Previous posts</strong><br /><br />
 
             <div id="post-link">
-                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/person-of-the-month/jan22"><h2>January 11, 2022</h2></Link>
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/person-of-the-month/jan22"><h2>January 2022</h2></Link>
             </div>
 
             <br />

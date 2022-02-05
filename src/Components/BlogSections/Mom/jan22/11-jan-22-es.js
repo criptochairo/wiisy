@@ -2,15 +2,19 @@ import React from "react";
 import { Link } from "react-router-dom";
 import GoTop from "../../../GoTop";
 import NavEs from "../../../../Nav-es";
+import postimg from '../../../../Resources/Pics/lalo.jpg';
 
 function Post() {
     return (
-        <div>
+        <div className="aboutme-page">
             <NavEs />
-            <div className="text-container">
-            <h1>11 de enero del 2022</h1><br />
+            <div className="text-container"> 
 
-                <p class="content-text">
+            <img src={postimg} alt="rocy" id="mom-img" className="profile-pic" />
+
+            <p class="content-text">
+
+            <i>Enero del 2022</i><br /><br />
 
                 Hola, ma:
                 <br /><br />
@@ -25,11 +29,11 @@ function Post() {
                 Yo pedí un postre que le llaman pan francés pero que no tiene nada que ver con lo que comúnmente conocemos con ese nombre. ¡Estaba delicioso!
                 <br /><br /><br /></i>
 
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations-es"><h2>Regresar</h2></Link>
-            
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations-es"><h2>Regresar</h2></Link>
             </p>
 
             <GoTop />
+
         </div> 
     </div>
     )

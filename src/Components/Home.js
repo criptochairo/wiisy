@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import './Home.css';
-import aboutmeimg from '../Resources/Pics/210.JPEG';
+import aboutmeimg from '../Resources/Pics/lucy1.JPG';
 import blogimg from '../Resources/Pics/503.jpg';
 import communityimg from '../Resources/Pics/544.JPEG';
 import contactimg from '../Resources/Pics/181.JPEG';

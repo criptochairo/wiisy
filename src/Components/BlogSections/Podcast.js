@@ -3,6 +3,7 @@ import Microphone from '../../Resources/Icons/microphone.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
+import postimg from '../../Resources/Pics/lucy2.jpg';
 
 function Podcast() {
     return (
@@ -35,6 +36,8 @@ function Podcast() {
                 
                 ------------------------<br /><br />
 
+                <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
+
                 <i>January 11, 2022</i>
                 <br /><br />
 
@@ -48,10 +51,6 @@ function Podcast() {
                 <br /><br />
                 I'll keep you posted ... but I am getting there.
                 <br /><br /><br />
-
-                {/* <div id="post-link">
-                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-podcast/11-jan-22"><h2>January 11, 2022</h2></Link>
-                </div> */}
 
                 <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-book"><h2>Next Section</h2></Link>

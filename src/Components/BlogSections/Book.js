@@ -3,6 +3,7 @@ import bookimg from '../../Resources/Icons/book.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
+import postimg from '../../Resources/Pics/kok1.jpg';
 
 function Book() {
     return (
@@ -32,6 +33,8 @@ function Book() {
             <br /><br />
             
             ------------------------<br /><br />
+
+            <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
             <i>January 11, 2022<br /><br /></i>
 

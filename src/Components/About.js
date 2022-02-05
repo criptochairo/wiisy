@@ -1,6 +1,6 @@
 import React from "react";
 import '../App.css';
-import aboutmeimg from '../Resources/Pics/210.JPEG';
+import aboutmeimg from '../Resources/Pics/lucy1.JPG';
 import GoTop from "./GoTop";
 import Nav from '../Nav';
 

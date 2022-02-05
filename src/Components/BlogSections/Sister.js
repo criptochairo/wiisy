@@ -3,7 +3,7 @@ import Sisterimg from '../../Resources/Icons/twins.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import rocyimg from '../../Resources/Pics/rocy-cascada.jpeg';
+import postimg from '../../Resources/Pics/sister2.jpg';
 
 function Sister() {
     return (
@@ -11,7 +11,7 @@ function Sister() {
             <Nav />
             <div className="text-container"> 
             <img src={Sisterimg} alt="wiisy-logo" id="blog-img" /> 
-            <h1>Sister's Advice</h1> <br />
+            <h1>My Sister's Advice</h1> <br />
 
             <p class="content-text">
             The most important woman in my life, after my mother, is my sister Rocío.
@@ -31,20 +31,29 @@ function Sister() {
             
             ------------------------<br /><br />
 
-            <img src={rocyimg} alt="rocy" id="rocy-img" className="profile-pic" />
+            <img src={postimg} alt="rocy" id="rocy-img" className="profile-pic" />
 
-            <i>January 2022</i><br /><br />
+            <i>February</i><br /><br />
 
-            Hello dear sister, 
+            <i>This month, my sister has <b>Tips for Dancing:</b></i>
                 <br /><br />
-                The moment of truth has arrived. I am going to ask you a question for the blog and you're going to give me some advice, ready?
+                Have fun!!
                 <br /><br />
-                <b>What is the best way to start the new year?</b>
+                It's always nice to see someone dancing who is having fun, even if they seem to have no style.
                 <br /><br />
-                <i>Hahaha, I already got stage fright. But here I go:</i>
+                In fact, this reminds me a lot of my brother Héctor, ha-ha. His movements were very funny, but he had fun and we had fun watching him.
                 <br /><br />
-                <i>I would say that the best way to start the year is to write down what you want to achieve and have it in sight as much as possible. It also helps to put on the wallpaper of the cell phone that you see all the time, some image that motivates you to do what you want to achieve. For example, Luis [our older brother] put the image of Nims Purja (the one who climbed the 14 peaks of more than 8 thousand meters).  I went for something different and put Saitama (the one from the anime "One Punch Man") who decides to train non-stop for 3 years to become stronger. In the end, they are examples of willpower worthy of being copied. And I also like to think that you can start the year with optimism and try to find the positive side of things. Just like Mike Wasowski in Monsters, when he said "I'm on the cover of a magazine !!!" and only his feet were visible, ha-ha. In short: start the year with goals and a good attitude.</i>
+                And if you like a particular type of dance, take classes! Practice always helps 😉.
                 <br /><br /><br />
+
+            ------------------------<br /><br />
+            <i>Previous Posts</i><br /><br />
+
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/11-jan-22"><h2>January</h2></Link>
+                </div>
+
+            <br /><br />
 
             <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations"><h2>Next Section</h2></Link>

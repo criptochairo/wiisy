@@ -3,7 +3,7 @@ import Sisterimg from '../../Resources/Icons/twins.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import rocyimg from '../../Resources/Pics/rocy-cascada.jpeg';
+import postimg from '../../Resources/Pics/sister2.jpg';
 
 function SisterEs() {
     return (
@@ -32,20 +32,29 @@ function SisterEs() {
 
             ------------------------<br /><br />
 
-            <img src={rocyimg} alt="rocy" id="rocy-img" className="profile-pic" /> 
+            <img src={postimg} alt="rocy" id="rocy-img" className="profile-pic" />
 
-            <i>Enero del 2022</i><br /><br />
+            <i>Febrero</i><br /><br />
 
-                Hola hermanita: 
+            <i>Este mes, mi hermana tiene <b>consejos para bailar:</b></i>
                 <br /><br />
-                Ya llegó la hora de la verdad. Te voy a hacer una pregunta para el blog y tú me vas a dar un consejo, ¿sale?
+                ¡¡Diviértete!! 
                 <br /><br />
-                <b>¿Cuál es la mejor manera de empezar el año nuevo?</b>
+                Siempre es padre ver a alguien bailando que se está divirtiendo, aunque parezca que no tenga estilo.
                 <br /><br />
-                <i>Jajaja, ya me dio pánico escénico. Pero ahí te va:</i>
+                De hecho, esto me recuerda mucho a mi hermano Héctor jaja. Se movía muy gracioso, pero se divertía y nos divertía a nosotros también.
                 <br /><br />
-                <i>Yo diría que la mejor manera de empezar el año es anotando lo que quieres lograr y tenerlo a la vista lo más posible. También ayuda poner en tu fondo de pantalla del celular que ves todo el tiempo, alguna imagen que te motive a lograr lo que quieres proponerte. Por ejemplo, Luis [nuestro hermano mayor] puso la imagen de Nims Purja (el que subió los 14 picos de más de 8 mil metros). Yo me fui por algo más cotorro y puse a Saitama (el del ánime “One Punch Man”) que decide entrenar sin descanso durante 3 años para volverse más fuerte. Al final, son ejemplos de una fuerza de voluntad digna de ser copiada. Y también me gusta pensar que hay que empezar el año con optimismo y tratar de encontrar el lado positivo de las cosas. Así como Mike Wasowski en Monsters, cuando decía “¡¡¡salí en la portada!!!” y solo se le veían los pies, jajaja. En resumen: empezar el año con objetivos y buena actitud.</i>
+                Y si te gusta algún tipo de baile en particular, ¡toma clases! La práctica siempre ayuda 😉.
                 <br /><br /><br />
+
+            ------------------------<br /><br />
+            <i>Posts anteriores</i><br /><br />
+
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/11-jan-22-es"><h2>Enero</h2></Link>
+                </div>
+
+            <br /><br />
 
             <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations-es"><h2>Siguiente sección</h2></Link>
