@@ -40,6 +40,8 @@ import SisPost1 from './Components/BlogSections/Sister/jan22/11-jan-22';
 import SisPost1Es from './Components/BlogSections/Sister/jan22/11-jan-22-es';
 import MomPost1 from './Components/BlogSections/Mom/jan22/11-jan-22';
 import MomPost1Es from './Components/BlogSections/Mom/jan22/11-jan-22-es';
+import MOTMPost1 from './Components/BlogSections/MOTM/Jan22';
+import MOTMPost1Es from './Components/BlogSections/MOTM/Jan22-es';
 
 const RouteSwitch = () => {
   return (
@@ -107,7 +109,7 @@ const RouteSwitch = () => {
         <Route path="/blog/my-moms-recommendations/11-jan-22" element={<MomPost1 />} />
 
         {/* MOTW posts ENG */}
-
+        <Route path="/blog/moment-of-the-month/jan22" element={<MOTMPost1 />} />
 
         {/* WIISY posts ENG */}
         <Route path="/blog/person-of-the-month/jan22" element={<Jan22 />} />
@@ -137,6 +139,8 @@ const RouteSwitch = () => {
 
 
         {/* MOTW posts ESP */}
+        <Route path="/blog/moment-of-the-month/jan22-es" element={<MOTMPost1Es />} />
+        
 
 
         {/* WIISY posts ESP */}
