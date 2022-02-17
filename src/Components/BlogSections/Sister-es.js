@@ -51,7 +51,7 @@ function SisterEs() {
             <i>Posts anteriores</i><br /><br />
 
                 <div id="post-link">
-                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/11-jan-22/es"><h2>Enero</h2></Link>
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/jan22/es"><h2>Enero</h2></Link>
                 </div>
 
             <br /><br />

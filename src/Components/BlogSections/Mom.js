@@ -52,7 +52,7 @@ function Mom() {
                 <i>Previous Posts</i><br /><br />
 
                 <div id="post-link">
-                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-moms-recommendations/11-jan-22"><h2>January</h2></Link>
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-moms-recommendations/jan22"><h2>January</h2></Link>
                 </div>
 
                 <br /><br />

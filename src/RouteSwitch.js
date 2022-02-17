@@ -1,49 +1,114 @@
+// Essential and functional imports
+
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import ScrollToTop from './Components/ScrollToTop';
+
+
+// Main section imports ENG
+
 import Home from './Components/Home';
-import HomeEs from "./Components/Home-es";
+import Hector from './Components/BlogSections/Hector';
 import About from './Components/About';
-import AboutEs from "./Components/About-es";
 import Blog from './Components/Blog';
-import BlogEs from './Components/Blog-es';
 import Board from './Components/Board';
 import Contact from './Components/Contact';
+
+// Main section imports ESP
+
+import HomeEs from "./Components/Home-es";
+import HectorEs from "./Components/BlogSections/Hector-es";
+import AboutEs from "./Components/About-es";
+import BlogEs from './Components/Blog-es';
+import BoardEs from "./Components/Board-es";
+import ContactEs from "./Components/Contact-es";
+
+// Blog sections ENG
+
 import Photography from "./Components/BlogSections/Photography";
-import PhotographyEs from "./Components/BlogSections/Photography-es";
-import PhPostJan22 from './Components/BlogSections/Photography/jan22/11-jan-22';
-import PhPostJan22Es from './Components/BlogSections/Photography/jan22/11-jan-22-es';
 import Podcast from "./Components/BlogSections/Podcast";
-import PodcastEs from "./Components/BlogSections/Podcast-es";
 import Book from './Components/BlogSections/Book';
-import BookEs from "./Components/BlogSections/Book-es";
 import Proyects from './Components/BlogSections/Proyects';
 import Sister from './Components/BlogSections/Sister';
 import Mom from './Components/BlogSections/Mom';
 import MomentOTW from './Components/BlogSections/MomentOTW';
 import WIISYPerson from './Components/BlogSections/WIISYPerson';
-import Hector from './Components/BlogSections/Hector';
-import HectorEs from "./Components/BlogSections/Hector-es";
-import ScrollToTop from './Components/ScrollToTop';
-import Jan22 from "./Components/BlogSections/POTM/Jan22";
+
+// Blog sections ESP
+
+import PhotographyEs from "./Components/BlogSections/Photography-es";
+import PodcastEs from "./Components/BlogSections/Podcast-es";
+import BookEs from "./Components/BlogSections/Book-es";
 import ProyectsEs from "./Components/BlogSections/Proyects-es";
 import SisterEs from "./Components/BlogSections/Sister-es";
 import MomEs from "./Components/BlogSections/Mom-es";
 import MomentOTWEs from "./Components/BlogSections/MomentOTW-es";
 import WIISYPersonEs from "./Components/BlogSections/WIISYPerson-es";
-import Jan22Es from "./Components/BlogSections/POTM/Jan22-es";
-import BoardEs from "./Components/Board-es";
-import ContactEs from "./Components/Contact-es";
+
+// Photography posts ENG
+
+import PhPostJan22 from './Components/BlogSections/Photography/jan22/11-jan-22';
+
+// Photography posts ESP
+
+import PhPostJan22Es from './Components/BlogSections/Photography/jan22/11-jan-22-es';
+
+// Podcast posts ENG
+
 import PodPostJan22 from './Components/BlogSections/Podcast/jan22/jan22';
+
+// Podcast posts ESP
+
 import PodPostJan22Es from './Components/BlogSections/Podcast/jan22/jan22-es';
+
+// Book posts ENG
+
 import BookPostJan22 from './Components/BlogSections/Book/jan22/jan22';
+
+// Book posts ESP
+
 import BookPostJan22Es from './Components/BlogSections/Book/jan22/jan22-es';
-import SisPostJan22 from './Components/BlogSections/Sister/jan22/11-jan-22';
-import SisPostJan22Es from './Components/BlogSections/Sister/jan22/11-jan-22-es';
-import MomPostJan22 from './Components/BlogSections/Mom/jan22/11-jan-22';
-import MomPostJan22Es from './Components/BlogSections/Mom/jan22/11-jan-22-es';
-import MOTMPostJan22 from './Components/BlogSections/MOTM/Jan22';
-import MOTMPostJan22Es from './Components/BlogSections/MOTM/Jan22-es';
+
+// Projects posts ENG
+
 import ProjectsPostJan22 from './Components/BlogSections/Projects/jan22';
+
+// Projects posts ESP 
+
 import ProjectsPostJan22Es from './Components/BlogSections/Projects/jan22-es';
+
+// Sister posts ENG
+
+import SisPostJan22 from './Components/BlogSections/Sister/jan22/11-jan-22';
+
+// Sister posts ESP
+
+import SisPostJan22Es from './Components/BlogSections/Sister/jan22/11-jan-22-es';
+
+// Abuelita posts ENG
+
+import MomPostJan22 from './Components/BlogSections/Mom/jan22/11-jan-22';
+
+// Abuelita posts ESP
+
+import MomPostJan22Es from './Components/BlogSections/Mom/jan22/11-jan-22-es';
+
+// MOTM posts ENG
+
+import MOTMPostJan22 from './Components/BlogSections/MOTM/Jan22';
+
+// MOTM posts ESP
+
+import MOTMPostJan22Es from './Components/BlogSections/MOTM/Jan22-es';
+
+// POTM posts ENG
+
+import POTMJan22 from "./Components/BlogSections/POTM/Jan22";
+
+// POTM posts ESP
+
+import POTMJan22Es from "./Components/BlogSections/POTM/Jan22-es";
+
+
 
 const RouteSwitch = () => {
   return (
@@ -114,7 +179,7 @@ const RouteSwitch = () => {
         <Route path="/blog/moment-of-the-month/jan22" element={<MOTMPostJan22 />} />
 
         {/* WIISY posts ENG */}
-        <Route path="/blog/person-of-the-month/jan22" element={<Jan22 />} />
+        <Route path="/blog/person-of-the-month/jan22" element={<POTMJan22 />} />
 
 
 
@@ -146,7 +211,7 @@ const RouteSwitch = () => {
 
 
         {/* WIISY posts ESP */}
-        <Route path="/blog/person-of-the-month/jan22/es" element={<Jan22Es />} />
+        <Route path="/blog/person-of-the-month/jan22/es" element={<POTMJan22Es />} />
 
 
 
