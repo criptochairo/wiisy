@@ -1,13 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Nav from "../../../../Nav";
+import postimg from '../../../../Resources/Pics/kok1.jpg';
 
 function Post() {
     return (
         <div>
-            <Nav />
+            <Nav />a
             <div className="text-container">
             <h1>January, 2022</h1><br />
+
+            <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
                 <p class="content-text">
 

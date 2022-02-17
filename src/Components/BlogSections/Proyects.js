@@ -3,7 +3,7 @@ import Mom from '../../Resources/Icons/motherhood.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import postimg from '../../Resources/Pics/projects1.jpg';
+import postimg from '../../Resources/Pics/Projects/feb22.JPG';
 
 function Proyects() {
     return (
@@ -31,14 +31,22 @@ function Proyects() {
 
             <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
-            <i>January</i>
+            <i>February</i>
             <br /><br />
-            Maya and I have been very busy lately and this month we only had time to take a photo with Cookies.<br /><br />
-
-            Cookies has been very busy because she went on tour, ha-ha!<br /><br />
-
-            But hey, we hope to have a new video (in Spanish and English) to share with you very soon.<br /><br />
+            We are still trying to figure out what videos to post here.
             <br /><br />
+            By March we will have one for sure.
+            <br /><br />
+
+            ------------------------<br /><br />
+
+            <i>Previous Posts</i><br /><br />
+
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-daughters-projects/jan22"><h2>January</h2></Link>
+                </div>
+
+            <br /><br /><br />
 
             <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice"><h2>Next Section</h2></Link>

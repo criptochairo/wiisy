@@ -2,13 +2,17 @@ import React from "react";
 import { Link } from "react-router-dom";
 import GoTop from "../../../GoTop";
 import NavEs from "../../../../Nav-es";
+import postimg from '../../../../Resources/Pics/lucy2.jpg';
+
 
 function Post() {
     return (
         <div>
             <NavEs />
             <div className="text-container">
-            <h1>11 de enero del 2022</h1><br />
+            <h1>Enero del 2022</h1><br />
+
+            <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
                 <p class="content-text">
 
@@ -23,7 +27,7 @@ function Post() {
                 Los mantendré al tanto… pero ya falta menos.
                 <br /><br /><br />
 
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast-es"><h2>Regresar</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast/es"><h2>Regresar</h2></Link>
             
             </p>
 

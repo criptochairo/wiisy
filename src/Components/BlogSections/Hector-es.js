@@ -2,7 +2,7 @@ import React from "react";
 import first from '../../Resources/Texts/YSDQI1.jpg'; 
 import second from '../../Resources/Texts/YSDQI2.jpg'; 
 import third from '../../Resources/Texts/YSDQI3.jpg'; 
-import logo from '../../Resources/logo-final.jpeg';
+import logo from '../../Resources/Icons/logo-final-es.jpg';
 import hector from '../../Resources/Pics/hector.jpg';
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";

@@ -110,14 +110,14 @@ function WIISYPersonEs() {
             <strong>Posts anteriores</strong><br /><br />
 
             <div id="post-link">
-                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/person-of-the-month/jan22-es"><h2>Enero 2022</h2></Link>
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/person-of-the-month/jan22/es"><h2>Enero 2022</h2></Link>
             </div>
 
             <br />
 
-            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-photography-es"><h2>Siguiente sección</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-month-es"><h2>Sección anterior</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-photography/es"><h2>Siguiente sección</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/moment-of-the-month/es"><h2>Sección anterior</h2></Link>
             </p>
 
             

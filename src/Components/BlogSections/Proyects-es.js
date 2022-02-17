@@ -3,7 +3,7 @@ import Mom from '../../Resources/Icons/motherhood.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import postimg from '../../Resources/Pics/projects1.jpg';
+import postimg from '../../Resources/Pics/Projects/feb22.JPG';
 
 function ProyectsEs() {
     return (
@@ -32,20 +32,27 @@ function ProyectsEs() {
 
             <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
-            <i>Enero</i>
-            <br /><br />
-            Maya y yo hemos estado muy ocupadas últimamente y este mes solo nos dio tiempo de tomarnos una foto con Cookies.<br /><br />
+                <i>Febrero</i>
+                <br /><br />
+                Todavía estamos tratando de decidir qué videos poner aquí.
+                <br /><br />
+                Para marzo seguro subiremos uno.
+                <br /><br />
 
-            Cookies ha estado muy ocupada porque se fue de gira, ji, ji.<br /><br />
+            ------------------------<br /><br />
+            
+            <i>Posts Anteriores</i><br /><br />
 
-            Pero, bueno, esperamos tener un video nuevo (en español y en inglés) para compartir con ustedes muy pronto.<br /><br />
-            <br /><br /><br /><br />
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-daughters-projects/jan22/es"><h2>Enero</h2></Link>
+                </div>
+
+            <br /><br /><br />
 
 
-
-            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice-es"><h2>Siguiente sección</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-book-es"><h2>Sección anterior</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-sisters-advice/es"><h2>Siguiente sección</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-book/es"><h2>Sección anterior</h2></Link>
             </p>
 
             <GoTop />

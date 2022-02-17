@@ -9,8 +9,8 @@ import Board from './Components/Board';
 import Contact from './Components/Contact';
 import Photography from "./Components/BlogSections/Photography";
 import PhotographyEs from "./Components/BlogSections/Photography-es";
-import PhPost1 from './Components/BlogSections/Photography/jan22/11-jan-22';
-import PhPost1Es from './Components/BlogSections/Photography/jan22/11-jan-22-es';
+import PhPostJan22 from './Components/BlogSections/Photography/jan22/11-jan-22';
+import PhPostJan22Es from './Components/BlogSections/Photography/jan22/11-jan-22-es';
 import Podcast from "./Components/BlogSections/Podcast";
 import PodcastEs from "./Components/BlogSections/Podcast-es";
 import Book from './Components/BlogSections/Book';
@@ -32,16 +32,18 @@ import WIISYPersonEs from "./Components/BlogSections/WIISYPerson-es";
 import Jan22Es from "./Components/BlogSections/POTM/Jan22-es";
 import BoardEs from "./Components/Board-es";
 import ContactEs from "./Components/Contact-es";
-import PodPost1 from './Components/BlogSections/Podcast/jan22/11-jan-22';
-import PodPost1Es from './Components/BlogSections/Podcast/jan22/11-jan-22-es';
-import BookPost1 from './Components/BlogSections/Book/jan22/11-jan-22';
-import BookPost1Es from './Components/BlogSections/Book/jan22/11-jan-22-es';
-import SisPost1 from './Components/BlogSections/Sister/jan22/11-jan-22';
-import SisPost1Es from './Components/BlogSections/Sister/jan22/11-jan-22-es';
-import MomPost1 from './Components/BlogSections/Mom/jan22/11-jan-22';
-import MomPost1Es from './Components/BlogSections/Mom/jan22/11-jan-22-es';
-import MOTMPost1 from './Components/BlogSections/MOTM/Jan22';
-import MOTMPost1Es from './Components/BlogSections/MOTM/Jan22-es';
+import PodPostJan22 from './Components/BlogSections/Podcast/jan22/jan22';
+import PodPostJan22Es from './Components/BlogSections/Podcast/jan22/jan22-es';
+import BookPostJan22 from './Components/BlogSections/Book/jan22/jan22';
+import BookPostJan22Es from './Components/BlogSections/Book/jan22/jan22-es';
+import SisPostJan22 from './Components/BlogSections/Sister/jan22/11-jan-22';
+import SisPostJan22Es from './Components/BlogSections/Sister/jan22/11-jan-22-es';
+import MomPostJan22 from './Components/BlogSections/Mom/jan22/11-jan-22';
+import MomPostJan22Es from './Components/BlogSections/Mom/jan22/11-jan-22-es';
+import MOTMPostJan22 from './Components/BlogSections/MOTM/Jan22';
+import MOTMPostJan22Es from './Components/BlogSections/MOTM/Jan22-es';
+import ProjectsPostJan22 from './Components/BlogSections/Projects/jan22';
+import ProjectsPostJan22Es from './Components/BlogSections/Projects/jan22-es';
 
 const RouteSwitch = () => {
   return (
@@ -61,11 +63,11 @@ const RouteSwitch = () => {
 
         {/* Main routes ESP */}
         <Route path="/es" element={<HomeEs />} />
-        <Route path="/hector-es" element={<HectorEs />} />
-        <Route path="/about-es" element={<AboutEs />} />
-        <Route path="/blog-es" element={<BlogEs />} />
-        <Route path="/community-board-es" element={<BoardEs />} />
-        <Route path="/contact-me-es" element={<ContactEs />} />
+        <Route path="/hector/es" element={<HectorEs />} />
+        <Route path="/about/es" element={<AboutEs />} />
+        <Route path="/blog/es" element={<BlogEs />} />
+        <Route path="/community-board/es" element={<BoardEs />} />
+        <Route path="/contact-me/es" element={<ContactEs />} />
 
 
         {/* Blog routes ENG */}
@@ -80,36 +82,36 @@ const RouteSwitch = () => {
 
 
         {/* Blog routes ESP */}
-        <Route path="/blog/my-photography-es" element={<PhotographyEs />} />
-        <Route path="/blog/my-podcast-es" element={<PodcastEs />} />
-        <Route path="/blog/my-book-es" element={<BookEs />} />
-        <Route path="/blog/my-daughters-projects-es" element={<ProyectsEs />} />
-        <Route path="/blog/my-sisters-advice-es" element={<SisterEs />} />
-        <Route path="/blog/my-moms-recommendations-es" element={<MomEs />} />
-        <Route path="/blog/moment-of-the-month-es" element={<MomentOTWEs />} />
-        <Route path="/blog/person-of-the-month-es" element={<WIISYPersonEs />} />
+        <Route path="/blog/my-photography/es" element={<PhotographyEs />} />
+        <Route path="/blog/my-podcast/es" element={<PodcastEs />} />
+        <Route path="/blog/my-book/es" element={<BookEs />} />
+        <Route path="/blog/my-daughters-projects/es" element={<ProyectsEs />} />
+        <Route path="/blog/my-sisters-advice/es" element={<SisterEs />} />
+        <Route path="/blog/my-moms-recommendations/es" element={<MomEs />} />
+        <Route path="/blog/moment-of-the-month/es" element={<MomentOTWEs />} />
+        <Route path="/blog/person-of-the-month/es" element={<WIISYPersonEs />} />
 
 
         {/* Photography posts ENG */}
-        <Route path="/blog/my-photography/11-jan-22" element={<PhPost1 />} />
+        <Route path="/blog/my-photography/jan22" element={<PhPostJan22 />} />
 
         {/* Podcast posts ENG */}
-        <Route path="/blog/my-podcast/11-jan-22" element={<PodPost1 />} />
+        <Route path="/blog/my-podcast/jan22" element={<PodPostJan22 />} />
 
         {/* Book posts ENG */}
-        <Route path="/blog/my-book/11-jan-22" element={<BookPost1 />} />
+        <Route path="/blog/my-book/jan22" element={<BookPostJan22 />} />
         
         {/* Proyects posts ENG */}
-
+        <Route path="/blog/my-daughters-projects/jan22" element={<ProjectsPostJan22 />} />
 
         {/* Sister posts ENG */}
-        <Route path="/blog/my-sisters-advice/11-jan-22" element={<SisPost1 />} />
+        <Route path="/blog/my-sisters-advice/jan22" element={<SisPostJan22 />} />
         
         {/* Mom posts ENG */}
-        <Route path="/blog/my-moms-recommendations/11-jan-22" element={<MomPost1 />} />
+        <Route path="/blog/my-moms-recommendations/jan22" element={<MomPostJan22 />} />
 
         {/* MOTW posts ENG */}
-        <Route path="/blog/moment-of-the-month/jan22" element={<MOTMPost1 />} />
+        <Route path="/blog/moment-of-the-month/jan22" element={<MOTMPostJan22 />} />
 
         {/* WIISY posts ENG */}
         <Route path="/blog/person-of-the-month/jan22" element={<Jan22 />} />
@@ -119,38 +121,33 @@ const RouteSwitch = () => {
 
 
         {/* Photography posts ESP */}
-        <Route path="/blog/my-photography/11-jan-22-es" element={<PhPost1Es />} />
+        <Route path="/blog/my-photography/jan22/es" element={<PhPostJan22Es />} />
         
 
         {/* Podcast posts ESP */}
-        <Route path="/blog/my-podcast/11-jan-22-es" element={<PodPost1Es />} />
+        <Route path="/blog/my-podcast/jan22/es" element={<PodPostJan22Es />} />
 
         {/* Book posts ESP */}
-        <Route path="/blog/my-book/11-jan-22-es" element={<BookPost1Es />} />
+        <Route path="/blog/my-book/jan22/es" element={<BookPostJan22Es />} />
         
         {/* Proyects posts ESP */}
-
+        <Route path="/blog/my-daughters-projects/jan22/es" element={<ProjectsPostJan22Es />} />
 
         {/* Sister posts ESP */}
-        <Route path="/blog/my-sisters-advice/11-jan-22-es" element={<SisPost1Es />} />
+        <Route path="/blog/my-sisters-advice/jan22/es" element={<SisPostJan22Es />} />
         
         {/* Mom posts ESP */}
-        <Route path="/blog/my-moms-recommendations/11-jan-22-es" element={<MomPost1Es />} />
+        <Route path="/blog/my-moms-recommendations/jan22/es" element={<MomPostJan22Es />} />
 
 
         {/* MOTW posts ESP */}
-        <Route path="/blog/moment-of-the-month/jan22-es" element={<MOTMPost1Es />} />
+        <Route path="/blog/moment-of-the-month/jan22/es" element={<MOTMPostJan22Es />} />
         
 
 
         {/* WIISY posts ESP */}
-        <Route path="/blog/person-of-the-month/jan22-es" element={<Jan22Es />} />
+        <Route path="/blog/person-of-the-month/jan22/es" element={<Jan22Es />} />
 
-        
-        
-        
-
-        
 
 
       </Routes>

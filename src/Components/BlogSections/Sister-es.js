@@ -51,14 +51,14 @@ function SisterEs() {
             <i>Posts anteriores</i><br /><br />
 
                 <div id="post-link">
-                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/11-jan-22-es"><h2>Enero</h2></Link>
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/11-jan-22/es"><h2>Enero</h2></Link>
                 </div>
 
             <br /><br />
 
-            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations-es"><h2>Siguiente sección</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects-es"><h2>Sección anterior</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations/es"><h2>Siguiente sección</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects/es"><h2>Sección anterior</h2></Link>
             </p>
 
             <GoTop />

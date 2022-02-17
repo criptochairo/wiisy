@@ -80,9 +80,9 @@ function PhotographyEs() {
                 <br/>
                 
                 
-                <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast-es"><h2>Siguiente sección</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/person-of-the-month-es"><h2>Sección anterior</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast/es"><h2>Siguiente sección</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/person-of-the-month/es"><h2>Sección anterior</h2></Link>
                                
             
             </p>

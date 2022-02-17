@@ -3,7 +3,7 @@ import bookimg from '../../Resources/Icons/book.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import postimg from '../../Resources/Pics/kok1.jpg';
+import postimg from '../../Resources/Pics/Book/PortadaEsp.jpg';
 
 function BookEs() {
     return (
@@ -34,20 +34,29 @@ function BookEs() {
             <br /><br />
             
             ------------------------<br /><br />
-            
+
             <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
-            <i>11 de enero de 2022</i><br /><br />
+            <i>Febrero, 2022</i>
 
-            <b>[Reporte de mi hermano gemelo]</b>
-            <br /><br />
-            Al principio de cada libro, una vez que se define el tamaño y el número de páginas, así como el layout general, lo primero es recibir o recopilar todo el material, después revisar las fotos y ponerlas al tamaño y resolución que se usarán en el libro. Voy en esa parte.
+            <br /><br /><br />
+            Esta es la portada de nuestro próximo libro. ¿A poco no está preciosa? Tiene una de mis fotografías y una pintura de Jorge.
             <br /><br /><br />
 
+            ------------------------<br /><br />
 
-            <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects-es"><h2>Siguiente sección</h2></Link>
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast-es"><h2>Sección anterior</h2></Link>
+            <i>Posts Anteriores</i><br /><br />
+
+            <div id="post-link">
+                <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-book/jan22/es"><h2>Enero</h2></Link>
+            </div>
+
+            <br /><br />
+
+
+            <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects/es"><h2>Siguiente sección</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-podcast/es"><h2>Sección anterior</h2></Link>
             
             </p>
 

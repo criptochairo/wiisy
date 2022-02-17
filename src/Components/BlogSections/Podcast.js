@@ -3,7 +3,7 @@ import Microphone from '../../Resources/Icons/microphone.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import postimg from '../../Resources/Pics/lucy2.jpg';
+import postimg from '../../Resources/Pics/Podcast/logo.jpg';
 
 function Podcast() {
     return (
@@ -36,21 +36,35 @@ function Podcast() {
                 
                 ------------------------<br /><br />
 
-                <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
+                    <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
-                <i>January 11, 2022</i>
-                <br /><br />
+                    <i>February</i>
+                    <br /><br />
 
-                Last year I basically worked on deciding what I wanted to do during my first season. Then my brother Luis (the sound director of my podcast) and I spent several months trying to see where in my apartment I could record to make it sound better… until we discovered that I had the microphone in the wrong position. It's two-sided and I was recording from the wrong side, ha-ha. But hey, that's how you learn. 
+                    On February 6, 2022, I finally published the introductory episode of my podcast. How exciting! 
+                    <br /><br />
+                    Given the lovely response from the audience and by popular demand, I have decided to say YES! to record it in English.
+                    <br /><br />
+                    I published that episode on February 14, 2022.
+                    <br /><br />
+                You can find the Introductory Episode (in English and Spanish) here:
+                <br />
+                <ul>
+                    <li><a href="https://anchor.fm/lucia-cardenas" target="_blank" rel="noreferrer">Anchor</a></li><br />
+                    <li><a href="https://open.spotify.com/show/7Kqsh8mLHJIlCOIdHXkskT" target="_blank" rel="noreferrer">Spotify</a></li><br />
+                    <li><a href="https://podcasts.apple.com/mx/podcast/de-regalos-y-palabras-con-luc%C3%ADa-c%C3%A1rdenas-of-gifts/id1608798314" target="_blank" rel="noreferrer">Apple Podcast</a></li><br />
+                    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw" target="_blank" rel="noreferrer">Google Podcasts</a></li>
+                </ul>   
+                <br />
+
+                ------------------------<br /><br />
+                <i>Previous Posts</i><br /><br />
+
+                    <div id="post-link">
+                        <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-podcast/jan22"><h2>January</h2></Link>
+                    </div>
+
                 <br /><br />
-                Keep in mind that he is trying to help me from Mexico while I am here in the United States. So, all the training has been at a distance through WhatsApp or Zoom or whatever we can use.
-                <br /><br />
-                Once my brother had given me the green light to start recording, it turns out that I wanted to rewrite my first episode because I became a super fan of <a href="https://themoth.org/podcast" target="_blank" rel="noreferrer">The Moth</a> podcast and since I love how people tell their stories, I wanted to tell mine just like they do.
-                <br /><br />
-                I looked for the methodology they use and am working on it. I have been writing and rewriting and won’t stop until I have something that I like a lot. When I get to that point, I will record my first episode.
-                <br /><br />
-                I'll keep you posted ... but I am getting there.
-                <br /><br /><br />
 
                 <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
                 <Link className="link" style={{ color: 'black' }} to="/blog/my-book"><h2>Next Section</h2></Link>

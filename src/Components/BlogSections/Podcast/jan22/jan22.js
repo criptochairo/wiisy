@@ -2,13 +2,16 @@ import React from "react";
 import { Link } from "react-router-dom";
 import GoTop from "../../../GoTop";
 import Nav from "../../../../Nav";
+import postimg from '../../../../Resources/Pics/lucy2.jpg';
 
 function Post() {
     return (
         <div>
             <Nav />
             <div className="text-container">
-            <h1>January 11, 2022</h1><br />
+            <h1>January, 2022</h1><br />
+
+            <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
                 <p class="content-text">
 
@@ -18,7 +21,7 @@ function Post() {
                 <br /><br />
                 Once my brother had given me the green light to start recording, it turns out that I wanted to rewrite my first episode because I became a super fan of <a href="https://themoth.org/podcast" target="_blank" rel="noreferrer">The Moth</a> podcast and since I love how people tell their stories, I wanted to tell mine just like they do.
                 <br /><br />
-                I looked for the methodology they use and am working on it. I have been writing and rewriting and won’t stop until I have something that I like a lot. When I get to that point, I will record my first episode.
+                I looked for the methodology they use and am working on it. I have been writing and rewriting and won't stop until I have something that I like a lot. When I get to that point, I will record my first episode.
                 <br /><br />
                 I'll keep you posted ... but I am getting there.
                 <br /><br /><br />

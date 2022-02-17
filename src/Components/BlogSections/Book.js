@@ -3,7 +3,8 @@ import bookimg from '../../Resources/Icons/book.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import postimg from '../../Resources/Pics/kok1.jpg';
+import postimg from '../../Resources/Pics/Book/PortadaEsp.jpg';
+
 
 function Book() {
     return (
@@ -12,7 +13,7 @@ function Book() {
 
         <div className="text-container"> 
             <img src={bookimg} alt="wiisy-logo" id="blog-img" /> 
-            <h1>Book With my Twin Brother</h1> <br />
+            <h1>Book With My Twin Brother</h1> <br />
 
             <p className="content-text">
             My twin brother Jorge and I turned 50 this past summer (2021), and to celebrate in a big way, I thought we could create a book together and publish it through Amazon but without a publisher involved and without depending on on others telling us if they liked our project or not.
@@ -36,14 +37,21 @@ function Book() {
 
             <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
-            <i>January 11, 2022<br /><br /></i>
+            <i>February, 2022</i>
 
-            <b>[Report from my twin brother]</b>
-            <br /><br />
-            At the beginning of each book, once the size and number of pages are defined, as well as the general layout, the first thing is to receive or collect all the material, then review the photos and make sure they have the size and resolution that will be used in the book. I am at that stage.
+            <br /><br /><br />
+            This is the cover of our forthcoming book. Isn't it lovely? It features one of my photos and one of Jorge's paintings.
             <br /><br /><br />
 
+            ------------------------<br /><br />
             
+            <i>Previous Posts</i><br /><br />
+
+            <div id="post-link">
+                <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-book/jan22"><h2>January</h2></Link>
+            </div>
+
+            <br /><br />
 
             <Link className="link" style={{ color: 'black' }} to="/blog"><h2>Back to Blog</h2></Link>
             <Link className="link" style={{ color: 'black' }} to="/blog/my-daughters-projects"><h2>Next Section</h2></Link>

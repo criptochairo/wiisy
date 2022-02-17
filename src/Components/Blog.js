@@ -3,7 +3,8 @@ import { Link } from "react-router-dom";
 import './Blog.css';
 import blogimg from '../Resources/Pics/503.jpg';
 import Social from '../Resources/Icons/camera.png';
-import Microphone from '../Resources/Icons/microphone.png';
+// import Microphone from '../Resources/Icons/microphone.png';
+import Microphone from '../Resources/Pics/Podcast/logo.jpg';
 import Book from '../Resources/Icons/book.png';
 import Mom from '../Resources/Icons/motherhood.png';
 import Sister from '../Resources/Icons/twins.png';
@@ -36,7 +37,7 @@ function Blog() {
 
                 <div className="blog-container">
                     <Link to="/blog/my-book"><img src={Book} alt="my-book" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-book"><h2>Book with my Twin Brother</h2></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-book"><h2>Book With My Twin Brother</h2></Link>
                 </div>
 
                 <div className="blog-container">

@@ -25,43 +25,43 @@ function Blog() {
 
             <ul className="blog-list">
                 <div className="blog-container">
-                    <Link to="/blog/my-photography-es"><img src={Social} alt="my-photography" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-photography-es"><h2>Mis fotografías</h2></Link>
+                    <Link to="/blog/my-photography/es"><img src={Social} alt="my-photography" /></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-photography/es"><h2>Mis fotografías</h2></Link>
                 </div>
 
                 <div className="blog-container">
-                    <Link to="/blog/my-podcast-es"><img src={Microphone} alt="my-podcast" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-podcast-es"><h2>Mi podcast</h2></Link>
+                    <Link to="/blog/my-podcast/es"><img src={Microphone} alt="my-podcast" /></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-podcast/es"><h2>Mi podcast</h2></Link>
                 </div>
 
                 <div className="blog-container">
-                    <Link to="/blog/my-book-es"><img src={Book} alt="my-book" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-book-es"><h2>Libro con mi hermano gemelo</h2></Link>
+                    <Link to="/blog/my-book/es"><img src={Book} alt="my-book" /></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-book/es"><h2>Libro con mi hermano gemelo</h2></Link>
                 </div>
 
                 <div className="blog-container">
-                    <Link to="/blog/my-daughters-projects-es"><img src={Mom} alt="my-projects" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-daughters-projects-es"><h2>Proyectos con mi hija</h2></Link>
+                    <Link to="/blog/my-daughters-projects/es"><img src={Mom} alt="my-projects" /></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-daughters-projects/es"><h2>Proyectos con mi hija</h2></Link>
                 </div>
 
                 <div className="blog-container">
-                    <Link to="/blog/my-sisters-advice-es"><img src={Sister} alt="my-sister" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-sisters-advice-es"><h2>Consejos de mi hermana</h2></Link>
+                    <Link to="/blog/my-sisters-advice/es"><img src={Sister} alt="my-sister" /></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-sisters-advice/es"><h2>Consejos de mi hermana</h2></Link>
                 </div>
 
                 <div className="blog-container">
-                    <Link to="/blog/my-moms-recommendations-es"><img src={Grandma} alt="my-mom" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-moms-recommendations-es"><h2>Abuelita recomienda</h2></Link>
+                    <Link to="/blog/my-moms-recommendations/es"><img src={Grandma} alt="my-mom" /></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-moms-recommendations/es"><h2>Abuelita recomienda</h2></Link>
                 </div>
 
                 <div className="blog-container">
-                    <Link to="/blog/moment-of-the-month-es"><img src={Week} alt="momtw" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/moment-of-the-month-es"><h2>Momento del mes</h2></Link>
+                    <Link to="/blog/moment-of-the-month/es"><img src={Week} alt="momtw" /></Link>
+                    <Link style={{ color: 'black'}} to="/blog/moment-of-the-month/es"><h2>Momento del mes</h2></Link>
                 </div>
 
                 <div className="blog-container">
-                    <Link to="/blog/person-of-the-month-es"><img src={Prize} alt="person-of-the-month" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/person-of-the-month-es"><h2>La persona <i>¿Y si digo que sí?</i> del mes</h2></Link>
+                    <Link to="/blog/person-of-the-month/es"><img src={Prize} alt="person-of-the-month" /></Link>
+                    <Link style={{ color: 'black'}} to="/blog/person-of-the-month/es"><h2>La persona <i>¿Y si digo que sí?</i> del mes</h2></Link>
                 </div>
                 
             </ul>

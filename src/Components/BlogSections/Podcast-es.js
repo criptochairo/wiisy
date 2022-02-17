@@ -3,7 +3,7 @@ import Microphone from '../../Resources/Icons/microphone.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import postimg from '../../Resources/Pics/lucy2.jpg';
+import postimg from '../../Resources/Pics/Podcast/logoesp.jpg';
 
 function PodcastEs() {
     return (
@@ -15,46 +15,62 @@ function PodcastEs() {
 
                 <p class="content-text">
 
-                Un día, reflexionando en voz alta con mi esposo y mi hija sobre el sentido de mi vida, y contestando a sus preguntas, llegué a la conclusión de que quería intentar algo nuevo que me daba mucho nervio pero que a la vez me emocionaba enormemente: crear mi propio podcast.<br /><br />
+                Un día, reflexionando en voz alta con mi esposo y mi hija sobre el sentido de mi vida, y contestando a sus preguntas, llegué a la conclusión de que quería intentar algo nuevo que me daba mucho nervio pero que a la vez me emocionaba enormemente: crear mi propio podcast.
+                <br /><br />
+                Gracias a la pandemia había empezado a escuchar muchos podcasts y me había enamorado de esta forma tan íntima de comunicación.
+                <br /><br />
+                Ahora la pregunta era... ¿y de qué hago mi podcast?, ¿qué tengo que ofrecerle al mundo?
+                <br /><br />
+                Pues resulta que desde hace muchos años yo regalo palabras, a mi familia, a mis amigas y amigos queridos, a gente a la que quiero y admiro. Pero esos escritos no los he publicado, no los he compartido con nadie más que con las personas a las que van dedicados.
+                <br /><br />
+                Entonces pensé "¿y si lo hago sobre regalos y palabras?"
+                <br /><br />
+                Así nació el título, la idea y mi pódcast: <i>De regalos y palabras.</i>
+                <br /><br />
+                El logo me lo diseñó mi hermano gemelo, Jorge. Mi hermano mayor, Luis, es el director de sonido. Mi cuñada, Ana Laura, me ayudó a entrenar mi voz. Y mi hija, Maya, grabó la presentación del podcast.
+                <br /><br />
+                Mi lengua materna es el español y por eso lo grabo en español. Todavía no me aviento a decir ¿y si digo que sí a grabarlo en inglés? porque eso me da todavía mucho miedo (mi pronunciación no es perfecta y no vaya a ser que acabe diciendo algo que suene a otra cosa, ja, ja). Pero en el espíritu de este sitio web, algún día estaré anunciando que dije que <u><b>¡sí!</b></u> y presentaré mi pódcast en inglés.
+                <br /><br />
+                Mientras tanto, aquí les contaré de lo que hablo en mis distintos episodios, con toda la intención de inspirarlos a hacer lo mismo: aprender a regalar sus propias palabras… y ¿quién sabe? A lo mejor también a crear un día su propio podcast.
+                <br /><br />
 
-                Gracias a la pandemia había empezado a escuchar muchos podcasts y me había enamorado de esta forma tan íntima de comunicación.<br /><br />
-
-                Ahora la pregunta era... ¿y de qué hago mi podcast?, ¿qué tengo que ofrecerle al mundo?<br /><br />
-
-                Pues resulta que desde hace muchos años yo regalo palabras, a mi familia, a mis amigas y amigos queridos, a gente a la que quiero y admiro. Pero esos escritos no los he publicado, no los he compartido con nadie más que con las personas a las que van dedicados.<br /><br />
-
-                Entonces pensé "¿y si lo hago sobre regalos y palabras?"<br /><br />
-
-                Así nació el título, la idea y mi pódcast: <i>De regalos y palabras.</i><br /><br />
-
-                El logo me lo diseñó mi hermano gemelo, Jorge. Mi hermano mayor, Luis, es el director de sonido. Mi cuñada, Ana Laura, me ayudó a entrenar mi voz. Y mi hija, Maya, grabó la presentación del podcast.<br /><br />
-
-                Mi lengua materna es el español y por eso lo grabo en español. Todavía no me aviento a decir ¿y si digo que sí a grabarlo en inglés? porque eso me da todavía mucho miedo (mi pronunciación no es perfecta y no vaya a ser que acabe diciendo algo que suene a otra cosa, ja, ja). Pero en el espíritu de este sitio web, algún día estaré anunciando que dije que <u><b>¡sí!</b></u> y presentaré mi pódcast en inglés.<br /><br />
-
-                Mientras tanto, aquí les contaré de lo que hablo en mis distintos episodios, con toda la intención de inspirarlos a hacer lo mismo: aprender a regalar sus propias palabras… y ¿quién sabe? A lo mejor también a crear un día su propio podcast.<br /><br />
-                
                 ------------------------<br /><br />
 
                 <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
-                <i>11 de enero del 2022</i>
+                <i>Febrero del 2022</i>
                 <br /><br />
 
-                El año pasado básicamente lo dediqué a decidir qué quiero grabar en mi primera temporada. Luego, mi hermano Luis (el director de sonido de mi pódcast) y yo nos tardamos varios meses tratando de ver dónde en mi departamento podía grabar para que se oyera mejor… hasta que descubrimos que tenía el micrófono al revés. Es de dos caras y yo grababa desde la cara incorrecta, jaja. Pero bueno, así se aprende. 
+                El 6 de febrero del 2022, por fin publiqué el episodio introductorio de mi pódcast. ¡Qué emoción! 
                 <br /><br />
-                Tomen en cuenta que él está tratando de ayudarme desde México mientras yo estoy aquí en los Estados Unidos. Entonces, todo el entrenamiento ha sido a la distancia a través de WhatsApp o Zoom o lo que se pueda.
+                Dada la respuesta tan linda del público y debido a la gran demanda, he decidido decirle que ¡SÍ! a grabar ahora mi episodio en inglés.
                 <br /><br />
-                Una vez que ya mi hermano me había dado luz verde para grabar, resulta que quise reescribir mi primer episodio porque me hice super fanática del pódcast <a href="https://themoth.org/podcast" target="_blank" rel="noreferrer">The Moth</a> y como me encanta cómo cuenta la gente sus historias, yo quiero contar la mía así.
+                Publiqué ese episodio el 14 de febrero del 2022.
                 <br /><br />
-                Busqué la metodología que usan y en esas ando. Escribiendo y reescribiendo hasta que me quede algo que me guste mucho. Cuando llegue a ese momento, grabaré mi primer episodio.
+                Pueden encontrar mi Episodio introductorio, en español e inglés aquí:
+                <br />
+                <ul>
+                    <li><a href="https://anchor.fm/lucia-cardenas" target="_blank" rel="noreferrer">Anchor</a></li><br />
+                    <li><a href="https://open.spotify.com/show/7Kqsh8mLHJIlCOIdHXkskT" target="_blank" rel="noreferrer">Spotify</a></li><br />
+                    <li><a href="https://podcasts.apple.com/mx/podcast/de-regalos-y-palabras-con-luc%C3%ADa-c%C3%A1rdenas-of-gifts/id1608798314" target="_blank" rel="noreferrer">Apple Podcast</a></li><br />
+                    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw" target="_blank" rel="noreferrer">Google Podcasts</a></li>
+                </ul>
+                <br />
+
+                ------------------------<br /><br />
+                
+                <i>Posts Anteriores</i><br /><br />
+
+                    <div id="post-link">
+                        <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-podcast/jan22/es"><h2>Enero</h2></Link>
+                    </div>
+
                 <br /><br />
-                Los mantendré al tanto… pero ya falta menos.
-                <br /><br /><br />
 
 
-                <Link className="link" style={{ color: 'black' }} to="/blog-es"><h2>Regresar al blog</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-book-es"><h2>Siguiente sección</h2></Link>
-                <Link className="link" style={{ color: 'black' }} to="/blog/my-photography-es"><h2>Sección anterior</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/es"><h2>Regresar al blog</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/my-book/es"><h2>Siguiente sección</h2></Link>
+                <Link className="link" style={{ color: 'black' }} to="/blog/my-photography/es"><h2>Sección anterior</h2></Link>
             
             </p>
 

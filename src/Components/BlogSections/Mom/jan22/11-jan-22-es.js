@@ -29,7 +29,7 @@ function Post() {
                 Yo pedí un postre que le llaman pan francés pero que no tiene nada que ver con lo que comúnmente conocemos con ese nombre. ¡Estaba delicioso!
                 <br /><br /><br /></i>
 
-            <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations-es"><h2>Regresar</h2></Link>
+            <Link className="link" style={{ color: 'black' }} to="/blog/my-moms-recommendations/es"><h2>Regresar</h2></Link>
             </p>
 
             <GoTop />
