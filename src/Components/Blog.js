@@ -36,12 +36,12 @@ function Blog() {
 
                 <div className="blog-container">
                     <Link to="/blog/my-book"><img src={Book} alt="my-book" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-book"><h2>Book With My Twin Brother</h2></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-book"><h2>Book with My Twin Brother</h2></Link>
                 </div>
 
                 <div className="blog-container">
                     <Link to="/blog/my-daughters-projects"><img src={Mom} alt="my-projects" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-daughters-projects"><h2>Projects with my Daughter</h2></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-daughters-projects"><h2>Projects with My Daughter</h2></Link>
                 </div>
 
                 <div className="blog-container">

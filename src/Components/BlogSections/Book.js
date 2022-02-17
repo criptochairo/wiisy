@@ -13,7 +13,7 @@ function Book() {
 
         <div className="text-container"> 
             <img src={bookimg} alt="wiisy-logo" id="blog-img" /> 
-            <h1>Book With My Twin Brother</h1> <br />
+            <h1>Book with My Twin Brother</h1> <br />
 
             <p className="content-text">
             My twin brother Jorge and I turned 50 this past summer (2021), and to celebrate in a big way, I thought we could create a book together and publish it through Amazon but without a publisher involved and without depending on on others telling us if they liked our project or not.

@@ -11,7 +11,7 @@ function Proyects() {
             <Nav />
             <div className="text-container"> 
             <img src={Mom} alt="wiisy-logo" id="blog-img" /> 
-            <h1>Projects with my Daughter</h1> <br />
+            <h1>Projects with My Daughter</h1> <br />
 
             <p class="content-text">
             One of the silver linings of the pandemic was that I found new ways to get close to my daughter Maya. For several months, being together all day was a challenge ... until one day, we discovered that we could create things together.
