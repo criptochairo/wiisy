@@ -35,7 +35,7 @@ function Book() {
             
             ------------------------<br /><br />
 
-            <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
+            <img src={postimg} alt="wiisy-logo" className="profile-pic" id="book-cover" /><br />
 
             <i>February, 2022</i>
 

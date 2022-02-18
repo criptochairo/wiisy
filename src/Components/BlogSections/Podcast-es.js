@@ -12,7 +12,7 @@ function PodcastEs() {
         <NavEs />
             <div className="text-container">
             <img src={Microphone} alt="wiisy-logo" id="blog-img" /> 
-            <h1>Mi Pódcast</h1><br />
+            <h1>Mi pódcast</h1><br />
 
                 <p class="content-text">
 
@@ -37,7 +37,7 @@ function PodcastEs() {
 
                 ------------------------<br /><br />
 
-                <img src={postimg} alt="wiisy-logo" className="profile-pic" id="podcast-logo" />
+                <img src={postimg} alt="wiisy-logo" className="profile-pic" />
 
                 <i>Febrero del 2022</i>
                 <br /><br />
@@ -57,7 +57,7 @@ function PodcastEs() {
                     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw" target="_blank" rel="noreferrer">Google Podcasts</a></li>
                 </ul>
 
-                <img src={postimg2} alt="wiisy-logo" className="profile-pic" id="podcast-logo" />
+                <img src={postimg2} alt="wiisy-logo" className="profile-pic" />
                 <br /><br />
 
                 ------------------------<br /><br />

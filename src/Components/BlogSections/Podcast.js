@@ -37,7 +37,7 @@ function Podcast() {
                 
                 ------------------------<br /><br />
 
-                    <img src={postimg} alt="wiisy-logo" className="profile-pic" id="podcast-logo" /><br />
+                    <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
                     <i>February</i>
                     <br /><br />
@@ -57,7 +57,7 @@ function Podcast() {
                     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw" target="_blank" rel="noreferrer">Google Podcasts</a></li>
                 </ul>   
 
-                <img src={postimg2} alt="wiisy-logo" className="profile-pic" id="podcast-logo" />
+                <img src={postimg2} alt="wiisy-logo" className="profile-pic" />
                 <br /><br />
 
                 ------------------------<br /><br />

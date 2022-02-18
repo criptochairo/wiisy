@@ -31,7 +31,7 @@ function Blog() {
 
                 <div className="blog-container">
                     <Link to="/blog/my-podcast/es"><img src={Microphone} alt="my-podcast" /></Link>
-                    <Link style={{ color: 'black'}} to="/blog/my-podcast/es"><h2>Mi podcast</h2></Link>
+                    <Link style={{ color: 'black'}} to="/blog/my-podcast/es"><h2>Mi pódcast</h2></Link>
                 </div>
 
                 <div className="blog-container">

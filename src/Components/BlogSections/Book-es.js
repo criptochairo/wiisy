@@ -35,7 +35,7 @@ function BookEs() {
             
             ------------------------<br /><br />
 
-            <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
+            <img src={postimg} alt="wiisy-logo" className="profile-pic" id="book-cover" /><br />
 
             <i>Febrero, 2022</i>
 
