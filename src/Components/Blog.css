@@ -99,6 +99,16 @@
     box-shadow: 1px 1px 5px grey;
 }
 
+.post-video {
+    display: flex;
+    align-self: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 1.25em auto;
+    box-shadow: 1px 1px 10px grey;
+}
+
 
 @media only screen and (max-width: 425px) {
     
@@ -124,6 +134,20 @@
     .profile-container {
         word-break: break-all;
         font-size: 50%;
+    }
+
+    .post-video {
+        display: flex;
+        align-self: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+        max-width: 95%;
+        margin: 1.25em auto;
+        box-shadow: 1px 1px 10px grey;
+    }
+
+    #post-link {
+        font-size: 80%;
     }
 
 

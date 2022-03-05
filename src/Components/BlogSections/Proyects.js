@@ -1,9 +1,11 @@
 import React from "react";
+import ReactPlayer from 'react-player/youtube';
 import Mom from '../../Resources/Icons/motherhood.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import postimg from '../../Resources/Pics/Projects/feb22.JPG';
+// import postimg from '../../Resources/Pics/Projects/feb22.JPG';
+
 
 function Proyects() {
     return (
@@ -29,14 +31,14 @@ function Proyects() {
             
             ------------------------<br /><br />
 
-            <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
+            {/* <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br /> */}
 
-            <i>February</i>
+            <i>March</i>
             <br /><br />
-            We are still trying to figure out what videos to post here.
+            Cookies finally agreed to make a video for the website… The only problem is that she does not remember what the website name is, ha-ha!
             <br /><br />
-            By March we will have one for sure.
-            <br /><br />
+
+            <ReactPlayer url='https://youtu.be/8I1UchJSccQ' className="post-video" />
 
             ------------------------<br /><br />
 
@@ -44,6 +46,9 @@ function Proyects() {
 
                 <div id="post-link">
                     <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-daughters-projects/jan22"><h2>January</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-daughters-projects/feb22"><h2>February</h2></Link>
                 </div>
 
             <br /><br /><br />

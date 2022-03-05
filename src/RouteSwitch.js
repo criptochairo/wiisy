@@ -71,10 +71,12 @@ import BookPostJan22Es from './Components/BlogSections/Book/jan22/jan22-es';
 // Projects posts ENG
 
 import ProjectsPostJan22 from './Components/BlogSections/Projects/jan22/jan22';
+import ProjectsPostFeb22 from './Components/BlogSections/Projects/feb22/feb22';
 
 // Projects posts ESP 
 
 import ProjectsPostJan22Es from './Components/BlogSections/Projects/jan22/jan22-es';
+import ProjectsPostFeb22Es from './Components/BlogSections/Projects/feb22/feb22-es';
 
 // Sister posts ENG
 
@@ -176,8 +178,9 @@ const RouteSwitch = () => {
         {/* Book posts ENG */}
         <Route path="/blog/my-book/jan22" element={<BookPostJan22 />} />
         
-        {/* Proyects posts ENG */}
+        {/* Projects posts ENG */}
         <Route path="/blog/my-daughters-projects/jan22" element={<ProjectsPostJan22 />} />
+        <Route path="/blog/my-daughters-projects/feb22" element={<ProjectsPostFeb22 />} />
 
         {/* Sister posts ENG */}
         <Route path="/blog/my-sisters-advice/jan22" element={<SisPostJan22 />} />
@@ -209,8 +212,9 @@ const RouteSwitch = () => {
         {/* Book posts ESP */}
         <Route path="/blog/my-book/jan22/es" element={<BookPostJan22Es />} />
         
-        {/* Proyects posts ESP */}
+        {/* Projects posts ESP */}
         <Route path="/blog/my-daughters-projects/jan22/es" element={<ProjectsPostJan22Es />} />
+        <Route path="/blog/my-daughters-projects/feb22/es" element={<ProjectsPostFeb22Es />} />
 
         {/* Sister posts ESP */}
         <Route path="/blog/my-sisters-advice/jan22/es" element={<SisPostJan22Es />} />

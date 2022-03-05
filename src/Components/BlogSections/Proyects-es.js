@@ -1,9 +1,10 @@
 import React from "react";
+import ReactPlayer from 'react-player/youtube';
 import Mom from '../../Resources/Icons/motherhood.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import postimg from '../../Resources/Pics/Projects/feb22.JPG';
+// import postimg from '../../Resources/Pics/Projects/feb22.JPG';
 
 function ProyectsEs() {
     return (
@@ -30,14 +31,14 @@ function ProyectsEs() {
 
             ------------------------<br /><br />
 
-            <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
+            {/* <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br /> */}
 
-                <i>Febrero</i>
+                <i>Marzo</i>
                 <br /><br />
-                Todavía estamos tratando de decidir qué videos poner aquí.
+                Cookies finalmente accedió a hacer un video para este sitio web… El único problema es que no se acuerda de cómo se llama este sitio web, ja, ja.
                 <br /><br />
-                Para marzo seguro subiremos uno.
-                <br /><br />
+
+            <ReactPlayer url='https://youtu.be/8I1UchJSccQ' className="post-video" />
 
             ------------------------<br /><br />
             
@@ -45,6 +46,9 @@ function ProyectsEs() {
 
                 <div id="post-link">
                     <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-daughters-projects/jan22/es"><h2>Enero</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-daughters-projects/feb22/es"><h2>Febrero</h2></Link>
                 </div>
 
             <br /><br /><br />
