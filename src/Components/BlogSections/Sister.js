@@ -3,7 +3,7 @@ import Sisterimg from '../../Resources/Icons/twins.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import postimg from '../../Resources/Pics/sister2.jpg';
+// import postimg from '../../Resources/Pics/sister2.jpg';
 
 function Sister() {
     return (
@@ -31,19 +31,19 @@ function Sister() {
             
             ------------------------<br /><br />
 
-            <img src={postimg} alt="rocy" id="rocy-img" className="profile-pic" />
+            {/* <img src={postimg} alt="rocy" id="rocy-img" className="profile-pic" /> */}
 
-            <i>February</i><br /><br />
+            <i>March</i><br /><br />
 
-            <i>This month, my sister has <b>Tips for Dancing:</b></i>
+                - A question for your sister (the same one I have for all mothers): How to harmoniously combine personal and work projects with motherhood :) ?”
                 <br /><br />
-                Have fun!!
+                <i>- I believe that everyone can find the best possible solution according to their own circumstances.
                 <br /><br />
-                It's always nice to see someone dancing who is having fun, even if they seem to have no style.
+                I mean, it is easier to have time for your personal or work projects if you have other people who can support you with the care of your children, like your partner or relatives, or if you can leave them in evening activities or daycare, or if you have understanding bosses who get your new role as a mom.
                 <br /><br />
-                In fact, this reminds me a lot of my brother Héctor, ha-ha. His movements were very funny, but he had fun and we had fun watching him.
+                I believe that dedicating time to your personal or work projects does not necessarily imply a lack of attention to your children, but you do have to be on the lookout to adjust in case it affects them, because each child is different.
                 <br /><br />
-                And if you like a particular type of dance, take classes! Practice always helps 😉.
+                And always have a space to spend quality time with them and make them feel how important they are in your life.</i>
                 <br /><br /><br />
 
             ------------------------<br /><br />
@@ -51,6 +51,9 @@ function Sister() {
 
                 <div id="post-link">
                     <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/jan22"><h2>January</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/feb22"><h2>February</h2></Link>
                 </div>
 
             <br /><br />

@@ -3,8 +3,8 @@ import Week from '../../Resources/Icons/week.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import Pic1 from '../../Resources/Pics/MOTW/jan1.jpg';
-import Pic2 from '../../Resources/Pics/MOTW/jan2.jpg';
+import Pic1 from '../../Resources/Pics/MOTW/feb22/1.jpeg';
+import Pic2 from '../../Resources/Pics/MOTW/feb22/2.jpeg';
 
 function MomentOTWEs() {
     return (
@@ -29,11 +29,21 @@ function MomentOTWEs() {
             <br /><br />
             ------------------------<br /><br />
 
-            <i>Enero del 2022</i> <br /><br />
+            <i>Febrero</i> <br /><br />
 
-            <b>Maya:</b> En enero hicimos un reto llamado “El karaoke Figueroa”. Fue realmente divertido. Hecho en casa. ¡Hicimos ocho rondas, cuatro rondas cada uno, y cantamos canciones al azar sacadas de un sombrero! Seleccionamos esto como “El momento del mes” porque ha sido una de las pocas veces que hemos podido cantar juntos. Aunque nos dio un poco de pena, nos divertimos mucho juntos.
+            ¡Este mes Maya y yo celebramos nuestros cumpleaños con estilo!
             <br /><br />
-            <b>Carlos:</b> Así es, cantamos con todo nuestro corazón a pesar de que a menudo cantábamos desentonados y decíamos la letra equivocada, ¡ups! Maya me juzgó a mí y yo la juzgué a ella basándonos en la letra, la entonación y la melodía. Fue un reto cantar una canción pop adolescente del 2013 un momento ("Victorious" del programa de Nickelodeon) y luego cantar una canción de hip hop o rap de los 80s al siguiente ("The Breaks" de Kurtis Blow). Pronto planeamos hacer esto nuevamente con más canciones extrañas u oscuras a través de más géneros. ¡Incluso podemos incluir canciones en español para hacerlo aún más desafiante! ¡Maya ganó esta competencia con 80 puntos contra 70.75 (míos) de un total de 120 puntos! 
+            ¡Ordenamos dos deliciosos pasteles de zanahoria, uno para cada quien, con decoraciones sorpresa únicas de Vasantha, una excelente repostera de Ithaca, Nueva York!
+            <br /><br />
+            Maya y yo elegimos nuestras respectivas celebraciones de cumpleaños como El momento del mes por dos razones:
+            <br /><br />
+            1) nos encanta el pastel de zanahoria, y 2) el pastel de zanahoria era el pastel favorito de mi Mami, Virginia Morales (la abuela paterna de Maya). Compartíamos el mismo cumpleaños (1 de febrero). Ella falleció, a principios de mayo de 2015, a la corta edad de 66 años. 
+            <br /><br />
+            ¡La extrañamos mucho!
+            <br /><br />
+            Entonces, en honor a mi Mami, el pastel de zanahoria será de ahora en adelante nuestro tradicional pastel de cumpleaños.
+            <br /><br />
+            ¡Disfruten también de nuestras fotos!
             <br /><br />
 
             <div className="motw-pics">
@@ -45,7 +55,10 @@ function MomentOTWEs() {
             <i>Posts Anteriores</i><br /><br />
 
                 <div id="post-link">
-                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/jan22/es"><h2>Diciembre</h2></Link>
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/dec21/es"><h2>Diciembre</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/jan22/es"><h2>Enero</h2></Link>
                 </div>
 
             <br /><br />

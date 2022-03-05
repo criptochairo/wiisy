@@ -46,11 +46,11 @@ import WIISYPersonEs from "./Components/BlogSections/WIISYPerson-es";
 
 // Photography posts ENG
 
-import PhPostJan22 from './Components/BlogSections/Photography/jan22/11-jan-22';
+import PhPostJan22 from './Components/BlogSections/Photography/jan22/Jan22';
 
 // Photography posts ESP
 
-import PhPostJan22Es from './Components/BlogSections/Photography/jan22/11-jan-22-es';
+import PhPostJan22Es from './Components/BlogSections/Photography/jan22/Jan22-es';
 
 // Podcast posts ENG
 
@@ -70,43 +70,53 @@ import BookPostJan22Es from './Components/BlogSections/Book/jan22/jan22-es';
 
 // Projects posts ENG
 
-import ProjectsPostJan22 from './Components/BlogSections/Projects/jan22';
+import ProjectsPostJan22 from './Components/BlogSections/Projects/jan22/jan22';
 
 // Projects posts ESP 
 
-import ProjectsPostJan22Es from './Components/BlogSections/Projects/jan22-es';
+import ProjectsPostJan22Es from './Components/BlogSections/Projects/jan22/jan22-es';
 
 // Sister posts ENG
 
-import SisPostJan22 from './Components/BlogSections/Sister/jan22/11-jan-22';
+import SisPostJan22 from './Components/BlogSections/Sister/Jan22/11-jan-22';
+import SisPostFeb22 from './Components/BlogSections/Sister/Feb22/Feb22';
 
 // Sister posts ESP
 
-import SisPostJan22Es from './Components/BlogSections/Sister/jan22/11-jan-22-es';
+import SisPostJan22Es from './Components/BlogSections/Sister/Jan22/11-jan-22-es';
+import SisPostFeb22Es from './Components/BlogSections/Sister/Feb22/Feb22-es';
 
 // Abuelita posts ENG
 
 import MomPostJan22 from './Components/BlogSections/Mom/jan22/11-jan-22';
+import MomPostFeb22 from './Components/BlogSections/Mom/feb22/feb22';
 
 // Abuelita posts ESP
 
 import MomPostJan22Es from './Components/BlogSections/Mom/jan22/11-jan-22-es';
+import MomPostFeb22Es from './Components/BlogSections/Mom/feb22/feb22-es';
 
 // MOTM posts ENG
 
-import MOTMPostJan22 from './Components/BlogSections/MOTM/Jan22';
+import MOTMPostDec21 from './Components/BlogSections/MOTM/Dec21/dec21';
+import MOTMPostJan22 from './Components/BlogSections/MOTM/Jan22/jan22';
 
 // MOTM posts ESP
 
-import MOTMPostJan22Es from './Components/BlogSections/MOTM/Jan22-es';
+import MOTMPostDec21Es from './Components/BlogSections/MOTM/Dec21/dec21-es';
+import MOTMPostJan22Es from './Components/BlogSections/MOTM/Jan22/jan22-es';
+
 
 // POTM posts ENG
 
-import POTMJan22 from "./Components/BlogSections/POTM/Jan22";
+import POTMJan22 from "./Components/BlogSections/POTM/Jan22/Jan22";
+import POTMFeb22 from "./Components/BlogSections/POTM/Feb22/feb22";
+
 
 // POTM posts ESP
 
-import POTMJan22Es from "./Components/BlogSections/POTM/Jan22-es";
+import POTMJan22Es from "./Components/BlogSections/POTM/Jan22/Jan22-es";
+import POTMFeb22Es from "./Components/BlogSections/POTM/Feb22/feb22-es";
 
 
 
@@ -171,15 +181,19 @@ const RouteSwitch = () => {
 
         {/* Sister posts ENG */}
         <Route path="/blog/my-sisters-advice/jan22" element={<SisPostJan22 />} />
+        <Route path="/blog/my-sisters-advice/feb22" element={<SisPostFeb22 />} />
         
         {/* Mom posts ENG */}
         <Route path="/blog/my-moms-recommendations/jan22" element={<MomPostJan22 />} />
+        <Route path="/blog/my-moms-recommendations/feb22" element={<MomPostFeb22 />} />
 
-        {/* MOTW posts ENG */}
+        {/* MOTM posts ENG */}
+        <Route path="/blog/moment-of-the-month/dec21" element={<MOTMPostDec21 />} />
         <Route path="/blog/moment-of-the-month/jan22" element={<MOTMPostJan22 />} />
 
         {/* WIISY posts ENG */}
         <Route path="/blog/person-of-the-month/jan22" element={<POTMJan22 />} />
+        <Route path="/blog/person-of-the-month/feb22" element={<POTMFeb22 />} />
 
 
 
@@ -200,18 +214,21 @@ const RouteSwitch = () => {
 
         {/* Sister posts ESP */}
         <Route path="/blog/my-sisters-advice/jan22/es" element={<SisPostJan22Es />} />
+        <Route path="/blog/my-sisters-advice/feb22/es" element={<SisPostFeb22Es />} />
         
         {/* Mom posts ESP */}
         <Route path="/blog/my-moms-recommendations/jan22/es" element={<MomPostJan22Es />} />
+        <Route path="/blog/my-moms-recommendations/feb22/es" element={<MomPostFeb22Es />} />
 
 
-        {/* MOTW posts ESP */}
-        <Route path="/blog/moment-of-the-month/jan22/es" element={<MOTMPostJan22Es />} />
-        
+        {/* MOTM posts ESP */}
+        <Route path="/blog/moment-of-the-month/dec21/es" element={<MOTMPostDec21Es />} />
+        <Route path="/blog/moment-of-the-month/jan22/es" element={<MOTMPostJan22Es />} />        
 
 
         {/* WIISY posts ESP */}
         <Route path="/blog/person-of-the-month/jan22/es" element={<POTMJan22Es />} />
+        <Route path="/blog/person-of-the-month/feb22/es" element={<POTMFeb22Es />} />
 
 
 

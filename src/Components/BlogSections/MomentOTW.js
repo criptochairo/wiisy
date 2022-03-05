@@ -3,8 +3,8 @@ import Week from '../../Resources/Icons/week.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import Pic1 from '../../Resources/Pics/MOTW/jan1.jpg';
-import Pic2 from '../../Resources/Pics/MOTW/jan2.jpg';
+import Pic1 from '../../Resources/Pics/MOTW/feb22/1.jpeg';
+import Pic2 from '../../Resources/Pics/MOTW/feb22/2.jpeg';
 
 function MomentOTW() {
     return (
@@ -29,11 +29,21 @@ function MomentOTW() {
             
             ------------------------<br /><br /> 
 
-            <i>January</i> <br /><br />
+            <i>February</i> <br /><br />
 
-            <b>Maya:</b> In January, we did a <i>Figueroa Karaoke Challenge</i>.  It was really fun. It was homemade. We did eight rounds, four rounds each, and sang random songs picked out of a hat! We selected this as The Moment of the Month because it was one of the few times we could sing together. Even though we were embarrassed, we had lots of fun together.
+            This month Maya and I celebrated our birthdays in style!  
             <br /><br />
-            <b>Carlos:</b> That is right, we sang our hearts out even though we often sang off-key and said the wrong lyrics, oops! We judged ourselves based on lyrics, intonation, and melody. It was challenging to sing a 2013 <i>teen pop song</i> one minute ("Victorious" Nickelodeon show) and then a 1980s <i>hip hop or rap</i> song the next ("The Breaks" by Kurtis Blow). We plan to do this again soon with more strange or obscure songs across more genres. We may even include Spanish language songs to make it even more challenging! Maya won this competition 80 points to 70.75 points out of 120 points!
+            We ordered two separate delicious carrot cakes with unique surprise decorations from Vasantha, a local Ithaca, NY cake-making master!  
+            <br /><br />
+            Maya and I selected our respective birthday celebrations as the moment of the month for two related reasons:  
+            <br /><br />
+            1) we love carrot cake, and 2) carrot cake was my mother (Mami), Virginia Morales's favorite cake too (Maya's grandma), with whom I shared the same birthday (Feb. 1) and who passed at the young age of 66 in early May 2015.  
+            <br /><br />
+            We miss her very much!  
+            <br /><br />
+            So, in honor of my Mami, Maya and I will make carrot cake, our traditional birthday cake, from here on out!
+            <br /><br />
+            Enjoy our photos too!
             <br /><br />
 
             <div className="motw-pics">
@@ -45,7 +55,10 @@ function MomentOTW() {
             <i>Previous Posts</i><br /><br />
 
                 <div id="post-link">
-                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/jan22"><h2>December</h2></Link>
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/dec21"><h2>December</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/jan22"><h2>January</h2></Link>
                 </div>
 
             <br /><br />

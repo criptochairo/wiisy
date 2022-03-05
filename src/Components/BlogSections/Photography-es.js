@@ -5,14 +5,7 @@ import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
 import One from '../../Resources/Pics/Photography/jan.jpg';
 import Two from '../../Resources/Pics/Photography/feb.jpg';
-// import Three from '../../Resources/Pics/11Jan22/compressjpeg/203-min.jpg';
-// import Four from '../../Resources/Pics/11Jan22/compressjpeg/278-min.jpg';
-// import Five from '../../Resources/Pics/11Jan22/compressjpeg/292-min.jpg';
-// import Six from '../../Resources/Pics/11Jan22/compressjpeg/378-min.jpg';
-// import Seven from '../../Resources/Pics/11Jan22/compressjpeg/448-min.jpg';
-// import Eight from '../../Resources/Pics/11Jan22/compressjpeg/484-min.jpg';
-// import Nine from '../../Resources/Pics/11Jan22/compressjpeg/549-min.JPEG';
-// import Ten from '../../Resources/Pics/11Jan22/compressjpeg/558-min.jpg';
+import Three from '../../Resources/Pics/Photography/mar.jpg'
 
 function PhotographyEs() {
     return (
@@ -67,14 +60,10 @@ function PhotographyEs() {
                     <i><b>Febrero</b></i><br />
                     <img src={Two} alt="postimg" /><br />
                     <i>“Alfombra otoñal…”</i><br />
-                    {/* <img src={Three} alt="postimg" />
-                    <img src={Four} alt="postimg" />
-                    <img src={Five} alt="postimg" />
-                    <img src={Six} alt="postimg" />
-                    <img src={Seven} alt="postimg" />
-                    <img src={Eight} alt="postimg" />
-                    <img src={Nine} alt="postimg" />
-                    <img src={Ten} alt="postimg" /> */}
+                    ------------------------<br /><br />
+                    <i><b>Marzo</b></i><br />
+                    <img src={Three} alt="postimg" /><br />
+                    <i>“La naturaleza también sonríe…”</i><br />
                 </div>
 
                 <br/>
