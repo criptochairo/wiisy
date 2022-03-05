@@ -80,12 +80,12 @@ import ProjectsPostFeb22Es from './Components/BlogSections/Projects/feb22/feb22-
 
 // Sister posts ENG
 
-import SisPostJan22 from './Components/BlogSections/Sister/Jan22/11-jan-22';
+import SisPostJan22 from './Components/BlogSections/Sister/Jan22/jan22';
 import SisPostFeb22 from './Components/BlogSections/Sister/Feb22/Feb22';
 
 // Sister posts ESP
 
-import SisPostJan22Es from './Components/BlogSections/Sister/Jan22/11-jan-22-es';
+import SisPostJan22Es from './Components/BlogSections/Sister/Jan22/jan22-es';
 import SisPostFeb22Es from './Components/BlogSections/Sister/Feb22/Feb22-es';
 
 // Abuelita posts ENG
