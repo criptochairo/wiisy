@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import GoTop from "../../../GoTop";
 import NavEs from "../../../../Nav-es";
-import rocyimg from '../../../../Resources/Pics/rocy-cascada.jpeg'
+import rocyimg from '../../../../Resources/Pics/rocy-cascada.jpeg';
 
 function Post() {
     return (
