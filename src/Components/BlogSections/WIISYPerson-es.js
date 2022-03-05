@@ -10,6 +10,8 @@ import ana4 from "../../Resources/Pics/POTM/Mar22/ana4.jpg";
 import Website from "../../Resources/website.png";
 import Instagram from "../../Resources/instagram.png";
 import Facebook from "../../Resources/facebook.png";
+import Youtube from "../../Resources/youtube.png";
+
 
 function WIISYPersonEs() {
     return (
@@ -44,7 +46,7 @@ function WIISYPersonEs() {
 
                 Ana Laura (yo la llamo Aniux) estuvo casada con mi hermano mayor, pero yo la sigo llamando cuñada :)
                 <br /><br />
-                Quise que fuera la “Persona ¿Y si digo que sí?” de este mes porque ella nació en marzo. Esto es como mi regalo de cumpleaños para ella.
+                Quise que fuera la “Persona <i>¿Y si digo que sí?</i>” de este mes porque ella nació en marzo. Esto es como mi regalo de cumpleaños para ella.
                 <br /><br />
                 Aquí hay 10 preguntas que le hice para que la conozcan mejor:
                 <br /><br /><br /><br />
@@ -191,6 +193,11 @@ function WIISYPersonEs() {
             <div className="profile-container">
                 <a href="https://www.facebook.com/ana.l.espinosa.9/" target="_blank" rel="noreferrer"><img src={Facebook} alt="logo" /></a>
                 <b>Facebook</b>
+            </div>
+
+            <div className="profile-container">
+                <a href="https://www.youtube.com/channel/UCLGTZH0kpx3Am0Xt-IjrQGw" target="_blank" rel="noreferrer"><img src={Youtube} alt="logo" /></a>
+                <b>YouTube</b>
             </div>
 
 

@@ -60,7 +60,7 @@ function Mom() {
                 <br /><br />
                 When I was under the bridge, I saw something that I was very pleased to find: a small red lighthouse.
                 <br /><br />
-                I walked over and found that I had an inscription. As I recall, the inscription was on the lighthouse, on a plaque with the data of the writer who had written a children's book with the lighthouse as the main character.
+                I walked over and found that it had an inscription. As I recall, the inscription was on the lighthouse, on a plaque with the data of the writer who had written a children's book with the lighthouse as the main character.
                 <br /><br />
                 This lighthouse had been built in 1880 and was in Sandy Hook, NJ. And in 1921 it was moved to Fort Washington Park. It became the Jeffrey's Hook Lighthouse, and it was the only lighthouse on Manhattan Island.
                 <br /><br />

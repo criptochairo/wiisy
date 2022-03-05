@@ -10,6 +10,7 @@ import ana4 from "../../Resources/Pics/POTM/Mar22/ana4.jpg";
 import Website from "../../Resources/website.png";
 import Instagram from "../../Resources/instagram.png";
 import Facebook from "../../Resources/facebook.png";
+import Youtube from "../../Resources/youtube.png";
 
 
 function WIISYPerson() {
@@ -41,7 +42,7 @@ function WIISYPerson() {
                 <br /><br />
                 Ana Laura (I called her Aniux) was married to my eldest brother, but I still call her my sister-in-law :)
                 <br /><br />
-                I wanted her to be the “What If I Say Yes Person of This Month” because she was born in March. This is like my Happy Birthday gift for her.
+                I wanted her to be the “<i>What If I Say Yes</i> Person of This Month” because she was born in March. This is like my Happy Birthday gift for her.
                 <br /><br />
                 Here are 10 questions I asked her, so you can get to know her better:<br /><br /><br /><br />
 
@@ -177,7 +178,7 @@ function WIISYPerson() {
                 <img src={ana1} alt="carlos" id="bankky-img" className="profile-pic" />
                 <br />
 
-                You can find Ana at:<br /><br />        
+                You can find Ana Laura at:<br /><br />        
 
             <div className="profile-container">
                 <a href="https://www.analauraespinosa.net" target="_blank" rel="noreferrer"><img src={Website} alt="website" id="logo"/></a>
@@ -192,6 +193,11 @@ function WIISYPerson() {
             <div className="profile-container">
                 <a href="https://www.facebook.com/ana.l.espinosa.9/" target="_blank" rel="noreferrer"><img src={Facebook} alt="logo" /></a>
                 <b>Facebook</b>
+            </div>
+
+            <div className="profile-container">
+                <a href="https://www.youtube.com/channel/UCLGTZH0kpx3Am0Xt-IjrQGw" target="_blank" rel="noreferrer"><img src={Youtube} alt="logo" /></a>
+                <b>YouTube</b>
             </div>
 
             ------------------------<br />
