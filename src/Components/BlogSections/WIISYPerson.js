@@ -30,7 +30,7 @@ function WIISYPerson() {
             <br /><br />
             I hope this space inspires you to express yourself the best you can, depending on your different areas of interest.
             <br /><br />
-            Good luck!<br /><br />
+            Good luck!<br /><br /> 
             
             ------------------------<br />
 
@@ -40,7 +40,7 @@ function WIISYPerson() {
             <h1>Ana Laura</h1><br />
                     
                 <br /><br />
-                Ana Laura (I called her Aniux) was married to my eldest brother, but I still call her my sister-in-law :)
+                Ana Laura (I call her Aniux) was married to my eldest brother, but I still call her my sister-in-law :)
                 <br /><br />
                 I wanted her to be the “<i>What If I Say Yes</i> Person of This Month” because she was born in March. This is like my Happy Birthday gift for her.
                 <br /><br />
@@ -51,15 +51,15 @@ function WIISYPerson() {
                 <br /><br />
                 “Ana through the window!” That's what they called me for some time since I have a habit of observing people.  I'm curious. I want to imagine their world. That, sometimes, allows me to recreate said worlds when I play a character.
                 <br /><br />
-                A few years ago, I discovered dance halls (salones de baile), some of which have existed for more than 80 years. When I go, I have a complete ritual that has to do with my whole attire. As I'm putting on my makeup, the appropriate shoes are waiting for me. They are covered with fabric and have heels for professional dancers. I wear bright and large accessories. 
+                A few years ago, I discovered dance halls (<i>salones de baile</i>), some of which have existed for more than 80 years. When I go, I have a complete ritual that has to do with my whole attire. As I'm putting on my makeup, the appropriate shoes are waiting for me. They are covered with fabric and have heels for professional dancers. I wear bright and large accessories. 
                 <br /><br />
-                Arriving at the salón I have the feeling of entering another era like I'm in a movie. I am one of the best Danzón dancers in Mexico. The music accompanies my movements, and the swaying causes the movement of my dress with its ruffles, tassels, and textures.
+                Arriving at the <i>salón</i> I have the feeling of entering another era like I'm in a movie. I am one of the best Danzón dancers in Mexico. The music accompanies my movements, and the swaying causes the movement of my dress with its ruffles, tassels, and textures.
                 <br /><br />
                 Something I have noticed is that when I arrive at a gathering with painters, writers, or friends from other environments, people are happy to see me. They tell me I harmonize the energy, that my joy is contagious, but above all things, they say they have learned a lot from me, that I am an example of a life well-lived. And when I ask why, they say it's because they see a strong, resilient, unstoppable, and successful woman. They make me feel very good when they tell me that.
                 <br /><br />
-                It has not been easy, you know?
+                It has not been easy, you know? 
                 <br /><br />
-                I have made mistakes; some marked my life and I regret it. Yes, I have stumbled many times and have had to reinvent myself because as I’ve said, I believe in the power of dreams, goals, and forgiveness.
+                I have made mistakes; some marked my life and I regret it. Yes, I have stumbled many times and have had to reinvent myself because as I've said, I believe in the power of dreams, goals, and forgiveness.
                 <br /><br />
                 A short time ago, while I was removing my makeup in front of the mirror, I discovered myself. I was surprised and liked the woman I saw and said to myself: "Yes, this is who I am, I accept myself."
                 <br /><br />
@@ -99,7 +99,7 @@ function WIISYPerson() {
                 <br /><br />
                 What if I offer my services as a speaker (based on the experience I have gained with TV Azteca) giving conferences all over Mexico supporting women?
                 <br /><br />
-                What happens if go to the Universidad de Londres and tell them that I want to teach there?
+                What happens if I go to the <i>Universidad de Londres</i> and tell them that I want to teach there?
                 <br /><br />
                 And what happens if I audition to record with Discovery Chanel as an announcer?
                 <br /><br />
