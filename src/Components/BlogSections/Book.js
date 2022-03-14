@@ -16,7 +16,7 @@ function Book() {
             <h1>Book with My Twin Brother</h1> <br />
 
             <p className="content-text">
-            My twin brother Jorge and I turned 50 this past summer (2021), and to celebrate in a big way, I thought we could create a book together and publish it through Amazon but without a publisher involved and without depending on on others telling us if they liked our project or not.
+            My twin brother Jorge and I turned 50 this past summer (2021), and to celebrate in a big way, I thought we could create a book together and publish it through Amazon without a publisher involved and without depending on others telling us if they liked our project or not.
             <br /><br />
             I consulted with my brother, and he said <i><b>yes!</b></i>
             <br /><br />
