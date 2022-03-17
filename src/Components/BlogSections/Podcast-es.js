@@ -42,7 +42,7 @@ function PodcastEs() {
                 <i>Marzo del 2022</i>
                 <br /><br />
 
-                El 13 de marzo del 2022 publiqué el <b>Episodio #1: Palabras que inspiran</b>.
+                El 6 de marzo del 2022 publiqué el <b>Episodio #1: Palabras que inspiran</b>.
                 <br /><br />
                 Les hablo del texto que me ha inspirado a hacer muchas cosas creativas y vivir la vida a plenitud. Ese texto lo escribió mi hermano Héctor y se titula “¿Y si digo que sí?”
                 <br /><br />
