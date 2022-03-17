@@ -3,8 +3,7 @@ import Microphone from '../../Resources/Icons/microphone.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import postimg from '../../Resources/Pics/Podcast/logoesp.jpg';
-import postimg2 from '../../Resources/Pics/Podcast/logo.jpg';
+import postimg from '../../Resources/Pics/Podcast/Feb22/feb22.jpg';
 
 function PodcastEs() {
     return (
@@ -36,36 +35,36 @@ function PodcastEs() {
                 <br /><br />
 
                 ------------------------<br /><br />
+                {/* COMIENZA POST */}
 
                 <img src={postimg} alt="wiisy-logo" className="profile-pic" />
 
-                <i>Febrero del 2022</i>
+                <i>Marzo del 2022</i>
                 <br /><br />
 
-                El 6 de febrero del 2022, por fin publiqué el episodio introductorio de mi pódcast. ¡Qué emoción! 
+                El 13 de marzo del 2022 publiqué el <b>Episodio #1: Palabras que inspiran</b>.
                 <br /><br />
-                Dada la respuesta tan linda del público y debido a la gran demanda, he decidido decirle que ¡SÍ! a grabar ahora mi episodio en inglés.
+                Les hablo del texto que me ha inspirado a hacer muchas cosas creativas y vivir la vida a plenitud. Ese texto lo escribió mi hermano Héctor y se titula “¿Y si digo que sí?”
                 <br /><br />
-                Publiqué ese episodio el 14 de febrero del 2022.
-                <br /><br />
-                Pueden encontrar mi Episodio introductorio, en español e inglés aquí:
-                <br />
                 <ul>
-                    <li><a href="https://anchor.fm/lucia-cardenas" target="_blank" rel="noreferrer">Anchor</a></li><br />
-                    <li><a href="https://open.spotify.com/show/7Kqsh8mLHJIlCOIdHXkskT" target="_blank" rel="noreferrer">Spotify</a></li><br />
-                    <li><a href="https://podcasts.apple.com/mx/podcast/de-regalos-y-palabras-con-luc%C3%ADa-c%C3%A1rdenas-of-gifts/id1608798314" target="_blank" rel="noreferrer">Apple Podcasts</a></li><br />
-                    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw" target="_blank" rel="noreferrer">Google Podcasts</a></li>
+                    <li><a href="https://anchor.fm/lucia-cardenas/episodes/Episodio-1---Palabras-que-inspiran-e1f8rlj" target="_blank" rel="noreferrer">Anchor</a></li><br />
+                    <li><a href="https://open.spotify.com/episode/5tyyw9Mi6H6vMZMkd75zGr" target="_blank" rel="noreferrer">Spotify</a></li><br />
+                    <li><a href="https://podcasts.apple.com/mx/podcast/episodio-1-palabras-que-inspiran/id1608798314?i=1000553069766" target="_blank" rel="noreferrer">Apple Podcasts</a></li><br />
+                    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw/episode/OWQzOTg3NWItMmFhOC00YzgwLWFjZWEtN2I1OGVmMGM1NzJk?sa=X&ved=0CAUQkfYCahcKEwjI5eT3gs72AhUAAAAAHQAAAAAQAQ" target="_blank" rel="noreferrer">Google Podcasts</a></li>
                 </ul>
 
-                <img src={postimg2} alt="wiisy-logo" className="profile-pic" />
                 <br /><br />
 
+                {/* TERMINA POST */}
                 ------------------------<br /><br />
                 
                 <i>Posts Anteriores</i><br /><br />
 
                     <div id="post-link">
                         <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-podcast/jan22/es"><h2>Enero</h2></Link>
+                    </div>
+                    <div id="post-link">
+                        <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-podcast/feb22/es"><h2>Febrero</h2></Link>
                     </div>
 
                 <br /><br />
