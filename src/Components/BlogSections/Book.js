@@ -35,12 +35,17 @@ function Book() {
             
             ------------------------<br /><br />
 
-            <i>March, 2022</i>
-
             <img src={postimg} alt="wiisy-logo" className="profile-pic" id="book-cover" />
             <img src={postimg2} alt="wiisy-logo" className="profile-pic" id="book-cover" />
 
+            <i>March, 2022</i>
             <br /><br />
+            This is a taste of what you're going to see in the book.
+            <br /><br />
+            We still need to add text to it. 
+            <br /><br />
+            We are currently working on that.
+            <br /><br /><br />
 
             ------------------------<br /><br />
             
