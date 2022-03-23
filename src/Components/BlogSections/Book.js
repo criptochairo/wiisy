@@ -3,8 +3,8 @@ import bookimg from '../../Resources/Icons/book.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import postimg from '../../Resources/Pics/Book/PortadaEsp.jpg';
-
+import postimg from '../../Resources/Pics/Book/mar22-1.jpg';
+import postimg2 from '../../Resources/Pics/Book/mar22-2.jpg';
 
 function Book() {
     return (
@@ -35,13 +35,12 @@ function Book() {
             
             ------------------------<br /><br />
 
-            <img src={postimg} alt="wiisy-logo" className="profile-pic" id="book-cover" /><br />
+            <i>March, 2022</i>
 
-            <i>February, 2022</i>
+            <img src={postimg} alt="wiisy-logo" className="profile-pic" id="book-cover" />
+            <img src={postimg2} alt="wiisy-logo" className="profile-pic" id="book-cover" />
 
-            <br /><br /><br />
-            This is the cover of our forthcoming book. Isn't it lovely? It features one of my photos and one of Jorge's paintings.
-            <br /><br /><br />
+            <br /><br />
 
             ------------------------<br /><br />
             
@@ -49,6 +48,9 @@ function Book() {
 
             <div id="post-link">
                 <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-book/jan22"><h2>January</h2></Link>
+            </div>
+            <div id="post-link">
+                <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-book/feb22"><h2>February</h2></Link>
             </div>
 
             <br /><br />

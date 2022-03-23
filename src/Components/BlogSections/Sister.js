@@ -3,7 +3,7 @@ import Sisterimg from '../../Resources/Icons/twins.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-// import postimg from '../../Resources/Pics/sister2.jpg';
+import postimg from '../../Resources/Pics/Sister/mar22.jpg';
 
 function Sister() {
     return (
@@ -31,7 +31,7 @@ function Sister() {
             
             ------------------------<br /><br />
 
-            {/* <img src={postimg} alt="rocy" id="rocy-img" className="profile-pic" /> */}
+            <img src={postimg} alt="rocy" id="rocy-img" className="profile-pic" />
 
             <i>March</i><br /><br />
 

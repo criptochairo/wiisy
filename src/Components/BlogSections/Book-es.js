@@ -3,7 +3,8 @@ import bookimg from '../../Resources/Icons/book.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import postimg from '../../Resources/Pics/Book/PortadaEsp.jpg';
+import postimg from '../../Resources/Pics/Book/mar22-1.jpg';
+import postimg2 from '../../Resources/Pics/Book/mar22-2.jpg';
 
 function BookEs() {
     return (
@@ -34,14 +35,13 @@ function BookEs() {
             <br /><br />
             
             ------------------------<br /><br />
+            
+            <i>Marzo, 2022</i>
 
-            <img src={postimg} alt="wiisy-logo" className="profile-pic" id="book-cover" /><br />
+            <img src={postimg} alt="wiisy-logo" className="profile-pic" id="book-cover" />
+            <img src={postimg2} alt="wiisy-logo" className="profile-pic" id="book-cover" />
 
-            <i>Febrero, 2022</i>
-
-            <br /><br /><br />
-            Esta es la portada de nuestro próximo libro. ¿A poco no está preciosa? Tiene una de mis fotografías y una pintura de Jorge.
-            <br /><br /><br />
+            <br /><br />
 
             ------------------------<br /><br />
 
@@ -49,6 +49,9 @@ function BookEs() {
 
             <div id="post-link">
                 <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-book/jan22/es"><h2>Enero</h2></Link>
+            </div>
+            <div id="post-link">
+                <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-book/feb22/es"><h2>Febrero</h2></Link>
             </div>
 
             <br /><br />
