@@ -5,7 +5,9 @@ import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
 import One from '../../Resources/Pics/Photography/jan.jpg';
 import Two from '../../Resources/Pics/Photography/feb.jpg';
-import Three from '../../Resources/Pics/Photography/mar.jpg'
+import Three from '../../Resources/Pics/Photography/mar.jpg';
+import Four from '../../Resources/Pics/Photography/apr.jpg';
+
 
 function PhotographyEs() {
     return (
@@ -64,6 +66,10 @@ function PhotographyEs() {
                     <i><b>Marzo</b></i><br />
                     <img src={Three} alt="postimg" /><br />
                     <i>“La naturaleza también sonríe…”</i><br />
+                    ------------------------<br /><br />
+                    <i><b>Abril</b></i><br />
+                    <img src={Four} alt="postimg" /><br />
+                    <i>“Dos estaciones al mismo tiempo”</i><br />
                 </div>
 
                 <br/>

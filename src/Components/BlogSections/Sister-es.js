@@ -3,7 +3,7 @@ import Sisterimg from '../../Resources/Icons/twins.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import postimg from '../../Resources/Pics/Sister/mar22.jpg';
+import postimg from '../../Resources/Pics/Sister/apr22.jpg';
 
 function SisterEs() {
     return (
@@ -36,17 +36,19 @@ function SisterEs() {
 
             <i>Marzo</i><br /><br />
 
-                - Una pregunta para tu hermana (es la que tengo para todas las mamás): ¿cómo combinar de manera armónica los proyectos personales y laborales con la maternidad :)?”
+                Hermanita, va la pregunta de este mes:
                 <br /><br />
-                <i>- Creo que cada quien puede encontrar la mejor solución posible de acuerdo a sus propias circunstancias.
+                - ¿Qué características crees que deba de tener alguien que dirige un equipo de personas en el trabajo?
                 <br /><br />
-                Me refiero a que es más fácil poder tener tiempo para tus proyectos personales o laborales si tienes a otras personas que pueden apoyarte con el cuidado de tus hijos, como tu pareja o familiares, o si puedes dejarlos en actividades vespertinas o guarderías, o si tienes jefes comprensivos que entienden tu nuevo rol de mamá.
+                <i>- Pues yo creo que depende del tipo de trabajo y de qué tantas personas haya en tu equipo, porque mientras más grande es el equipo a tu cargo, más difícil es poder conocer a profundidad a cada uno de los integrantes.
                 <br /><br />
-                Pero si no tuvieras ninguna de estas ventajas, dado que la etapa más complicada es cuando los hijos son pequeños, diría que la opción es postergar un poco el proyecto personal o laboral en lo que los hijos son un poco más grandes.
+                Pero suponiendo que es un número manejable, pienso que estaría bien que la persona que dirige fuera empática con los miembros del equipo y que buscara la forma de conocerlos mejor para poder orientar las fortalezas de cada uno en el logro de los objetivos del equipo.
                 <br /><br />
-                Creo que dedicar tiempo a tus proyectos personales o laborales no implica necesariamente falta de atención para tus hijos, pero sí hay que estar al pendiente para hacer ajustes en caso de que les llegara a afectar, porque cada hijo es diferente.
+                Creo que es deseable que esa persona sea responsable y organizada, ya que me ha tocado ver casos de personas con mucho conocimiento pero que no logran que su equipo cumpla con las fechas de entrega.
                 <br /><br />
-                Y siempre tener un espacio para dedicarles tiempo de calidad y hacerles sentir lo importantes que son en tu vida.</i>
+                Y creo que también es deseable que sea alguien inteligente porque es muy desmotivador tener un jefe (o jefa) que no tenga idea de los temas que son responsabilidad del equipo.
+                <br /><br />
+                Eso creo yo, ¡pero se vale opinar diferente!</i>
                 <br /><br /><br />
 
             ------------------------<br /><br />
@@ -57,6 +59,9 @@ function SisterEs() {
                 </div>
                 <div id="post-link">
                     <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/feb22/es"><h2>Febrero</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/mar22/es"><h2>Marzo</h2></Link>
                 </div>
 
             <br /><br />

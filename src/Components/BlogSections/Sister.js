@@ -3,7 +3,7 @@ import Sisterimg from '../../Resources/Icons/twins.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import postimg from '../../Resources/Pics/Sister/mar22.jpg';
+import postimg from '../../Resources/Pics/Sister/apr22.jpg';
 
 function Sister() {
     return (
@@ -35,15 +35,19 @@ function Sister() {
 
             <i>March</i><br /><br />
 
-                - A question for your sister (the same one I have for all mothers): How to harmoniously combine personal and work projects with motherhood :) ?”
+                Dear Sister, this month's question is:
                 <br /><br />
-                <i>- I believe that everyone can find the best possible solution according to their own circumstances.
+                - What characteristics do you think someone who leads a team of people at work should have?
                 <br /><br />
-                I mean, it is easier to have time for your personal or work projects if you have other people who can support you with the care of your children, like your partner or relatives, or if you can leave them in evening activities or daycare, or if you have understanding bosses who get your new role as a mom.
+                <i>- Well, I think it depends on the type of work and how many people there are in your team because the bigger the team you oversee, the more difficult it is to get to know each one of the members in-depth.
                 <br /><br />
-                I believe that dedicating time to your personal or work projects does not necessarily imply a lack of attention to your children, but you do have to be on the lookout to adjust in case it affects them, because each child is different.
+                But assuming that it is a manageable number, I think it would be good for the person who leads to be empathic with the team members and to find a way to get to know them better to guide the strengths of each one towards the achievement of the team's objectives.
                 <br /><br />
-                And always have a space to spend quality time with them and make them feel how important they are in your life.</i>
+                I think it is desirable that this person be responsible and organized since I have seen cases of people with a lot of knowledge but who cannot get their team to meet the deadlines.
+                <br /><br />
+                And I think that it is also desirable that the person be intelligent because it is very demotivating to have a boss who has no idea of the issues that are the responsibility of the team.
+                <br /><br />
+                That's what I think, but it's ok to have a different opinion!</i>
                 <br /><br /><br />
 
             ------------------------<br /><br />
@@ -54,6 +58,9 @@ function Sister() {
                 </div>
                 <div id="post-link">
                     <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/feb22"><h2>February</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-sisters-advice/mar22"><h2>March</h2></Link>
                 </div>
 
             <br /><br />

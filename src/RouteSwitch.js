@@ -67,11 +67,14 @@ import PodPostFeb22Es from './Components/BlogSections/Podcast/feb22/feb22-es';
 
 import BookPostJan22 from './Components/BlogSections/Book/jan22/jan22';
 import BookPostFeb22 from './Components/BlogSections/Book/feb22/feb22';
+import BookPostMar22 from './Components/BlogSections/Book/mar22/mar22';
 
 // Book posts ESP
 
 import BookPostJan22Es from './Components/BlogSections/Book/jan22/jan22-es';
 import BookPostFeb22Es from './Components/BlogSections/Book/feb22/feb22-es';
+import BookPostMar22Es from './Components/BlogSections/Book/mar22/mar22-es';
+
 
 // Projects posts ENG
 
@@ -87,21 +90,27 @@ import ProjectsPostFeb22Es from './Components/BlogSections/Projects/feb22/feb22-
 
 import SisPostJan22 from './Components/BlogSections/Sister/Jan22/jan22';
 import SisPostFeb22 from './Components/BlogSections/Sister/Feb22/Feb22';
+import SisPostMar22 from './Components/BlogSections/Sister/Mar22/Mar22';
 
 // Sister posts ESP
 
 import SisPostJan22Es from './Components/BlogSections/Sister/Jan22/jan22-es';
 import SisPostFeb22Es from './Components/BlogSections/Sister/Feb22/Feb22-es';
+import SisPostMar22Es from './Components/BlogSections/Sister/Mar22/Mar22-es';
 
 // Abuelita posts ENG
 
 import MomPostJan22 from './Components/BlogSections/Mom/jan22/11-jan-22';
 import MomPostFeb22 from './Components/BlogSections/Mom/feb22/feb22';
+import MomPostMar22 from './Components/BlogSections/Mom/mar22/mar22';
+
 
 // Abuelita posts ESP
 
 import MomPostJan22Es from './Components/BlogSections/Mom/jan22/11-jan-22-es';
 import MomPostFeb22Es from './Components/BlogSections/Mom/feb22/feb22-es';
+import MomPostMar22Es from './Components/BlogSections/Mom/mar22/mar22-es';
+
 
 // MOTM posts ENG
 
@@ -184,6 +193,7 @@ const RouteSwitch = () => {
         {/* Book posts ENG */}
         <Route path="/blog/my-book/jan22" element={<BookPostJan22 />} />
         <Route path="/blog/my-book/feb22" element={<BookPostFeb22 />} />
+        <Route path="/blog/my-book/mar22" element={<BookPostMar22 />} />
         
         {/* Projects posts ENG */}
         <Route path="/blog/my-daughters-projects/jan22" element={<ProjectsPostJan22 />} />
@@ -192,10 +202,13 @@ const RouteSwitch = () => {
         {/* Sister posts ENG */}
         <Route path="/blog/my-sisters-advice/jan22" element={<SisPostJan22 />} />
         <Route path="/blog/my-sisters-advice/feb22" element={<SisPostFeb22 />} />
+        <Route path="/blog/my-sisters-advice/mar22" element={<SisPostMar22 />} />
         
         {/* Mom posts ENG */}
         <Route path="/blog/my-moms-recommendations/jan22" element={<MomPostJan22 />} />
         <Route path="/blog/my-moms-recommendations/feb22" element={<MomPostFeb22 />} />
+        <Route path="/blog/my-moms-recommendations/mar22" element={<MomPostMar22 />} />
+
 
         {/* MOTM posts ENG */}
         <Route path="/blog/moment-of-the-month/dec21" element={<MOTMPostDec21 />} />
@@ -220,6 +233,7 @@ const RouteSwitch = () => {
         {/* Book posts ESP */}
         <Route path="/blog/my-book/jan22/es" element={<BookPostJan22Es />} />
         <Route path="/blog/my-book/feb22/es" element={<BookPostFeb22Es />} />
+        <Route path="/blog/my-book/mar22/es" element={<BookPostMar22Es />} />
         
         {/* Projects posts ESP */}
         <Route path="/blog/my-daughters-projects/jan22/es" element={<ProjectsPostJan22Es />} />
@@ -228,10 +242,12 @@ const RouteSwitch = () => {
         {/* Sister posts ESP */}
         <Route path="/blog/my-sisters-advice/jan22/es" element={<SisPostJan22Es />} />
         <Route path="/blog/my-sisters-advice/feb22/es" element={<SisPostFeb22Es />} />
+        <Route path="/blog/my-sisters-advice/mar22/es" element={<SisPostMar22Es />} />
         
         {/* Mom posts ESP */}
         <Route path="/blog/my-moms-recommendations/jan22/es" element={<MomPostJan22Es />} />
         <Route path="/blog/my-moms-recommendations/feb22/es" element={<MomPostFeb22Es />} />
+        <Route path="/blog/my-moms-recommendations/mar22/es" element={<MomPostMar22Es />} />
 
 
         {/* MOTM posts ESP */}
