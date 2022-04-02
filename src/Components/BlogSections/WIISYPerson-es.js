@@ -3,14 +3,8 @@ import Prize from '../../Resources/Icons/wreath.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import ana1 from "../../Resources/Pics/POTM/Mar22/ana1.jpg";
-import ana2 from "../../Resources/Pics/POTM/Mar22/ana2.jpg";
-import ana3 from "../../Resources/Pics/POTM/Mar22/ana3.jpg";
-import ana4 from "../../Resources/Pics/POTM/Mar22/ana4.jpg";
-import Website from "../../Resources/website.png";
-import Instagram from "../../Resources/instagram.png";
-import Facebook from "../../Resources/facebook.png";
-import Youtube from "../../Resources/youtube.png";
+import postimg1 from "../../Resources/Pics/POTM/apr22-1.JPG";
+import postimg2 from "../../Resources/Pics/POTM/apr22-2.JPG";
 
 
 function WIISYPersonEs() {
@@ -38,167 +32,121 @@ function WIISYPersonEs() {
 
             ------------------------<br /><br />
 
-            <img src={ana4} alt="bankky" id="bankky-img" className="profile-pic" />
+            <img src={postimg1} alt="bankky" id="bankky-img" className="profile-pic" />
 
-            <h1>Ana Laura</h1>
+            
+            <h1>Luis (Papi)</h1><br />
                     
                 <br /><br />
+                Ahora es el turno de mi papi, Luis Cárdenas Cuenca. Este mes lo nominé para ser la <b><i>Persona ¿Y si digo que sí? del mes</i></b>, primero, porque este mes es su cumpleaños, y segundo, porque quiero celebrar lo afortunada que soy de tenerlo en mi vida.
+                <br /><br />
+                Las personas que lo conocemos (familia, amistades, etc.) hemos aprendido mucho de él. Es para mí el ejemplo más claro de una vida bien vivida.
+                <br /><br />
+                He aquí mis 10 preguntas para que lo conozcan mejor:<br /><br /><br /><br />
 
-                Ana Laura (yo la llamo Aniux) estuvo casada con mi hermano mayor, pero yo la sigo llamando cuñada :)
+                <b><i>1. ¿Cómo te describirías a ti mismo?</i></b><br /><br />
+                Como una persona muy afortunada, que ha tenido oportunidades en todos los rubros de su vida.
                 <br /><br />
-                Quise que fuera la “Persona <i>¿Y si digo que sí?</i>” de este mes porque ella nació en marzo. Esto es como mi regalo de cumpleaños para ella.
+                Veamos: soy, responsable, leal, honesto.
                 <br /><br />
-                Aquí hay 10 preguntas que le hice para que la conozcan mejor:
-                <br /><br /><br /><br />
-
-                <b><i>1. ¿Cómo te describirías a ti misma?</i></b><br /><br />
-                Cuando era niña, recuerdo que en el patio de mi casa había una escalera de madera que siempre estaba recargada en la pared, nadie la usaba porque decían que ya estaba viejita, además, nos podíamos caer y lastimar. Yo solía subir y no me daba miedo, me decían que la escalera no me llevaría a ninguna parte, aunque, yo sentía que tocaba el cielo con las manos; soñaba con otros mundos. Ahora entiendo que ha sido un ejercicio de vida y que mis sueños han servido para realizarlos, para ser yo.
+                En ocasiones de mecha corta, diría mi esposa. 
                 <br /><br />
-                “¡Ana por la ventana!” Así me dijeron por algún tiempo ya que tengo por costumbre observar a las personas, me da curiosidad imaginar su mundo. Eso en algunas ocasiones me da la oportunidad de recrearlas cuando tengo que interpretar un personaje. 
+                Gusto de la lectura y de los juegos de cartas en la computadora.
                 <br /><br />
-                Hace pocos años descubrí los salones de baile, algunos tienen más de 80 años de existir. Asisto a ellos y mi arreglo personal es todo un ritual, desde que me estoy maquillando ya me esperan los zapatos apropiados, son de tela y tacón para bailarinas profesionales, luzco accesorios brillantes y grandes. Al llegar al Salón percibo la sensación de entrar a otra época, algo así como una película. Soy una de las mejores bailarinas de Danzón en México. La música acompaña mis movimientos y el vaivén provoca el juego de mis vestidos de vuelos, flequillos y texturas.
+                Me gusta el ajedrez.
                 <br /><br />
-                Algo que llama mi atención es que cuando llego a una reunión ya sea de pintores, escritores o amigas de otros ambientes. La gente se pone feliz porque ya llegué, me dicen que armonizo la energía, que mi alegría contagia, pero por sobre todas las cosas, porque han aprendido mucho de mí, dicen que soy un ejemplo de vida y cuando pregunto por qué, me contestan que porque ven a una mujer fuerte, resiliente, imparable y exitosa. Me hacen sentir muy bien cuando me lo hacen saber con sus palabras. 
+                Disfruté mucho el golf.
                 <br /><br />
-                No ha sido fácil. ¿Sabes? 
+                Me gusta el dominó.
                 <br /><br />
-                He cometido errores, algunos marcaron mi vida y me arrepiento. Sí, he tropezado muchas veces y me he tenido que reinventar porque como ya sabes, creo en el poder de los sueños, las metas y el perdón. 
+                Intenté siempre ser un buen esposo y un buen padre.
                 <br /><br />
-                Hace poco tiempo, mientras me desmaquillaba frente al espejo, descubrí a la que soy, me sorprendió y me gustó a la mujer que vi en mí y me dije: “Sí, esta soy, así me acepto.”  
+                El estudiar una carrera universitaria me permitió aprender a aprender.
                 <br /><br />
-                A partir de ese día, hay una conciencia de mi personalidad y te puedo decir que me llevo bien conmigo, me quiero, me caigo bien y he aprendido a recibir a la persona que soy.
+                Disfruté mucho viajar por el mundo trabajando y turisteando.
                 <br /><br />
-                Me amo, amo mi vida y lo que más amo en ella, es a mi hijo Luis a quien admiro y respeto. Cuando estoy con él soy muy feliz.
+                Me preocupaba tener una vejez independiente económicamente.
                 <br /><br /><br />
 
                 <b><i>2. ¿Qué quieres de la vida?</i></b><br /><br />
-                Dar tanto como he recibido. Disfrutarla como la melodía más gozosa, el libro más sorprendente y la compañía más amorosa. Seguir deleitándome de las conversaciones y enseñanzas de mi hijo Luis. Amar y ser amada.
+                A estas alturas del camino, ver a mis hijos/as, yernos, nuera y nietos/as contentos/as con su vida, sabiendo que no todo es miel sobre hojuelas, pero que así es la vida.
                 <br /><br /><br />
 
                 <b><i>3. ¿Por qué haces las cosas que haces?</i></b><br /><br />
-                Recuerdo que un día viendo uno de mis programas favoritos en la televisión, me detuve a observar en especial a una conductora quién articulaba muy bien las palabras y denotaba conocimiento cultural y me pregunté: “¿Y si yo fuera esa señorita?” 
-                <br /><br />
-                En ese entonces vivía en una zona muy lejana a las mejores escuelas de teatro, pero, aun así, me inscribí en una, pasó un tiempo y en una clase, la maestra me preguntó que si quería ir a un casting, porque buscaban a una conductora de televisión. 
-                <br /><br />
-                ¿Adivinen para qué programa? ¡Sí! Para mi programa cultural favorito. 
-                <br /><br />
-                Me volví a preguntar: “¿Y qué pasa si digo que sí?” 
-                <br /><br />
-                Fui a Televisa, pasé pruebas muy difíciles y quedé aceptada, además, me hicieron titular de otro programa de música clásica. 
-                <br /><br />
-                Así fui entendiendo que la escalera no se mueve si nosotros no avanzamos, que el miedo es pobreza, ignorancia, inseguridad y falta de fe. 
-                <br /><br />
-                Hoy en día todavía he seguido como conductora de varios programas culturales y actualmente soy conductora invitada de un programa importante de UNAM.
-                <br /><br />
-                Aquí va una lista de las cosas que he hecho después de haberme hecho la pregunta:
-                <br /><br />
-                ¿Y qué pasa si digo que sí y acepto la aventura de ir por tierra y manejando a Alaska?  
-                <br /><br />
-                ¿Y si después acepto ir a otro viaje a la Antártida y también por tierra? 
-                <br /><br />
-                ¿Y si voy a París a estudiar un Taller de perfeccionamiento actoral con el Théâtre du Soleil? 
-                <br /><br />
-                ¿Y si creo mi empresa como Coach? 
-                <br /><br />
-                ¿Y si ofrezco mis servicios de conferencista por la experiencia adquirida con TV Azteca dando conferencias en la República Mexicana apoyando a mujeres? 
-                <br /><br />
-                ¿Qué pasa sí entro a la Universidad de Londres y les digo que quiero dar clases ahí? 
-                <br /><br />
-                ¿Y qué pasa si hago casting para grabar con Discovery Chanel como locutora? 
-                <br /><br />
-                Recuerdo que un día mi mamá me dijo: “Cuando algo te dé miedo, repite estas palabras: YO SOY, YO SÉ, YO PUEDO.” Así titulé una de mis conferencias. 
-                <br /><br />
-                Lo que pasa es que hago un ejercicio de confianza. 
-                <br /><br />
-                ¿Sabes qué es lo que pasa? 
-                <br /><br />
-                Pasa que me doy cuenta de mis alcances, lo logro, simplemente, avanzo un escalón más y vuelvo a tocar el cielo con mis manos. Lo hago porque estoy viva y porque creo que estamos aquí por una misión y mi misión es vivir, lo maravillosa que es la vida.
+                Ahora, hago las cosas porque quiero.
+                <br /><br /><br />
+
 
                 <b><i>4. ¿Cómo entiendes el proceso de "¿qué pasa si digo que sí?”</i></b><br /><br />
-                Mira, si ya pasó por mi mente hacer algo porque lo deseo o porque me va a hacer feliz o quizá porque creo que lo merezco o por todas esas razones, entonces sólo queda hacerlo. 
-                <br /><br />
-                Lo entiendo como una decisión que hay que tomar, como la oportunidad de descubrirme recibiendo el sí.  
-                <br /><br />
-                Además, es de valientes dar el paso. ¡Felicítate! 
-                <br /><br />
-                ¿Recuerdas que cuando era niña me decían que, si subía por esa escalera, me lastimaría y me dolería? Efectivamente, caerse duele, pero se crece y finalmente, crecer también duele. 
+                Lo siento ahora como un reto (no al nivel de experimentador ni explorador ni innovador como mis hijos/as).
                 <br /><br /><br />
 
                 <b><i>5. ¿Cuál dirías que fue tu primer momento de "¿qué pasa si digo que sí?"</i></b><br /><br />
-                Cuando decidí dejar la casa de mis padres para encontrar lo que buscaba. Yo quería ser actriz, ya estaba estudiando, pero la distancia era desfavorecedora. Fue muy difícil, pero ahí comencé una historia. 
+                Te cuento uno que considero muy importante por ser otro parteaguas en mi vida, aunque no el primero. 
                 <br /><br />
-                La historia de mi profesión de actriz con 35 años de carrera artística.
+                Recuerdo cuando un compañero de trabajo (Ulises Pego Moscoso) me llamó a su oficina para pedirme un consejo, pues estaba sin saber qué hacer ante la oferta que muy probablemente hiciera la empresa IBM de tomar un retiro voluntario muy jugoso a los empleados que tuvieran más de 20 años trabajando.
+                <br /><br />
+                Nos pusimos a hacer escenarios posibles y terminamos con su decisión de tomarlo si se lo ofrecían.
+                <br /><br />
+                Dos semanas después me manda llamar y me dice “te tengo buenas noticias”. Yo pensé en su decisión, pero no era eso. Era que la compañía iba a cambiar el rango de años trabajados a más de 15 (y no de 20 como lo habíamos analizado), con esto yo también entraba en el plan.
+                <br /><br />
+                Ese día manejando desde la Ciudad de México a Cuernavaca, que era donde vivíamos, no podía con la lluvia de ideas que revoloteaban en mi cabeza. Al llegar a casa, después de cenar y acostar hijos/as, mi esposa y yo nos sentamos a platicar y creo que ese fue el inicio del proceso de: <b><i>¿Qué pasaría si decimos que sí?</i></b>
+                <br /><br />
+                Implicaba dejar la seguridad de empleo, el seguro de gastos médicos, etc. y lanzarme a ser Consultor Independiente. Así que tomamos la decisión de la seguridad de la inseguridad (así le llamaba un amigo muy querido, Ignacio Ocampo) y aceptar el plan si me lo ofrecían. Lo cual pasó. Y aceptamos.
                 <br /><br /><br />
 
                 <b><i>6. Describe tu momento más reciente de "¿qué pasa si digo que sí?".</i></b><br /><br />
-                Como actriz, constantemente paso por momentos de “¿Qué pasa si digo que sí?” 
+                Esta situación donde mi hija Lucía me entrevista.
                 <br /><br />
-                El más reciente fue hace pocos días, cuando estaba negociando para trabajar en una película. 
-                <br /><br />
-                Por un lado, era el presupuesto que no me convencía y por el otro era que había una promesa de mejorarlo según se fueran dando las circunstancias, pero esa promesa no iba a ser firmada, sólo era de palabra. 
-                <br /><br />
-                Tuve la duda de aceptar, finalmente dije que sí. En este momento sigo filmando. 
-                ¡Cumplieron su promesa! 
+                Normalmente hubiera dicho “no” porque no me siento cómodo hablando de mí mismo.
                 <br /><br /><br />
 
-                <b><i>7.  ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.</i></b><br /><br />
-                El haber tomado la decisión de buscar una vida diferente a la que tuve en mi infancia.
+                <b><i>7. ¿Qué cosas has creado en tu vida después de haber dicho "¿y si digo que sí?” Haz una lista.</i></b><br /><br />
+                En 1953, <b>fundamos el periódico</b> de las calles de Violeta y Guerrero, donde yo tenía la labor editorial y la caricatura. Duró pocas ediciones, pero nos divertía mucho el estar leyendo nuestro periódico en las tardes.
                 <br /><br />
-                El haber conocido a personas maravillosas que dejaron huella en mí y grandes aprendizajes llenos de amor.
+                En 1957, creamos <b>“Heinen y Cárdenas, Investigadores Privados”</b>. No funcionó por falta de clientes, ja ja ja.
                 <br /><br />
-                El haber tenido a mi hijo Luis.
+                En 1967, Sergio Martínez, Raúl Velasco, Jorge (mi hermano) y yo, nos unimos para crear una empresa de construcción con oficinas en Balderas, en la Ciudad de México. La llamamos <b>MARVECA, S.A.</b>
                 <br /><br />
-                Una enorme fortaleza de confianza en mí. 
+                En 1983, creamos una empresa de consultoría llamada <b>Sinergia, S.A.</b> en combinación con mi primer jefe que tuve en el Data Center de IBM, que fue Juan Tercero Barragán.
                 <br /><br />
-                El haber sabido esperar a que viniera otra oportunidad.
+                En 1988, tuvimos <b>una pequeña asociación</b> Luis Ayala, Douglas Payo y yo para dar cursos de ventas y planeación de cuentas a IBM de México.
                 <br /><br />
-                El no haber forzado las cosas ni a las personas porque para todo hay un tiempo.
+                En 1990, participé en la formación de una empresa americana llamada <b>e-Strategia Consulting Group</b>, con la que trabajé en Europa y en casi la totalidad de países de América.
                 <br /><br />
-                El haberme confrontado con mi ego.
+                Finalmente, por ahí de 2004, la última empresa que creé fue con Silvano Barba Behrens y la llamamos <b>Planeación en Sinergia, S.A.</b>
+                <br /><br />
+                Por otro lado, en el año 1983, en el fraccionamiento donde vivíamos, tuvimos una crisis de falta de agua. El fraccionador se hizo a un lado y no quería arreglar el pozo que nos surtía al fraccionamiento. Empecé a organizar a los colonos y los llamé a una asamblea en un terreno baldío, donde les pedí que se reunieran por calle. Acto seguido, les pedí que se presentaran y que dijeran qué tanto compromiso querían tener con la colonia.
+                <br /><br />
+                Les pedí que nombraran un representante entre ellos. Así lo hicieron y después junté a los representantes en la casa de una amiga (Anita Neve) para que entre ellos eligieran a un presidente, un secretario, un tesorero y los demás serían vocales.
+                <br /><br />
+                Después de un rato salieron y me dijeron que por favor pasara y adentro me pidieron que yo fuera el presidente pues yo había logrado su organización.
+                <br /><br />
+                <b>Después de crear la Asociación de Colonos</b> con el nombre de Provincias de Canadá, (pues no pudimos registrar el nombre de Bello Horizonte 1ª Sección, pues la 2ª Sección ya lo había tomado y nuestras calles todas tenían el nombre de una Provincia de Canadá), compré el terreno donde estaba el pozo y empezamos a desazolvar y luego terminamos perforando otro pozo. 
+                <br /><br />
+                Tratamos de entregar el pozo al Sistema de Agua Potable de la ciudad, pero no lo quisieron aceptar porque era reconocernos no como fraccionamiento sino como colonia y no querían más responsabilidades. Así que tuvimos que hacernos cargo nosotros y hasta la fecha <b>no hemos vuelto a padecer falta de agua.</b>
                 <br /><br /><br />
 
                 <b><i>8. ¿Cómo han reaccionado los demás a tu proceso de "¿y qué pasa si digo que sí?”</i></b><br /><br />
-                En general me he rodeado de gente maravillosa, me alientan, preguntan cómo pueden apoyar, hacen recomendaciones; otras veces, de forma empática me cuentan anécdotas de lo que a ellos les ha funcionado. 
-                <br /><br />
-                He ido aprendiendo de la gente que ha rodeado mi vida, la mayoría de las veces de formas amorosas, con cariño y lo agradezco mucho.
+                Siempre que hay un cambio existe al principio un poco de resistencia y miedo, pero después cambia todo a aceptación y reconocimiento de que fue bueno el cambio. 
                 <br /><br /><br />
 
                 <b><i>9. ¿Cuál será tu próximo momento de “¿y qué pasa si digo que sí?”</i></b><br /><br />
-                Hacer una carrera universitaria. ¿Sabes? No tengo un título profesional y siempre lo he deseado. Admiro y respeto a la gente que obtiene títulos. Hoy en día sigo estudiando y perfeccionándome. Considero que soy competente y tengo las capacidades y habilidades para realizar los cargos y trabajos que desempeño; pero, quiero tener mi título en la licenciatura en Actuación o Arte dramático.
+                No tengo pensado ninguno, pues como sabes, predecir es algo difícil sobre todo si se trata del futuro, je je je.
+                <br /><br />
+                Pero si me toca alguno, ya empiezo a tener más tendencia a preguntarme: ¿Y qué pasa si digo que si?  
                 <br /><br /><br />
 
                 <b><i>10. ¿Qué has aprendido del proceso "¿y qué pasa si digo que sí"?</i></b><br /><br />
-                Que debo confiar en la magia, mi poder mental, el amor y seguir siendo agradecida.
-                <br /><br />
-                Que debo creer en mí. Que después de la montaña puede estar el paraíso. Que la vida tiene un sinfín de posibilidades. Y que debo disfrutar los procesos de la toma de decisiones.
-                <br /><br />
-
-                <img src={ana2} alt="carlos" id="bankky-img" className="profile-pic" />
-                <img src={ana3} alt="carlos" id="bankky-img" className="profile-pic" />
-                <img src={ana1} alt="carlos" id="bankky-img" className="profile-pic" />
+                <ul>
+                    <li>Que siempre ganas con decir que sí, aunque esto puede ser doloroso; pero aprendes mucho de ese proceso.</li>
+                    <li>Que el que siempre se haya hecho algo de alguna forma no quiere decir que no haya una mejor manera que no se haya intentado todavía. Creo que es la base de la investigación.</li>
+                    <li>“Atreverse a fracasar” era una de las pláticas que daba a vendedores, pues es la manifestación de tu actitud positiva lo que te hace un triunfador en la vida. Los perdedores no se atreven porque eso es doloroso para su ego, o lo consideran una maldición (el fracasar) o una manifestación de su mala suerte, etc. El ganador o la ganadora siempre lo toma como una experiencia de aprendizaje, con buen humor, como un porcentaje de bateo, donde no siempre das <i>home runs</i>, etc.</li>
+                    <li>Y el interruptor de la actitud sólo lo puede mover uno mismo. Una forma de moverlo es preguntarnos: <b><i>¿Y qué pasa si digo que sí?</i></b></li>
+                </ul>
                 <br />
 
-                Pueden encontrar a Ana Laura en:<br /><br />        
-
-            <div className="profile-container">
-                <a href="https://www.analauraespinosa.net" target="_blank" rel="noreferrer"><img src={Website} alt="website" id="logo"/></a>
-                <b>Página Web Personal</b>
-            </div>
-
-            <div className="profile-container">
-                <a href="https://www.instagram.com/ana9lauraespinosa/" target="_blank" rel="noreferrer"><img src={Instagram} alt="tlogo" /></a>
-                <b>Instagram</b>
-            </div>
-
-            <div className="profile-container">
-                <a href="https://www.facebook.com/ana.l.espinosa.9/" target="_blank" rel="noreferrer"><img src={Facebook} alt="logo" /></a>
-                <b>Facebook</b>
-            </div>
-
-            <div className="profile-container">
-                <a href="https://www.youtube.com/channel/UCLGTZH0kpx3Am0Xt-IjrQGw" target="_blank" rel="noreferrer"><img src={Youtube} alt="logo" /></a>
-                <b>YouTube</b>
-            </div>
+                <img src={postimg2} alt="carlos" id="bankky-img" className="profile-pic" />
 
 
             ------------------------<br />
@@ -210,6 +158,9 @@ function WIISYPersonEs() {
             </div>
             <div id="post-link">
                     <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/person-of-the-month/feb22/es"><h2>Febrero 2022</h2></Link>
+            </div>
+            <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/person-of-the-month/mar22/es"><h2>Marzo 2022</h2></Link>
             </div>
 
             <br />

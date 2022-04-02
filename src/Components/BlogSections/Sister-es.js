@@ -34,7 +34,7 @@ function SisterEs() {
 
             <img src={postimg} alt="rocy" id="rocy-img" className="profile-pic" />
 
-            <i>Marzo</i><br /><br />
+            <i>Abril</i><br /><br />
 
                 Hermanita, va la pregunta de este mes:
                 <br /><br />
