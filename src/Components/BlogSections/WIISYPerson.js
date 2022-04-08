@@ -132,7 +132,7 @@ function WIISYPerson() {
                 <b><i>9. What will be your next “What If I Say Yes” moment?</i></b><br /><br />
                 I don't have anything in mind, because as you know, prediction is very difficult, especially if it's about the future, ha-ha.
                 <br /><br />
-                But if I ever have one, I'm more inclined to say: And what if I say yes?
+                But if I ever have one, I'm more inclined to say: <b><i>And what if I say yes?</i></b>
                 <br /><br /><br />
 
                 <b><i>10. What have you learned from the “What If I Say Yes” process?</i></b><br /><br />
