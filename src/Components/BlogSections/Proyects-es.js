@@ -35,10 +35,12 @@ function ProyectsEs() {
 
                 <i>Marzo</i>
                 <br /><br />
-                Cookies finalmente accedió a hacer un video para este sitio web… El único problema es que no se acuerda de cómo se llama este sitio web, ja, ja.
+                A Cookies le gusta mucho mover su cuerpo y en este video nos presenta 20 de sus mejores poses de modelo.
+                <br /><br />
+                ¡Que lo disfruten!
                 <br /><br />
 
-            <ReactPlayer url='https://youtu.be/8I1UchJSccQ' className="post-video" />
+            <ReactPlayer url='https://youtu.be/7wydf4bqa5k' className="post-video" />
 
             ------------------------<br /><br />
             
@@ -49,6 +51,9 @@ function ProyectsEs() {
                 </div>
                 <div id="post-link">
                     <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-daughters-projects/feb22/es"><h2>Febrero</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-daughters-projects/mar22/es"><h2>Marzo</h2></Link>
                 </div>
 
             <br /><br /><br />
