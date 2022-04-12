@@ -33,7 +33,7 @@ function ProyectsEs() {
 
             {/* <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br /> */}
 
-                <i>Marzo</i>
+                <i>Abril</i>
                 <br /><br />
                 A Cookies le gusta mucho mover su cuerpo y en este video nos presenta 20 de sus mejores poses de modelo.
                 <br /><br />
