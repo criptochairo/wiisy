@@ -37,7 +37,7 @@ function Sister() {
 
                 Dear Sister, this month's question is:
                 <br /><br />
-                - What characteristics do you think someone who leads a team of people at work should have?
+                <b>- What characteristics do you think someone who leads a team of people at work should have?</b>
                 <br /><br />
                 <i>- Well, I think it depends on the type of work and how many people there are in your team because the bigger the team you oversee, the more difficult it is to get to know each one of the members in-depth.
                 <br /><br />

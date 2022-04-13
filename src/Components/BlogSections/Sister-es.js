@@ -38,7 +38,7 @@ function SisterEs() {
 
                 Hermanita, va la pregunta de este mes:
                 <br /><br />
-                - ¿Qué características crees que deba de tener alguien que dirige un equipo de personas en el trabajo?
+                <b>- ¿Qué características crees que deba de tener alguien que dirige un equipo de personas en el trabajo?</b>
                 <br /><br />
                 <i>- Pues yo creo que depende del tipo de trabajo y de qué tantas personas haya en tu equipo, porque mientras más grande es el equipo a tu cargo, más difícil es poder conocer a profundidad a cada uno de los integrantes.
                 <br /><br />

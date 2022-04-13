@@ -16,7 +16,7 @@ function Post() {
 
             <i>March</i><br /><br />
 
-                - A question for your sister (the same one I have for all mothers): How to harmoniously combine personal and work projects with motherhood :) ?”
+                - A question for your sister (the same one I have for all mothers): <b>How to harmoniously combine personal and work projects with motherhood :) ?”</b>
                 <br /><br />
                 <i>- I believe that everyone can find the best possible solution according to their own circumstances.
                 <br /><br />

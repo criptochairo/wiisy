@@ -16,7 +16,7 @@ function Post() {
                 
             <i>Marzo</i><br /><br />
 
-                - Una pregunta para tu hermana (es la que tengo para todas las mamás): ¿cómo combinar de manera armónica los proyectos personales y laborales con la maternidad :)?”
+                - Una pregunta para tu hermana (es la que tengo para todas las mamás): <b>¿cómo combinar de manera armónica los proyectos personales y laborales con la maternidad :)?”</b>
                 <br /><br />
                 <i>- Creo que cada quien puede encontrar la mejor solución posible de acuerdo a sus propias circunstancias.
                 <br /><br />
