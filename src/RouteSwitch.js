@@ -61,6 +61,7 @@ import PodPostFeb22 from './Components/BlogSections/Podcast/feb22/feb22';
 
 import PodPostJan22Es from './Components/BlogSections/Podcast/jan22/jan22-es';
 import PodPostFeb22Es from './Components/BlogSections/Podcast/feb22/feb22-es';
+import PodPostMar22Es from './Components/BlogSections/Podcast/mar22/mar22-es';
 
 
 // Book posts ENG
@@ -230,6 +231,7 @@ const RouteSwitch = () => {
         {/* Podcast posts ESP */}
         <Route path="/blog/my-podcast/jan22/es" element={<PodPostJan22Es />} />
         <Route path="/blog/my-podcast/feb22/es" element={<PodPostFeb22Es />} />
+        <Route path="/blog/my-podcast/mar22/es" element={<PodPostMar22Es />} />
 
         {/* Book posts ESP */}
         <Route path="/blog/my-book/jan22/es" element={<BookPostJan22Es />} />
