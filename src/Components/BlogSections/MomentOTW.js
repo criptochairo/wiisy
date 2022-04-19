@@ -3,8 +3,8 @@ import Week from '../../Resources/Icons/week.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import Pic1 from '../../Resources/Pics/MOTW/feb22/1.jpeg';
-import Pic2 from '../../Resources/Pics/MOTW/feb22/2.jpeg';
+import Pic1 from '../../Resources/Pics/MOTW/mar22/1.jpg';
+// import Pic2 from '../../Resources/Pics/MOTW/feb22/2.jpeg';
 
 function MomentOTW() {
     return (
@@ -29,26 +29,16 @@ function MomentOTW() {
             
             ------------------------<br /><br /> 
 
-            <i>February</i> <br /><br />
+            <i>March</i> <br /><br />
 
-            This month Maya and I celebrated our birthdays in style!  
+            <b><i>Maya</i></b>:  
+            This month, I had fun practicing baseball. I felt stronger than I did several years ago. I can now throw the ball farther. Papa and I worked on some fielding, throwing, and hitting on the field. I am so excited to play baseball on a team for the first time in April!  
             <br /><br />
-            We ordered two separate delicious carrot cakes with unique surprise decorations from Vasantha, a local Ithaca, NY cake-making master!  
-            <br /><br />
-            Maya and I selected our respective birthday celebrations as the <i>Moment of the Month</i> for two related reasons:  
-            <br /><br />
-            1) we love carrot cake, and 2) carrot cake was my mother (Mami), Virginia Morales's favorite cake too (Maya's paternal grandma), with whom I shared the same birthday (Feb. 1) and who passed at the young age of 66 in early May 2015.  
-            <br /><br />
-            We miss her very much!  
-            <br /><br />
-            So, in honor of my Mami, Maya and I will make carrot cake, our traditional birthday cake, from here on out!
-            <br /><br />
-            Enjoy our photos too!
-            <br /><br />
+            <b><i>Papa</i></b>:
+            This month, I helped Maya get ready for her first Little league season. We purchased new baseball pants, a belt, a baseball bat, and new cleats at Instant Replay Sports here in Ithaca. We worked on basic running drills, fielding, hitting, and throwing. She showed improvement in her fielding, running, and throwing. Hitting requires more practice and repetition, which will come with time. We went to Cass Park, where many league games will be played despite the drizzling rain and cold winds. Maya will be playing in the Cal Ripken Little league in April and is very excited! I am proud of her and look forward to watching her grow as a baseball player this summer.
 
             <div className="motw-pics">
                 <img src={Pic1} alt="#" />
-                <img src={Pic2} alt="#" />
             </div>
 
             ------------------------<br /><br />
@@ -59,6 +49,9 @@ function MomentOTW() {
                 </div>
                 <div id="post-link">
                     <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/jan22"><h2>January</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/feb22"><h2>February</h2></Link>
                 </div>
 
             <br /><br />

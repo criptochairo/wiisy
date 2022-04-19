@@ -119,12 +119,13 @@ import MomPostMar22Es from './Components/BlogSections/Mom/mar22/mar22-es';
 
 import MOTMPostDec21 from './Components/BlogSections/MOTM/Dec21/dec21';
 import MOTMPostJan22 from './Components/BlogSections/MOTM/Jan22/jan22';
+import MOTMPostFeb22 from './Components/BlogSections/MOTM/Feb22/feb22';
 
 // MOTM posts ESP
 
 import MOTMPostDec21Es from './Components/BlogSections/MOTM/Dec21/dec21-es';
 import MOTMPostJan22Es from './Components/BlogSections/MOTM/Jan22/jan22-es';
-
+import MOTMPostFeb22Es from './Components/BlogSections/MOTM/Feb22/feb22-es';
 
 // POTM posts ENG
 
@@ -218,6 +219,7 @@ const RouteSwitch = () => {
         {/* MOTM posts ENG */}
         <Route path="/blog/moment-of-the-month/dec21" element={<MOTMPostDec21 />} />
         <Route path="/blog/moment-of-the-month/jan22" element={<MOTMPostJan22 />} />
+        <Route path="/blog/moment-of-the-month/feb22" element={<MOTMPostFeb22 />} />
 
         {/* WIISY posts ENG */}
         <Route path="/blog/person-of-the-month/jan22" element={<POTMJan22 />} />
@@ -257,7 +259,7 @@ const RouteSwitch = () => {
         {/* MOTM posts ESP */}
         <Route path="/blog/moment-of-the-month/dec21/es" element={<MOTMPostDec21Es />} />
         <Route path="/blog/moment-of-the-month/jan22/es" element={<MOTMPostJan22Es />} />        
-
+        <Route path="/blog/moment-of-the-month/feb22/es" element={<MOTMPostFeb22Es />} />
 
         {/* WIISY posts ESP */}
         <Route path="/blog/person-of-the-month/jan22/es" element={<POTMJan22Es />} />

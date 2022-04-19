@@ -3,8 +3,8 @@ import Week from '../../Resources/Icons/week.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import NavEs from "../../Nav-es";
-import Pic1 from '../../Resources/Pics/MOTW/feb22/1.jpeg';
-import Pic2 from '../../Resources/Pics/MOTW/feb22/2.jpeg';
+import Pic1 from '../../Resources/Pics/MOTW/mar22/1.jpg';
+// import Pic2 from '../../Resources/Pics/MOTW/feb22/2.jpeg';
 
 function MomentOTWEs() {
     return (
@@ -29,26 +29,17 @@ function MomentOTWEs() {
             <br /><br />
             ------------------------<br /><br />
 
-            <i>Febrero</i> <br /><br />
+            <i>Marzo</i> <br /><br />
 
-            ¡Este mes Maya y yo celebramos nuestros cumpleaños con estilo!
+            <b><i>Maya</i></b>:  
+            Este mes me divertí practicando béisbol. Me sentí más fuerte que hace varios años. Ahora puedo lanzar la pelota más lejos. Papá y yo trabajamos en fildear, lanzar y batear en el campo. ¡Estoy muy emocionada de jugar béisbol en un equipo por primera vez en abril! 
             <br /><br />
-            ¡Ordenamos dos deliciosos pasteles de zanahoria, uno para cada quien, con decoraciones sorpresa únicas de Vasantha, una excelente repostera de Ithaca, Nueva York!
-            <br /><br />
-            Maya y yo elegimos nuestras respectivas celebraciones de cumpleaños como <i>El Momento del Mes</i> por dos razones:
-            <br /><br />
-            1) nos encanta el pastel de zanahoria, y 2) el pastel de zanahoria era el pastel favorito de mi Mami, Virginia Morales (la abuela paterna de Maya). Compartíamos el mismo cumpleaños (1 de febrero). Ella falleció, a principios de mayo de 2015, a la corta edad de 66 años. 
-            <br /><br />
-            ¡La extrañamos mucho!
-            <br /><br />
-            Entonces, en honor a mi Mami, el pastel de zanahoria será de ahora en adelante nuestro tradicional pastel de cumpleaños.
-            <br /><br />
-            ¡Disfruten también de nuestras fotos!
-            <br /><br />
+            <b><i>Papá</i></b>:
+            Este mes ayudé a Maya a prepararse para su primera temporada en las ligas menores. Compramos nuevos pantalones de béisbol, un cinturón, un bate de béisbol y nuevos tacos en Instant Replay Sports aquí en Ithaca. Trabajamos en ejercicios básicos de carrera, fildeo, bateo y lanzamiento. Mostró una mejora en su fildeo, carrera y lanzamiento. Golpear requiere más práctica y repetición, lo cual vendrá con el tiempo. A pesar de la lluvia torrencial y los vientos fríos fuimos a Cass Park, donde se jugarán muchos partidos de la liga. ¡Maya jugará en las ligas menores de Cal Ripken en abril y está muy emocionada! Estoy orgulloso de ella y espero verla crecer como jugadora de béisbol este verano.
+
 
             <div className="motw-pics">
                 <img src={Pic1} alt="#" />
-                <img src={Pic2} alt="#" />
             </div>
 
             ------------------------<br /><br />
@@ -59,6 +50,9 @@ function MomentOTWEs() {
                 </div>
                 <div id="post-link">
                     <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/jan22/es"><h2>Enero</h2></Link>
+                </div>
+                <div id="post-link">
+                    <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/moment-of-the-month/feb22/es"><h2>Febrero</h2></Link>
                 </div>
 
             <br /><br />

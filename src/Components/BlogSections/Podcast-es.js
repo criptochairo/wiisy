@@ -41,10 +41,10 @@ function PodcastEs() {
 
                 <img src={postimg} alt="wiisy-logo" className="profile-pic" />
 
-                <i>Marzo del 2022</i>
+                <i>Abril del 2022</i>
                 <br /><br />
 
-                El 12 de abril del 2022 publiqué el <b>Episodio #2: Palabras que prometen.</b>.
+                El 12 de abril del 2022 publiqué el <b>Episodio #2: Palabras que prometen.</b>
                 <br /><br />
                 Les hablo de mi relación con Carlos y de cómo se fue desarrollando hasta llegar a la propuesta de matrimonio y la planeación de la boda. Todo esto con la idea de darles un poco de contexto antes de leerles lo que le escribí a mi Carlos como mis votos de matrimonio.
                 <br /><br />
