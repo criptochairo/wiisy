@@ -3,7 +3,9 @@ import Microphone from '../../Resources/Icons/microphone.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-import postimg from '../../Resources/Pics/Podcast/Feb22/feb22.jpg';
+import postimg from '../../Resources/Pics/Podcast/Apr22/apr1.jpg';
+import postimg2 from '../../Resources/Pics/Podcast/Apr22/apr2.jpg';
+import postimg3 from '../../Resources/Pics/Podcast/Apr22/apr3.jpg';
 
 
 function Podcast() {
@@ -40,18 +42,24 @@ function Podcast() {
 
                     <img src={postimg} alt="wiisy-logo" className="profile-pic" /><br />
 
-                    <i>March</i>
+                    <i>April</i>
                     <br /><br />
 
-                    On March 13, 2022 I published <b>Episode #1: Words that Inspire</b>. 
+                    On April 19, 2022 I published <b>Episode #2: Words That Promise</b>. 
                     <br /><br />
-                    I tell you about the text that has inspired me to do many creative things and live life to the fullest. The text was written by my brother Héctor titled “What if I Say Yes?”
+                    In this episode, I tell you how and when I met my Carlos, how our relationship evolved, and finally, how we got to our two weddings, the civil and the one we created and held at a restaurant called Rosa Mexicano in New York City.
                     <br /><br />
+                    I talk about all these details to give you some context before you hear me reading the marriage vows I wrote to my now-husband.
+                    <br /><br />
+
+                    <img src={postimg2} alt="wiisy-logo" className="profile-pic" /><br />
+                    <img src={postimg3} alt="wiisy-logo" className="profile-pic" /><br />
+
                     <ul>
-                        <li><a href="https://anchor.fm/lucia-cardenas/episodes/Episode-1---Words-That-Inspire-e1flutg" target="_blank" rel="noreferrer">Anchor</a></li><br />
-                        <li><a href="https://open.spotify.com/episode/4phiV26RUddOVBsybHxWdj" target="_blank" rel="noreferrer">Spotify</a></li><br />
-                        <li><a href="https://podcasts.apple.com/mx/podcast/episode-1-words-that-inspire/id1608798314?i=1000553894014" target="_blank" rel="noreferrer">Apple Podcasts</a></li><br />
-                        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw/episode/NDIwZjM3YjAtYTZkMS00ODgwLWExZWMtMWJlNWJiMzJiYzM1?sa=X&ved=0CAUQkfYCahcKEwj4yp7Vg872AhUAAAAAHQAAAAAQAQ" target="_blank" rel="noreferrer">Google Podcasts</a></li>
+                        <li><a href="https://anchor.fm/lucia-cardenas/episodes/Episode-2---Words-That-Promise-e1hcv8n" target="_blank" rel="noreferrer">Anchor</a></li><br />
+                        <li><a href="https://open.spotify.com/episode/3Nl22ZtQh4mle1BRXIPzMB" target="_blank" rel="noreferrer">Spotify</a></li><br />
+                        <li><a href="https://podcasts.apple.com/mx/podcast/episode-2-words-that-promise/id1608798314?i=1000558069844" target="_blank" rel="noreferrer">Apple Podcasts</a></li><br />
+                        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwjIpb70q6H3AhUAAAAAHQAAAAAQCg" target="_blank" rel="noreferrer">Google Podcasts</a></li>
                     </ul>   
 
                     <br /><br />
@@ -65,6 +73,9 @@ function Podcast() {
                     </div>
                     <div id="post-link">
                         <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-podcast/feb22"><h2>February</h2></Link>
+                    </div>
+                    <div id="post-link">
+                        <Link className="link" style={{ color: 'black', textAlign: 'center' }} to="/blog/my-podcast/mar22"><h2>March</h2></Link>
                     </div>
 
                 <br /><br />

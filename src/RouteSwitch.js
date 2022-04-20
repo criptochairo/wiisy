@@ -56,6 +56,7 @@ import PhPostJan22Es from './Components/BlogSections/Photography/jan22/Jan22-es'
 
 import PodPostJan22 from './Components/BlogSections/Podcast/jan22/jan22';
 import PodPostFeb22 from './Components/BlogSections/Podcast/feb22/feb22';
+import PodPostMar22 from './Components/BlogSections/Podcast/mar22/mar22';
 
 // Podcast posts ESP
 
@@ -194,6 +195,7 @@ const RouteSwitch = () => {
         {/* Podcast posts ENG */}
         <Route path="/blog/my-podcast/jan22" element={<PodPostJan22 />} />
         <Route path="/blog/my-podcast/feb22" element={<PodPostFeb22 />} />
+        <Route path="/blog/my-podcast/mar22" element={<PodPostMar22 />} />
 
         {/* Book posts ENG */}
         <Route path="/blog/my-book/jan22" element={<BookPostJan22 />} />

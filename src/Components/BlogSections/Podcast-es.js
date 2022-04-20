@@ -57,7 +57,7 @@ function PodcastEs() {
                     <li><a href="https://anchor.fm/lucia-cardenas/episodes/Episodio-2---Palabras-que-prometen-e1h3qg7" target="_blank" rel="noreferrer">Anchor</a></li><br />
                     <li><a href="https://open.spotify.com/episode/6Ag9C9FouiQh4zHR5diRTg" target="_blank" rel="noreferrer">Spotify</a></li><br />
                     <li><a href="https://podcasts.apple.com/mx/podcast/episodio-2-palabras-que-prometen/id1608798314?i=1000557413115" target="_blank" rel="noreferrer">Apple Podcasts</a></li><br />
-                    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwjIpISgkJL3AhUAAAAAHQAAAAAQAQ" target="_blank" rel="noreferrer">Google Podcasts</a></li>
+                    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MWRmNzY3Yy9wb2RjYXN0L3Jzcw/episode/YWNmYzkzOTQtOTgyOC00M2U0LWE0NzYtOTcxMWE5ZDFjMjMy?sa=X&ved=0CAUQkfYCahcKEwjIpb70q6H3AhUAAAAAHQAAAAAQAQ" target="_blank" rel="noreferrer">Google Podcasts</a></li>
                 </ul>
 
                 <br /><br />
