@@ -21,7 +21,7 @@ function Jan22() {
 
             
             <h1>Ana Laura</h1><br />
-                    
+                <p className="content-text">    
                 <br /><br />
                 Ana Laura (I call her Aniux) was married to my eldest brother, but I still call her my sister-in-law :)
                 <br /><br />
@@ -184,7 +184,7 @@ function Jan22() {
             </div>
 
             <Link className="link" style={{ color: 'black', fontSize: '80%', marginTop: '1.5em'}} to="/blog/person-of-the-month/"><h2>Back to Person of the Month</h2></Link>
-
+            </p>
             <GoTop />
         </div> 
     </div>

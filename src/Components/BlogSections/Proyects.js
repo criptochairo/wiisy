@@ -4,7 +4,6 @@ import Mom from '../../Resources/Icons/motherhood.png';
 import { Link } from "react-router-dom";
 import GoTop from "../GoTop";
 import Nav from "../../Nav";
-// import postimg from '../../Resources/Pics/Projects/feb22.JPG';
 
 
 function Proyects() {
