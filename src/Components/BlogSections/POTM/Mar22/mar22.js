@@ -19,9 +19,9 @@ function Jan22() {
             
             <img src={ana4} alt="bankky" id="bankky-img" className="profile-pic" />
 
-            
             <h1>Ana Laura</h1><br />
-                <p className="content-text">    
+            <p className="content-text"> 
+               
                 <br /><br />
                 Ana Laura (I call her Aniux) was married to my eldest brother, but I still call her my sister-in-law :)
                 <br /><br />

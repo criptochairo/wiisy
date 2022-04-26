@@ -19,10 +19,10 @@ function Jan22() {
             
             <img src={ana4} alt="bankky" id="bankky-img" className="profile-pic" />
 
-            <h1>Ana Laura</h1>
+            <h1>Ana Laura</h1><br />
+            <p className="content-text">
                     
                 <br /><br />
-
                 Ana Laura (yo la llamo Aniux) estuvo casada con mi hermano mayor, pero yo la sigo llamando cuñada :)
                 <br /><br />
                 Quise que fuera la “Persona <i>¿Y si digo que sí?</i>” de este mes porque ella nació en marzo. Esto es como mi regalo de cumpleaños para ella.
@@ -180,7 +180,7 @@ function Jan22() {
             </div>
 
             <Link className="link" style={{ color: 'black', fontSize: '80%', marginTop: '1.5em'}} to="/blog/person-of-the-month/es/"><h2>Regresar</h2></Link>
-
+            </p>
             <GoTop />
         </div> 
     </div>
